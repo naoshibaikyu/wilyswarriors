@@ -1,12 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-    <meta charset="UTF-8"/>
-</head>
-
-<body>
-
-<div id="sourceDiv" style="display: none">
 Galaxy2: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
 Hornet3: oh piss off
@@ -38,12 +29,4 @@ Splash: thats our hotdog man!!
 [Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.htm)
 
 
-
-</div>
-</p>
-<div id="targetDiv"></div>
-
 <script src="scripts/mugshots.js"></script>
-
-</body>
-</html>
