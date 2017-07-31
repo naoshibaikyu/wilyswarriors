@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+</head>
 
-You can use the [editor on GitHub](https://github.com/naoshibaikyu/cyborgresistance/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="sourceDiv" style="display: none">
+Galaxy2: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
-### Markdown
+Hornet3: oh piss off
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Magma4: stop hornet
 
-```markdown
-Syntax highlighted code block
+Hornet: no im back on my bullshit
 
-# Header 1
-## Header 2
-### Header 3
+Magma3: were you ever not
 
-- Bulleted
-- List
+Hornet2: exactly
 
-1. Numbered
-2. List
+Fake: lol
 
-**Bold** and _Italic_ and `Code` text
+Concrete6: ...
 
-[Link](url) and ![Image](src)
-```
+Jewel: where is that damn fourth chaos emerald
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Plug: damn not here
 
-### Jekyll Themes
+Tornado: acquiring help. danger.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naoshibaikyu/cyborgresistance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Splash: thats our hotdog man!!
 
-### Support or Contact
+**Links:**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.htm)
+
+[Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.htm)
+
+
+
+</div>
+</p>
+<div id="targetDiv"></div>
+
+<script src="scripts/mugshots.js"></script>
+
+</body>
+</html>
