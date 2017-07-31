@@ -29,4 +29,4 @@ Splash: thats our hotdog man!!
 [Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.htm)
 
 
-<script src="scripts/mugshots.js"></script>
+<script src="assets/js/mugshots.js"></script>
