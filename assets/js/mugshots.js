@@ -51,8 +51,11 @@ var directory = "./assets/images/mugshots/";
 					suffix = " Man";
 			}
 
-			document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./assets/images/mugshots/hornetdefault.png> <b>Hornet Man:</b>'); //Normal
+			document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./assets/images/mugshots/hornetoriginal.png> <b>Hornet Man:</b>'); //Normal
 			document.body.innerHTML = document.body.innerHTML.replace("/" + str + "/gi", "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"); //Normal
+			alert("/" + str + "/gi");
+			alert("<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>");
+			break;
 		}
 	}
 

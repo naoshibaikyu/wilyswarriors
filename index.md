@@ -1,18 +1,18 @@
-Galaxy2: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
+Galaxy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
-Hornet3: oh piss off
+Hornet: oh piss off
 
-Magma4: stop hornet
+Magma: stop hornet
 
-Hornet: no im back on my bullshit
+Hornet[Pissed]: no im back on my bullshit
 
-Magma3: were you ever not
+Magma[Shocked]: were you ever not
 
-Hornet2: exactly
+Hornet[Shocked]: exactly
 
 Fake: lol
 
-Concrete6: ...
+Concrete[Aloof]: ...
 
 Jewel: where is that damn fourth chaos emerald
 
