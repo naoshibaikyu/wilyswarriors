@@ -52,8 +52,7 @@ var directory = "./assets/images/mugshots/";
 			}
 
 			document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./assets/images/mugshots/hornetdefault.png> <b>Hornet Man:</b>'); //Normal
-			document.body.innerHTML = document.body.innerHTML.replace("/" + str + ":/gi", "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"); //Normal
-			alert("/" + str + ":/gi");
+			document.body.innerHTML = document.body.innerHTML.replace("/" + str + "/gi", "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"); //Normal
 		}
 	}
 
