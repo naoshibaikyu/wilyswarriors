@@ -58,7 +58,6 @@ var directory = "./assets/images/mugshots/";
 		}
 	}
 
-
 //Format
 	document.body.style.backgroundColor = "#101010";
 	document.body.style.color = "#C0C0C0";
