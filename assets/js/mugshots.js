@@ -55,8 +55,6 @@ var directory = "./assets/images/mugshots/";
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace); //Normal
-
-			alert(find);
 		}
 	}
 
