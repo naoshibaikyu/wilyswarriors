@@ -25,7 +25,7 @@ var directory = "./assets/images/mugshots/";
 		aloof:"[Aloof]",
 	};
 
-alert("test2");
+
 	//Look at all name/emote combinations
 	for (var nameKey in names)
 	{
@@ -51,9 +51,9 @@ alert("test2");
 					suffix = " Man";
 			}
 
-				document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./images/mugshots/hornetdefault.png> <b>Hornet Man:</b>'); //Normal
-				document.body.innerHTML = document.body.innerHTML.replace("/" + str + ":/gi", "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"); //Normal
-
+			document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./assets/images/mugshots/hornetdefault.png> <b>Hornet Man:</b>'); //Normal
+			document.body.innerHTML = document.body.innerHTML.replace("/" + str + ":/gi", "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"); //Normal
+			alert("/" + str + ":/gi");
 		}
 	}
 
