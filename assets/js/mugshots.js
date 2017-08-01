@@ -1,11 +1,11 @@
-
+var directory = "../assets/images/mugshots/";
 
 //Instances of where a character has an image attached to their name. Along with bolding the name.
 
 //Cyborg Resistance Members
 
 //Concrete Man
-	document.body.innerHTML = document.body.innerHTML.replace(/Concrete:/gi, '<img src=../assets/images/mugshots/Concrete1.png> <b>Concrete Man:</b>'); //Normal
+	document.body.innerHTML = document.body.innerHTML.replace(/Concrete:/gi, '<img src=' + directory + 'Concrete1.png> <b>Concrete Man:</b>'); //Normal
 	document.body.innerHTML = document.body.innerHTML.replace(/Concrete [Happy]:/gi, '<img src=../assets/images/mugshots/Concrete2.png> <b>Concrete Man:</b>'); //Happy
 	document.body.innerHTML = document.body.innerHTML.replace(/Concrete [Glare]:/gi, '<img src=../assets/images/mugshots/Concrete3.png> <b>Concrete Man:</b>'); //Glare
 	document.body.innerHTML = document.body.innerHTML.replace(/Concrete [Angry]:/gi, '<img src=../assets/images/mugshots/Concrete4.png> <b>Concrete Man:</b>'); //Angry
@@ -57,7 +57,7 @@
 	document.body.innerHTML = document.body.innerHTML.replace(/Fake [Shocked]:/gi, '<img src=../assets/images/mugshots/Fake5.png> <b>Fakette:</b>'); //Shocked
 	
 //Jewel Woman
-	document.body.innerHTML = document.body.innerHTML.replace(/Jewel:/gi, '<img src=../assets/images/mugshots/Jewel1.png> <b>Jewel Woman:</b>'); //Normal
+	document.body.innerHTML = document.body.innerHTML.replace(/Jewel:/gi, '<img src=./assets/images/mugshots/Jewel1.png> <b>Jewel Woman:</b>'); //Normal
 	document.body.innerHTML = document.body.innerHTML.replace(/Jewel [Happy]:/gi, '<img src=../assets/images/mugshots/Jewel2.png> <b>Jewel Woman:</b>'); //Happy
 	document.body.innerHTML = document.body.innerHTML.replace(/Jewel [Glare]:/gi, '<img src=../assets/images/mugshots/Jewel3.png> <b>Jewel Woman:</b>'); //Glare
 	document.body.innerHTML = document.body.innerHTML.replace(/Jewel [Angry]:/gi, '<img src=../assets/images/mugshots/Jewel4.png> <b>Jewel Woman:</b>'); //Angry
