@@ -1,4 +1,4 @@
-var directory = "../assets/images/mugshots/";
+var directory = "./assets/images/mugshots/";
 
 //Instances of where a character has an image attached to their name. Along with bolding the name.
 
