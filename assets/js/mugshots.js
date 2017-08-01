@@ -17,25 +17,24 @@ var directory = "./assets/images/mugshots/";
 	};
 
 	var emotes = {original:"",
-		happy:"(Happy)",
-		glare:"(Glare)",
-		angry:"(Angry)",
-		shocked:"(Shocked)",
-		pissed:"(Pissed)",
-		aloof:"(Aloof)",
+		happy:"Happy",
+		glare:"Glare",
+		angry:"Angry",
+		shocked:"Shocked",
+		pissed:"Pissed",
+		aloof:"Aloof",
 	};
 
-
+	//TODO: make it work with brackets and spaces between the name and emote
 	//Look at all name/emote combinations
 	for (var nameKey in names)
 	{
 		for (var emoteKey in emotes)
 		{
 			var str = names[nameKey] + emotes[emoteKey] + ":";
-
 			var suffix = "";
 
-			//Check suffix
+			//Insert name suffix
 			switch(nameKey)
 			{
 				case "jewel":
@@ -54,7 +53,8 @@ var directory = "./assets/images/mugshots/";
 			var find = new RegExp(str, "gi");
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
-			document.body.innerHTML = document.body.innerHTML.replace(find, replace); //Normal
+			//TODO: check and see if replace path exists, if not, bold name and continue, else...
+			document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 		}
 	}
 

@@ -6,15 +6,15 @@ Hornet: oh piss off
 
 Magma: stop hornet
 
-Hornet(Pissed): no im back on my bullshit
+HornetPissed): no im back on my bullshit
 
-Magma(Shocked): were you ever not
+MagmaShocked): were you ever not
 
-Hornet(Shocked): exactly
+HornetShocked): exactly
 
 Fake: lol
 
-Concrete(Aloof): ...
+ConcreteAloof): ...
 
 Jewel: where is that damn fourth chaos emerald
 
