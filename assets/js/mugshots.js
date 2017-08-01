@@ -25,6 +25,8 @@ var directory = "./assets/images/mugshots/";
 		aloof:"[Aloof]",
 	};
 
+	alert("test");
+
 	//Look at all name/emote combinations
 	for (var nameKey in names)
 	{
