@@ -50,7 +50,7 @@ var directory = "./assets/images/mugshots/";
 					suffix = " Man";
 			}
 
-			document.body.innerHTML = document.body.innerHTML.replace("/" + str + ":/gi", "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"); //Normal
+			document.body.innerHTML = document.body.innerHTML.replace("/Hornet:/gi", "fart"); //Normal
 		}
 	}
 
