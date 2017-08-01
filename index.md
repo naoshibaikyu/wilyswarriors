@@ -26,6 +26,8 @@ Splash: thats our hotdog man!!
 
 Narrator: and that's how ya play duck hunt
 
+magma: farts
+
 **Links:**
 
 [Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.htm)
