@@ -17,12 +17,12 @@ var directory = "./assets/images/mugshots/";
 	};
 
 	var emotes = {original:"",
-		happy:"\[Happy\]",
-		glare:"\[Glare\]",
-		angry:"\[Angry\]",
-		shocked:"\[Shocked\]",
-		pissed:"\[Pissed\]",
-		aloof:"\[Aloof\]",
+		happy:"(Happy)",
+		glare:"(Glare)",
+		angry:"(Angry)",
+		shocked:"(Shocked)",
+		pissed:"(Pissed)",
+		aloof:"(Aloof)",
 	};
 
 
