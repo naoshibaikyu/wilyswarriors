@@ -1,5 +1,7 @@
 Galaxy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
+Concrete: wubby wuzzle mop stop
+
 Hornet: oh piss off
 
 Magma: stop hornet
