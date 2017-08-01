@@ -20,12 +20,12 @@ var directory = "./assets/images/mugshots/";
 	document.body.innerHTML = document.body.innerHTML.replace(/Magma [Shocked]:/gi, '<img src=' + directory + 'Magma5.png> <b>Magma Man:</b>'); //Shocked
 
 //Hornet Man
-	document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=' + directory + 'Hornet1.png> <b>Hornet Man:</b>'); //Normal
+	document.body.innerHTML.replace(/Hornet:/gi, '<img src=' + directory + 'Hornet1.png> <b>Hornet Man:</b>'); //Normal
 	document.body.innerHTML = document.body.innerHTML.replace(/Hornet [Happy]:/gi, '<img src=' + directory + 'Hornet2.png> <b>Hornet Man:</b>'); //Rolling Eyes. Note how it's impossible for him to be happy so he breaks the pattern
 	document.body.innerHTML = document.body.innerHTML.replace(/Hornet [Glare]:/gi, '<img src=' + directory + 'Hornet3.png> <b>Hornet Man:</b>'); //Glare
 	document.body.innerHTML = document.body.innerHTML.replace(/Hornet [Angry]:/gi, '<img src=' + directory + 'Hornet4.png> <b>Hornet Man:</b>'); //Angry
 	document.body.innerHTML = document.body.innerHTML.replace(/Hornet [Shocked]:/gi, '<img src=' + directory + 'Hornet5.png> <b>Hornet Man:</b>'); //Shocked
-	document.body.innerHTML = document.body.innerHTML.replace(/Hornet6:/gi, '<img src=' + directory + 'Hornet6.png> <b>Hornet Man:</b>'); //HARDCORE ANGRER
+	document.body.innerHTML = document.body.innerHTML.replace(/Hornet [Pissed]:/gi, '<img src=' + directory + 'Hornet6.png> <b>Hornet Man:</b>'); //Pissed
 	
 //Galaxy Man
 	document.body.innerHTML = document.body.innerHTML.replace(/Galaxy:/gi, '<img src=' + directory + 'Galaxy1.png> <b>Galaxy Man:</b>'); //Normal
@@ -33,7 +33,7 @@ var directory = "./assets/images/mugshots/";
 	document.body.innerHTML = document.body.innerHTML.replace(/Galaxy [Glare]:/gi, '<img src=' + directory + 'Galaxy3.png> <b>Galaxy Man:</b>'); //Glare
 	document.body.innerHTML = document.body.innerHTML.replace(/Galaxy [Angry]:/gi, '<img src=' + directory + 'Galaxy4.png> <b>Galaxy Man:</b>'); //Angry
 	document.body.innerHTML = document.body.innerHTML.replace(/Galaxy [Shocked]:/gi, '<img src=' + directory + 'Galaxy5.png> <b>Galaxy Man:</b>'); //Shocked
-	document.body.innerHTML = document.body.innerHTML.replace(/Galaxy [Frown]:/gi, '<img src=' + directory + 'Galaxy6.png> <b>Galaxy Man:</b>'); //>:(
+	document.body.innerHTML = document.body.innerHTML.replace(/Galaxy [Pissed]:/gi, '<img src=' + directory + 'Galaxy6.png> <b>Galaxy Man:</b>'); //Pissed
 	
 //Plug Man
 	document.body.innerHTML = document.body.innerHTML.replace(/Plug:/gi, '<img src=' + directory + 'Plug1.png> <b>Plug Man:</b>'); //Normal
@@ -76,9 +76,7 @@ var directory = "./assets/images/mugshots/";
 
 //No image
 	document.body.innerHTML = document.body.innerHTML.replace(/Narrator:/gi, '<b>Narrator:</b>');
-	
 
-	
 //Format
 	document.body.style.backgroundColor = "#101010";
 	document.body.style.color = "#C0C0C0";
