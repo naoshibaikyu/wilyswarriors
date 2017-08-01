@@ -51,13 +51,13 @@ var directory = "./assets/images/mugshots/";
 					suffix = " Man";
 			}
 
-			var find = "/" + str + "/gi";
+			var find = new RegExp(str, "gi");
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
-
+			
 			document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./assets/images/mugshots/hornetoriginal.png> <b>Hornet Man:</b>'); //Normal
-			document.body.innerHTML = document.body.innerHTML.replace("/Concrete:/gi", "fart"); //Normal
+			document.body.innerHTML = document.body.innerHTML.replace(find, "fart"); //Normal
 			alert(find);
-			alert("test");
+			alert("test2");
 			break;
 		}
 		break;
