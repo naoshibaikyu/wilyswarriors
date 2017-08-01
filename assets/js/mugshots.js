@@ -55,9 +55,9 @@ var directory = "./assets/images/mugshots/";
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 
 			document.body.innerHTML = document.body.innerHTML.replace(/Hornet:/gi, '<img src=./assets/images/mugshots/hornetoriginal.png> <b>Hornet Man:</b>'); //Normal
-			document.body.innerHTML = document.body.innerHTML.replace(/Concrete:/gi, "fart"); //Normal
+			document.body.innerHTML = document.body.innerHTML.replace("/Concrete:/gi", "fart"); //Normal
 			alert(find);
-			alert(replace);
+			alert("test");
 			break;
 		}
 		break;
