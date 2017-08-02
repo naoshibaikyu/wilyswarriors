@@ -28,6 +28,7 @@ var directory = "./assets/images/mugshots/";
 		scared:"Scared",
 		nani:"Nani",
 		snicker:"Snicker",
+		hey:"hey",
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote
