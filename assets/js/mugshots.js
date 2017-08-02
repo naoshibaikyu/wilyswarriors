@@ -64,15 +64,13 @@ var directory = "./assets/images/mugshots/";
 				function()
 				{  
 					var replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
-					document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 				}, 
 				function()
 				{ 
 					var replace = "<b>" + names[nameKey] + suffix + ":</b>";
-					document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 				});
 
-			var replace = "<img src=" + imagePath + ".png> <b>" + names[nameKey] + suffix + ":</b>";
+			replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);
