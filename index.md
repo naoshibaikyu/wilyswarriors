@@ -12,7 +12,7 @@ MagmaAnnoyed: were you ever not
 
 Hornet: exactly
 
-FakeSnicker: lmao
+FakeSnicker: lol.
 
 ConcreteAloof: ...
 
