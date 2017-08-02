@@ -60,7 +60,7 @@ var directory = "./assets/images/mugshots/";
 				alert(imagePath + " not found");
 			}
 
-			alert ("test");
+			alert("test");
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
