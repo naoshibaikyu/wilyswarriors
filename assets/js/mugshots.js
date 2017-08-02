@@ -18,7 +18,7 @@ var directory = "./assets/images/mugshots/";
 
 	var emotes = {original:"",
 		happy:"Happy",
-		annoy:"Annoyed",
+		annoyed:"Annoyed",
 		angry:"Angry",
 		shocked:"Shocked",
 		pissed:"Pissed",
