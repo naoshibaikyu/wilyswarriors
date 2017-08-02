@@ -52,7 +52,16 @@ var directory = "./assets/images/mugshots/";
 
 			var find = new RegExp(str, "gi");
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
-			
+
+			function checkImage(imageSrc, good, bad) {
+			    var img = new Image();
+			    img.onload = good; 
+			    img.onerror = bad;
+			    img.src = imageSrc;
+			}
+
+			checkImage(imagePath, function(){ alert("good"); }, function(){ alert("bad"); } );
+
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
