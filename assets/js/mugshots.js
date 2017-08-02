@@ -22,6 +22,7 @@ var directory = "./assets/images/mugshots/";
 		angry:"Angry",
 		shocked:"Shocked",
 		pissed:"Pissed",
+		glare:"Glare",
 		aloof:"Aloof",
 		giddy:"Giddy",
 		scared:"Scared",
