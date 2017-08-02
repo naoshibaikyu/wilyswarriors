@@ -18,11 +18,15 @@ var directory = "./assets/images/mugshots/";
 
 	var emotes = {original:"",
 		happy:"Happy",
-		glare:"Glare",
+		annoy:"Annoyed",
 		angry:"Angry",
 		shocked:"Shocked",
 		pissed:"Pissed",
 		aloof:"Aloof",
+		giddy:"Giddy",
+		scared:"Scared",
+		nani:"Nani",
+		snicker:"Snicker",
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote
