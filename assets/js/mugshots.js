@@ -53,14 +53,18 @@ var directory = "./assets/images/mugshots/";
 			var find = new RegExp(str, "gi");
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-			function checkImage(imageSrc, good, bad) {
+			function imageExists(imageSrc) {
 			    var img = new Image();
-			    img.onload = good; 
-			    img.onerror = bad;
+			    img.onload = return false; 
+			    img.onerror = return true;
 			    img.src = imageSrc;
 			}
 
-			checkImage(imagePath, function(){  }, function(){ alert("bad: " + imagePath); } );
+			//checkImage(imagePath, function(){  }, function(){ alert("bad: " + imagePath); } );
+			if (imageExists(imagePath) == false)
+			{
+				alert("no good: " + imagePath);
+			}
 
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
