@@ -51,8 +51,9 @@ var directory = "./assets/images/mugshots/";
 			}
 
 			var find = new RegExp(str, "gi");
-			var replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
+			
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
+			var replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 
 			function checkImage(imageSrc, good) {
 			    var img = new Image();
