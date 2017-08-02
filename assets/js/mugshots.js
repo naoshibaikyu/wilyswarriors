@@ -51,6 +51,7 @@ var directory = "./assets/images/mugshots/";
 			}
 
 			var find = new RegExp(str, "gi");
+			var replace;
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
 
 			function checkImage(imageSrc, good, bad) {
@@ -63,14 +64,14 @@ var directory = "./assets/images/mugshots/";
 			checkImage(imagePath, 
 				function()
 				{  
-					var replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
+					replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 				}, 
 				function()
 				{ 
-					var replace = "<b>" + names[nameKey] + suffix + ":</b>";
+					replace = "<b>" + names[nameKey] + suffix + ":</b>";
 				});
 
-			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
+			replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);
