@@ -1,32 +1,32 @@
-Galaxy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
+GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
-Concrete: wubby wuzzle mop stop
+ConcreteAloof: wubby wuzzle mop stop
 
 Hornet: oh piss off
 
 Magma: stop hornet
 
-HornetPissed: no im back on my bullshit
+HornetGlare: no im back on my bullshit
 
-MagmaShocked: were you ever not
+MagmaAnnoyed: were you ever not
 
-HornetShocked: exactly
+Hornet: exactly
 
-Fake: lol
+FakeSnicker: lol
 
 ConcreteAloof: ...
 
 Jewel: where is that damn fourth chaos emerald
 
-Plug: damn not here
+PlugAnnoyed: damn not here
 
 Tornado: acquiring help. danger.
 
-Splash: thats our hotdog man!!
+SplashHappy: thats our hotdog man!!
 
 Narrator: and that's how ya play duck hunt
 
-magma: farts
+MagmaGiddy: farts
 
 **Links:**
 
