@@ -53,21 +53,23 @@ var directory = "./assets/images/mugshots/";
 			var find = new RegExp(str, "gi");
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-			function imageExists(imageSrc) {
+			function checkImage(imageSrc, good, bad) {
 			    var img = new Image();
-			    img.onload = return false; 
-			    img.onerror = return true;
+			    img.onload = good; 
+			    img.onerror = bad;
 			    img.src = imageSrc;
 			}
 
-			//checkImage(imagePath, function(){  }, function(){ alert("bad: " + imagePath); } );
-			if (imageExists(imagePath) == false)
-			{
-				alert("no good: " + imagePath);
-			}
+			checkImage(imagePath, 
+				function()
+				{  
+					var replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
+				}, 
+				function()
+				{ 
+					var replace = "<b>" + names[nameKey] + suffix + ":</b>";
+				});
 
-			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
-			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 		}
