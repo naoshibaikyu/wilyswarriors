@@ -60,7 +60,7 @@ var directory = "./assets/images/mugshots/";
 			    img.src = imageSrc;
 			}
 
-			checkImage(imagePath, function(){ alert("good"); }, function(){ alert("bad"); } );
+			checkImage(imagePath, function(){  }, function(){ alert("bad: " + imagePath); } );
 
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
