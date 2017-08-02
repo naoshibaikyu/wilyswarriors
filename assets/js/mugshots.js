@@ -51,6 +51,14 @@ var directory = "./assets/images/mugshots/";
 			}
 
 			var find = new RegExp(str, "gi");
+			var imagePath = directory + nameKey + emoteKey + ".png"; 
+			var file = new ActiveXObject("Scripting.FileSystemObject");
+
+			//Checks if there is an image that matches the name and emote
+			if (!file.FolderExists(imagePath))
+			{
+				alert(imagePath + " not found");
+			}
 			var replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>"
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
