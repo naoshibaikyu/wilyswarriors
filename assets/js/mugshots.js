@@ -72,7 +72,10 @@ var directory = "./assets/images/mugshots/";
 					document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 				});
 
+			var replace = "<img src=" + imagePath + ".png> <b>" + names[nameKey] + suffix + ":</b>";
+			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
+			document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 		}
 	}
 
