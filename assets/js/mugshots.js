@@ -71,7 +71,7 @@ var directory = "./assets/images/mugshots/";
 					var replace = "<b>" + names[nameKey] + suffix + ":</b>";
 				});
 
-			replace = "<img src=" + directory + nameKey + emoteKey + ".png> <b>" + names[nameKey] + suffix + ":</b>";
+			replace = "<img src=" + imagePath + ".png> <b>" + names[nameKey] + suffix + ":</b>";
 			// end of no workie code
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
