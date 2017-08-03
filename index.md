@@ -26,7 +26,7 @@ SplashHappy: thats our hotdog man!!
 
 Narrator: and that's how ya play duck hunt
 
-MagmaGiddy: farts
+MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss ssssssssssss sss sssssss ssss ssssssssss ssssssss sssss ssssssssssss ssssssssss ssssssssssssss sssssss ssssssssss ssssssss ssssssss sssss sssssss
 
 **Links:**
 
