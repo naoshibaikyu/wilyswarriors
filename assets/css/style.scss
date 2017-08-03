@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 img#double {
+  image-rendering: pixelated;
   transform: scale(2);
-  margin: 95px;
 }
