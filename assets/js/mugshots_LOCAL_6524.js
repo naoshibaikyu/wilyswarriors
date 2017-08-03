@@ -18,16 +18,11 @@ var directory = "./assets/images/mugshots/";
 
 	var emotes = {original:"",
 		happy:"Happy",
-		annoyed:"Annoyed",
+		glare:"Glare",
 		angry:"Angry",
 		shocked:"Shocked",
 		pissed:"Pissed",
-		glare:"Glare",
 		aloof:"Aloof",
-		giddy:"Giddy",
-		scared:"Scared",
-		nani:"Nani",
-		snicker:"Snicker",
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote
@@ -76,8 +71,7 @@ var directory = "./assets/images/mugshots/";
 					var replace = "<b>" + names[nameKey] + suffix + ":</b>";
 				});
 
-			replace = "<img id=\"double\" src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
-			replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
+			replace = "<img id=\"double\"" src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 			// end of no workie code
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
@@ -89,4 +83,4 @@ var directory = "./assets/images/mugshots/";
 	document.body.style.backgroundColor = "#101010";
 	document.body.style.color = "#C0C0C0";
 	document.body.style.fontSize = "large";
-
+	

@@ -76,7 +76,6 @@ var directory = "./assets/images/mugshots/";
 					var replace = "<b>" + names[nameKey] + suffix + ":</b>";
 				});
 
-			replace = "<img id=\"double\" src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 			replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 			// end of no workie code
 			
