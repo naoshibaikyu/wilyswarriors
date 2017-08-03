@@ -69,7 +69,7 @@ var directory = "./assets/images/mugshots/";
 			checkImage(imagePath, 
 				function()
 				{  
-					var replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
+					var replace = "<img id=\"double\" src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 				}, 
 				function()
 				{ 
@@ -77,7 +77,7 @@ var directory = "./assets/images/mugshots/";
 				});
 
 			replace = "<img id=\"double\" src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
-			replace = "<img src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
+			replace = "<img id=\"double\" src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b>";
 			// end of no workie code
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
