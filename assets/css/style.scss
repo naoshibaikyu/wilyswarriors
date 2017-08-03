@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 img#double {
   image-rendering: pixelated;
+  -ms-interpolation-mode: nearest-neighbor;
   transform: scale(2);
   margin: 15px;
 }
