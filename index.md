@@ -34,8 +34,5 @@ MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss 
 
 [Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.htm) By Hornet Man
 
-
-<script src="assets/js/mugshots.js"></script>
-
 <script src="assets/js/replacediv.js"></script>
-
+<script src="assets/js/mugshots.js"></script>
