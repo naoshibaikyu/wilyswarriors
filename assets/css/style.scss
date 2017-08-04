@@ -12,20 +12,25 @@ img#double
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
   transform: scale(2);
-  margin: 15px;
+  margin: 10px;
+  padding-right: 10px;
 }
 
 .content 
 {
-    margin: auto;
-    width: 400px;
-    border: 2px solid blue;
-    padding: 20px;
-    overflow: hidden;
+  margin: auto;
+  width: 400px;
+  border: 2px solid blue;
+  padding: 20px;
+  overflow: hidden;
 }
 
 .content img 
 {
-    margin-right: 15px;
-    float: left;
+  float: left;
+}
+
+.content p
+{
+  padding: 10px;
 }
