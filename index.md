@@ -1,4 +1,4 @@
-GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
+<div class=content>GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu</div>
 
 ConcreteAloof: wubby wuzzle mop stop
 
