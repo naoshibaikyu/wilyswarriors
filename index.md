@@ -1,4 +1,4 @@
-<div class=content>GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu</div>
+GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
 ConcreteAloof: wubby wuzzle mop stop
 
@@ -36,3 +36,6 @@ MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss 
 
 
 <script src="assets/js/mugshots.js"></script>
+
+<script src="assets/js/replacediv.js"></script>
+
