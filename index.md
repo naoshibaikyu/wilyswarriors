@@ -30,9 +30,9 @@ MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss 
 
 **Links:**
 
-[Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.htm) By Hornet Man
+[Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.md) By Hornet Man
 
-[Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.htm) By Hornet Man
+[Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.md) By Hornet Man
 
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
