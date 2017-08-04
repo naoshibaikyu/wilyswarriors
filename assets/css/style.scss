@@ -2,7 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-img#double {
+img#double 
+{
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */
@@ -14,15 +15,17 @@ img#double {
   margin: 15px;
 }
 
-.content {
+.content 
+{
+    margin: auto;
     width: 400px;
     border: 2px solid blue;
     padding: 20px;
     overflow: hidden;
-    margin-left: 2cm;
 }
 
-.content img {
+.content img 
+{
     margin-right: 15px;
     float: left;
 }
