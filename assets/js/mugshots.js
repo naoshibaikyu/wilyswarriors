@@ -36,7 +36,7 @@ for (var nameKey in names)
 {
 	for (var emoteKey in emotes)
 	{
-		var str = names[nameKey] + emotes[emoteKey] + ":";
+		var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
 		var suffix = "";
 
 		//Insert name suffix
@@ -69,15 +69,14 @@ for (var nameKey in names)
 		checkImage(imagePath, 
 			function()
 			{  
-				var replace = "<img id=double src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b></br>";
+				var replace = "<img id=double src=" + imagePath + "> <p><b>" + names[nameKey] + suffix + ":</b></br>";
 			}, 
 			function()
 			{ 
 				var replace = "<b>" + names[nameKey] + suffix + ":</b>";
 			});
 
-		replace = "<img id=double src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b></br>";
-		replace = "<img id=double src=" + imagePath + "> <b>" + names[nameKey] + suffix + ":</b></br>";
+		replace = "<img id=double src=" + imagePath + "> <p><b>" + names[nameKey] + suffix + ":</b></br>";
 		// end of no workie code
 		
 		//TODO: check and see if replace path exists, if not, bold name and continue, else...
