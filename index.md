@@ -28,6 +28,10 @@ Narrator: and that's how ya play duck hunt
 
 MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss ssssssssssss sss sssssss ssss ssssssssss ssssssss sssss ssssssssssss ssssssssss ssssssssssssss sssssss ssssssssss ssssssss ssssssss sssss sssssss
 
+The Fart: hi
+
+**TO BE CONTINUED**
+
 **Links:**
 
 [Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.md) By Hornet Man

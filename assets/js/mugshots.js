@@ -58,27 +58,8 @@ for (var nameKey in names)
 		var find = new RegExp(str, "gi");
 		var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-		// this shit no workie
-		function checkImage(imageSrc, good, bad) {
-		    var img = new Image();
-		    img.onload = good; 
-		    img.onerror = bad;
-		    img.src = imageSrc;
-		}
-
-		checkImage(imagePath, 
-			function()
-			{  
-				var replace = "<img id=double src=" + imagePath + "> <p><b>" + names[nameKey] + suffix + ":</b></br>";
-			}, 
-			function()
-			{ 
-				var replace = "<b>" + names[nameKey] + suffix + ":</b>";
-			});
-
 		replace = "<img id=double src=" + imagePath + "> <p><b>" + names[nameKey] + suffix + ":</b></br>";
-		// end of no workie code
-		
+
 		//TODO: check and see if replace path exists, if not, bold name and continue, else...
 		document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 	}
