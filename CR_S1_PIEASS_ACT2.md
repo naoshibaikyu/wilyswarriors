@@ -215,7 +215,7 @@ Police Bot 8: If ya want your friend to get out of this alive, you should surren
 
 Police Bot 9: No one can beat the Robotropolis Po-
 
-PlugAnnoyed: [electricutes all the surrounding Police Guard Bots around him]
+PlugAngry: [electricutes all the surrounding Police Guard Bots around him]
 
 Police Guard Bots: AIEEEEEEEE!!!! [alls off the crows nest and smashes on the floor]
 
