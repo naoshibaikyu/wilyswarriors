@@ -1,0 +1,231 @@
+
+**LOCATION:** Pirate Ship
+
+Narrator: The crew's pirate ship set sail for a grand adventure across the sea, er, I mean land? Umm...
+
+[The ship somehow slowly grates across the land, leaving behind a huge path of destroyed ground.]
+
+Narrator: Yeah, land. I guess.
+
+HornetGlare: ...
+
+Galaxy: ?
+
+HornetGlare: Wow. This is so *boring*. Nothing exciting is even happening.
+
+GalaxyAnnoyed: Dude, we've only just started sailing 3 minutes ago.
+
+Hornet: Oh, shut your stupid annoying face.
+
+GalaxyAngry: Hey!!
+
+HornetAnnoyed: I said shut up!
+
+GalaxyPissed: (`д´#)
+
+HornetAnnoyed: Are you trying to scare me? Cuz' it ain't working motha fucka.
+
+GalaxyPissed: o(-`д´- ｡)
+
+HornetAnnoyed: Still ain't working!
+
+GalaxyPissed: щ(ಠ益ಠщ)
+
+HornetAnnoyed: STILL NOT WORKING!!!!!!
+
+GalaxyAngry: (>_<)
+
+HornetGlare: Wow, you've just given up there ya sack of shit.
+
+GalaxyPissed: THAT'S IT! ＼(｀0´)／ [takes out a pirate sword and stabs it through Hornet Man's stomach twice]
+
+HornetShocked: HURK!!!
+
+GalaxyPissed: [grabs Hornet Man's head and twists it to snap his neck]
+
+HornetShocked: GACK [falls over dead]
+
+(That didn't happen)
+
+*FWOOOSH*
+
+Hornet: Well...?
+
+GalaxyPissed: [tries stabbing him with the pirate sword but it shatters on impact instead]
+
+HornetAnnoyed: ...
+
+GalaxyPissed: [grabs Hornet Man's head and tries to twist it]
+
+HornetGlare: ...
+
+GalaxyPissed: (ｏ`皿′ｏ)
+
+Hornet: Get off!! [throws him into a barrel]
+
+GalaxyAnnoyed: *glubglubglub*
+
+[The ship eventually reaches the city of Robotropolis, hitting the full parking lot.]
+
+PlugScared: [at the crow's nest] EEK! We're going to hit a bunch of boats!!!!
+
+Hornet: Now we're talking!!
+
+MagmaShocked: [tries steering the ship] She's refusin' to turn, lads! Brace for impact!!
+
+[The ship crushes parked cars in its way, all while drivers in their cars drive out of the way for their dear lives. The cars being crushed has their alarms goes off on impact, creating a lot of noise.]
+
+MagmaAnnoyed: I didn't know boats could be so noisy.
+
+HornetGlare: It's starting to get on my nerves.
+
+Civilian: Hey!! Watch where you're going, jackass!!
+
+Civilian2: GET OFF THE ROAD!!
+
+Civilian3: My car!!! THAT WAS MY CAR!!
+
+MagmaShocked: What was that?
+
+HornetGlare: 'unno. I guess some really chatty seagulls?
+
+Galaxy: *glubglubglub*
+
+Hornet: I told ya to shut up!
+
+GalaxyAngry: [tries to wiggle out of the barrel but to not avail] *glub...*
+
+Hornet: Ha ha ha ha!!
+
+[Suddenly, police sirens are heard coming from behind the ship's direction.]
+
+PlugAnnoyed: Ummmm... This is not good I don't think, mon ami, but it looks like there's rival pirate boats coming our way!
+
+Hornet: What?
+
+MagmaAnnoyed: Weird! Why would they use boats?
+
+PlugScared: [using the binoculars and sees the police cars gaining up and eventually getting near the sides of the ship] Oh no!!! I think they're trying to get on the ship!
+
+HornetGlare: Okay.
+
+MagmaAngry: Let 'em come. Sinistar HUNGERS!
+
+[The police opens the top of their special vehicle, sending out police bots to grapple and climb onto the ship.]
+
+PlugScared: Here they come from both sides!!
+
+Magma: Arrr! [draws out his sword] Alright, lads. Hornet, you take care of the right side, I take care of the left. Plug, you scout and let us know of any incoming attacks! And... where is Galaxy?
+
+GalaxyAngry: [wiggles more and eventually gets the barrel knocked over to the ground]
+
+HornetGlare: There. [points at the barrel]
+
+MagmaAngry: Lad, stop foolin' around and help us!
+
+Hornet: Nevermind him. We can take them on ourseives!
+
+MagmaHappy: Yer right. Arr!
+
+Hornet: Arr!!!
+
+[Several groups of police bots makes it to both sides of the ship. Hornet and Magma Man rushes to their assigned sides to fend themselves off from the police bots.]
+
+Police Bot 1: We're on the ship and the targets are in our sights.
+
+[All the police bots on the left side of the ship aims their gun at Magma Man]
+
+Magma: Arr, ye ain't going to steal my ship and get my treasure! That's one thing for certain! [aims both of his 
+
+Police Bot 2: Uhhh...
+
+Police Bot 3: It appears we're fighting land pirates!
+
+Police Bot 1: But we're ready to attack, commander.
+
+Police Commander Bot: [over at the intercom] What? Land pirates?! That's just ridiculous! Whatever they are-
+
+**FWOOOOM**
+
+Police Bots: AUGHHHH!!!
+
+Police Commander Bot: [over at the intercom] What's going on?! Over!
+
+Police Bot 3: 2 men down! 2 men down! OH NO! 
+
+**FWOOOOOOOM**
+
+Police Bot 4: EEK!
+
+Magma: Ye'll live. I've only disabled your weapons.
+
+Police Bot 1: You've melted our guns!
+
+Magma: Yes. Like I said-
+
+Police Bot 2: THEY WERE OUR ARMS JUST LIKE YOURS!!
+
+Magma: Silence! Ye shouldn't have messed with my pirate crew and now ye will pay the price!
+
+Police Bot 3: There's more than the 4 of us here! You won't get away with this!!
+
+Hornet: Yo, sup.
+
+[Magma and the 4 police bots look a large pile of destroyed police bots]
+
+Police Bot 4: Eep!!
+
+Magma: Aha! Great work there!
+
+HornetGlare: They were nothing. Can I finish these idiots off?
+
+Police Bot 1: N-no! We swear we'll do anything!!
+
+Police Bot 4: Yeah! Don't kill us!!
+
+Police Bot 2: LET'S GET OUT OF HERE!!
+
+[They all run and jump off of the ship]
+
+HornetGlare: Wow, the rival fraction must be really cowardly.
+
+MagmaAngry: And let's make sure they don't come back!! [shoots several wave of magma at the police cars on the road] 
+
+Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! [sends swarm of bees towards the police cars as well]
+
+[Several police cars explodes from the magma attack while the rest gets harassed by swarm of bees. The police force eventually loses momentum with the ship and eventually retreats.]
+
+PlugHappy: [looking at the road with the binoculars] Looks like they're all backing off now! We did it!!!!
+
+MagmaHappy: Great job there, crew! 
+
+Hornet: Ya but now it's boring again! FUCK!
+
+MagmaHappy: [holding the map] Was hardly a challenge either! Nothing will stop us from getting our treasure! Yarr!!
+
+HornetGlare: What is the treasure anyways? You've never told us what's in it!
+
+Magma: That's the exciting part! I don't know what's in it!
+
+Hornet: What? Are you serious?!
+
+Magma: Ya
+
+HornetAnnoyed: How do we know if it's treasure then?!
+
+Magma: For one, the map did say Treasure, but we don't know what's exactly in it! Look at it this way, if there's real treasure we hit the jackpot! But if it's a trap, then it's another exciting fight! 
+
+HornetGlare: Yeah but we'll gain nothing out of this if there's no real treasure! How this you find this map?!
+
+Magma: The internet!
+
+HornetGlare: What is wrong with you?!
+
+Magma: :3c
+
+Hornet: ...
+
+**To be continued...**
+
+<script src="assets/js/replacediv.js"></script>
+<script src="assets/js/mugshots.js"></script>
