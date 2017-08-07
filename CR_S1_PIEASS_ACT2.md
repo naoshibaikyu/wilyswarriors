@@ -233,7 +233,7 @@ GalaxyShocked: *GLUB GLUB???*
 
 Police Bots: Yikes!
 
-[As they're about to run, the barrel strikes them all out like a bowling ball knocking out the pins]
+[As they're about to run, the barrel strikes them all out like bowling pins]
 
 GalaxyShocked: *GLUB GLUBBBBBBB...* [falls out of the ship]
 
