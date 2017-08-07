@@ -227,13 +227,13 @@ HornetGlare: Meh. [grabs a barrel]
 
 Galaxy: *glub glub?*
 
-Hornet: [*throws the barrel towards the group of 10 bots]
+Hornet: [throws the barrel towards the group of 10 bots]
 
 GalaxyShocked: *GLUB GLUB???*
 
 Police Bots: Yikes!
 
-[They go to run but before they got the chance to move out of the barrel's way, the barrel strikes them all like a bowling ball knocking out the pins]
+[As they're about to run, the barrel strikes them all out like a bowling ball knocking out the pins]
 
 GalaxyShocked: *GLUB GLUBBBBBBB...* [falls out of the ship]
 
