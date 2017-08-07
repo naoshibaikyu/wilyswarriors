@@ -119,11 +119,11 @@ Magma: Arrr! [draws out his sword] Alright, lads. Hornet, you take care of the r
 
 GalaxyAngry: [wiggles more and eventually gets the barrel knocked over to the ground]
 
-HornetGlare: There. [points at the barrel]
+HornetGlare: [looks at the moving barrel and then shrugs] Must be cleaning hall inside or somethin'.
 
-MagmaAngry: Lad, stop foolin' around and help us!
+MagmaAngry: Ah, good for that lad. Looking out for our ship in such dire times!
 
-Hornet: Nevermind him. We can take them on ourseives!
+Hornet: Yeah, we can take them on ourseives anyways!
 
 MagmaHappy: Yer right. Arr!
 
@@ -141,7 +141,7 @@ Police Bot 2: Uhhh...
 
 Police Bot 3: It appears we're fighting land pirates!
 
-Police Bot 1: But we're ready to attack, commander.
+Police Bot 1: We're ready to fire, commander!
 
 Police Commander Bot: [over at the intercom] What? Land pirates?! That's just ridiculous! Whatever they are-
 
@@ -163,9 +163,9 @@ Police Bot 1: You've melted our guns!
 
 Magma: Yes. Like I said-
 
-Police Bot 2: THEY WERE OUR ARMS JUST LIKE YOURS!!
+Police Bot 2: THEY WERE OUR ARMS!!
 
-Magma: Silence! Ye shouldn't have messed with my pirate crew and now ye will pay the price!
+Magma: Silence! Ye shouldn't have messed with my pirate crew and now ye shall pay the price!
 
 Police Bot 3: There's more than the 4 of us here! You won't get away with this!!
 
@@ -181,15 +181,69 @@ HornetGlare: They were nothing. Can I finish these idiots off?
 
 Police Bot 1: N-no! We swear we'll do anything!!
 
-Police Bot 4: Yeah! Don't kill us!!
+Police Bot 4: Please just don't kill us!
 
-Police Bot 2: LET'S GET OUT OF HERE!!
+Hornet: Hmmmm... Nah!
 
-[They all run and jump off of the ship]
+[Suddenly, a light from above shines on the ship]
 
-HornetGlare: Wow, the rival fraction must be really cowardly.
+MagmaShocked: The heck?!
 
-MagmaAngry: And let's make sure they don't come back!! [shoots several wave of magma at the police cars on the road] 
+HornetShocked: OW! MY EYES!
+
+Police Bot 2: Back up!
+
+Police Bot 3: We're saved!
+
+[6 more Police Bots parachutes from the helicopter above, all towards the spot where the 4 Police Bots are]
+
+MagmaAnnoyed: Parachuting pirates...?!
+
+Hornet: Oh goody, more carnage! 
+
+Police Bot 5: You're outnumbered! 10 to 3!
+
+HornetAnnoyed: Are you blind or are you stupid? Or both? We've took on larger numbers than 10, plus the 4 of your pals are already disarmed so that makes it 6 you stupid idiot!
+
+Police Bot 6: Who's to say we aren't counting the 4 on the crow's nest?
+
+Police Bot 7: Yeah!
+
+[Magma Man and Hornet Man looks at the crow's nest where Plug Man is surrounded by 4 Police Guard Bots.]
+
+Police Bot 8: If ya want your friend to get out of this alive, you should surrender!
+
+Police Bot 9: No one can beat the Robotropolis Po-
+
+PlugAnnoyed: [electricutes all the surrounding Police Guard Bots around him]
+
+Police Guard Bots: AIEEEEEEEE!!!! [alls off the crows nest and smashes on the floor]
+
+PlugHappy: [shrugs]
+
+Police Bot 10: O-oh...
+
+HornetGlare: Meh. [grabs a barrel]
+
+Galaxy: *glub glub?*
+
+Hornet: [*throws the barrel towards the group of 10 bots]
+
+GalaxyShocked: *GLUB GLUB???*
+
+Police Bots: Yikes!
+
+[They go to run but before they got the chance to move out of the barrel's way, the barrel strikes them all like a bowling ball knocking out the pins]
+
+GalaxyShocked: *GLUB GLUBBBBBBB...* [falls out of the ship]
+
+Hornet: **Strrrrike!**
+
+MagmaAnnoyed: Did you hear that noise?
+
+HornetGlare: Nah. But let's finish this mess! [points at the police cars still chasing the ship]
+
+MagmaAngry: Yeah! Let's make sure they don't come back!! [shoots several wave of magma at the police cars on the road] 
 
 Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! [sends swarm of bees towards the police cars as well]
 
@@ -197,11 +251,11 @@ Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! [sends swarm of bees towards 
 
 PlugHappy: [looking at the road with the binoculars] Looks like they're all backing off now! We did it!!!!
 
-MagmaHappy: Great job there, crew! 
+MagmaHappy: Great job there, crew!
 
 Hornet: Ya but now it's boring again! FUCK!
 
-MagmaHappy: [holding the map] Was hardly a challenge either! Nothing will stop us from getting our treasure! Yarr!!
+MagmaHappy: [holding the map] Was hardly a challenge either! Nothing will stop us from getting our treasure! Yarr!! We will be the greatest pirates that has ever lived!
 
 HornetGlare: What is the treasure anyways? You've never told us what's in it!
 

@@ -326,6 +326,7 @@ HornetAnnoyed: Ugh. I'm going to play the Wii U Classic then.
 HornetGlare: Fuck.
 
 
+
 **To be continued...**
 
 <script src="assets/js/replacediv.js"></script>
