@@ -5,13 +5,11 @@ Usually, Mega Man Team epilogues have their dialog accompanied with a full sized
 Since an epilogue is written in script format. Dialog would be written like this:
 <br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div>
-<br><br>
-
+<br>
 When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
 <br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmaoriginal.png">Magma Man: Farts...</div>
 <br><br>
-
 <h1>How to Use Expressions</h1>
 
 With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps") and makes each scene stand out better.
@@ -20,7 +18,6 @@ The process to use expressions for a mugshot is actually very simple.  Note how 
 <br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div>
 <br>
-
 With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
 <br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmagiddy.png">Magma Man: Farts...</div>
@@ -29,7 +26,7 @@ With the name of the expression is added right beside the character's name, it'l
 <h1>Mugshot References</h1>
 
 Below are tables showing each and every mugshot available for each character. 
-<br><br>
+
 <h2>Basic Expressions</h2>
 
 Outside of rare instances, everyone has these type of basic expressions.
