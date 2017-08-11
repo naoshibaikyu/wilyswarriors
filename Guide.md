@@ -16,7 +16,7 @@ With Mugshots being used in epilogues, they are often done with variations of em
 
 The process to use expressions for a mugshot is actually very simple.  Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces"). For example, if you want him to use his Giddy expression, you would have to type like this:
 
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><br><img src="assets/images/mugshots/magmaoriginal.png"> <p><b>Magma Man:</b></br>oh</p></div>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div>
 
 With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
 
@@ -28,8 +28,6 @@ With the name of the expression is added right beside the character's name, it'l
 Below are tables showing each and every mugshot available for each character. 
 
 <h2>Basic Expressions</h2>
-
-
 
 Outside of rare instances, everyone has these type of basic expressions.
 <br><br>
