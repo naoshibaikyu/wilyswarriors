@@ -1,12 +1,13 @@
-#Mugshots#
+Mugshots
 
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
 
-###Emotes###
+Emotes
 
 With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps) and makes each scene stand out better.
 
-###How to Use Emotes###
+How to Use Emotes
+
 The process is actually very simple. Usually (if not always), an epilogue is written in script format.
 For example, a dialog would be written like this:
 ```Magma: Farts...```
@@ -43,7 +44,7 @@ Basic Emotes - Outside of a few instances, everyone shares these type of emotes.
 
 
 
-<script src="assets/js/replacediv.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.6.3/showdown.min.js"></script>
 
 <script>
 var directory = "./assets/images/mugshots/";
