@@ -53,12 +53,12 @@ for (var nameKey in names)
 {
 	for (var emoteKey in emotes)
 	{
-		var str = names[nameKey] + emotes[emoteKey];
+		var str = names[nameKey] + emotes[emoteKey] + ":";
 
 		var find = new RegExp(str, "gi");
 		var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-		replace = "<img id=double src=" + imagePath + ">";
+		replace = "<img src=" + imagePath + ">";
 
 		//TODO: check and see if replace path exists, if not, bold name and continue, else...
 		document.body.innerHTML = document.body.innerHTML.replace(find, replace);
