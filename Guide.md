@@ -2,38 +2,32 @@
 
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
 
+Since an epilogue is written in script format. Dialog would be written like this:
 
-<h3>Emotes</h3>
+<code>Magma: Farts...</code>
+
+When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
+
+![](assets/images/mugshots/magmaoriginal.png)Magma Man: Farts...
+
+
+<h1>How to Use Expressions</h1>
 
 With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps) and makes each scene stand out better.
 
+The process to use expressions for a mugshot is actually very simple.  Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces). For example, if you want him to use his Giddy expression, you would have to type like this:
 
-<h3>How to Use Emotes</h3>
+<code>MagmaGiddy: Farts...</code>
 
-The process is actually very simple. Usually (if not always), an epilogue is written in script format.
+With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
 
-For example, a dialog would be written like this:
-
-```Magma: Farts...```
-
-When the sites reads the epilogue, it would format and display it as:
-
-![](assets/images/mugshots/magmaoriginal.png) Magma Man: Farts...
+![](assets/images/mugshots/magmagiddy.png)Magma Man: Farts...
 
 
-Having just typed "Magma" would only display the Neutral emote. To give him a different emote, you would have to type like this:
-
-```MagmaGiddy: Farts...```
-
-With you adding the name of the emote right after the character's format name, it'll use a variation of the mugshot based on the emote you've typed. So it'd display it as:
-
-![](assets/images/mugshots/magmagiddy.png) Magma Man: Farts...
+<h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
 
 
-(Note: The example shown is an emote exclusive to Magma Man)
-
-
-Basic Emotes - Outside of a few instances, everyone shares these type of emotes.
+Basic expressions - Outside of a few instances, everyone shares these type of expressions.
 
 |          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|
 |-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -69,7 +63,7 @@ var names = {concrete:"Concrete",
 	narrator:"Narrator"
 };
 
-var emotes = {original:"",
+var expressions = {original:"",
 	happy:"Happy",
 	annoyed:"Annoyed",
 	angry:"Angry",
@@ -84,16 +78,16 @@ var emotes = {original:"",
 	damaged:"Damaged",
 };
 
-//TODO: make it work with brackets and spaces between the name and emote
-//Look at all name/emote combinations
+//TODO: make it work with brackets and spaces between the name and expression
+//Look at all name/expression combinations
 for (var nameKey in names)
 {
-	for (var emoteKey in emotes)
+	for (var expressionKey in expressions)
 	{
-		var str = names[nameKey] + emotes[emoteKey] + ":";
+		var str = names[nameKey] + expressions[expressionKey] + ":";
 
 		var find = new RegExp(str, "gi");
-		var imagePath = directory + nameKey + emoteKey + ".png"; 
+		var imagePath = directory + nameKey + expressionKey + ".png"; 
 
 		replace = "<img src=" + imagePath + ">";
 
