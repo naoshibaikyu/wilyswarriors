@@ -1,14 +1,14 @@
 |          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|
 |-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Magma    |Magma:|MagmaHappy:|MagmaAnnoyed:|MagmaAngry:|MagmaShocked:|MagmaShocked:|MagmaShocked:|
-| Hornet   |Hornet:|N/A|HornetAnnoyed:|HornetAngry:|HornetShocked:|
-| Concrete |Concrete:|ConcreteHappy:|ConcreteAnnoyed:|ConcreteAngry:|ConcreteShocked:|
-| Plug     |Plug:|PlugHappy:|PlugAnnoyed:|PlugAngry:|PlugShocked:|
-| Galaxy   |Galaxy:|GalaxyHappy:|GalaxyAnnoyed:|GalaxyAngry:|GalaxyShocked:|
-| Jewel    |Jewel:|JewelHappy:|JewelAnnoyed:|JewelAngry:|JewelShocked:|
-| Splash   |Splash:|SplashHappy:|SplashAnnoyed:|SplashAngry:|SplashShocked:|
-| Tornado  |Tornado:|TornadoHappy:|TornadoAnnoyed:|TornadoAngry:|TornadoShocked:|
-| Fakette  |Fake:|FakeHappy:|FakeAnnoyed:|FakeAngry:|FakeShocked:|
+| Magma    |Magma:|MagmaHappy:|MagmaAnnoyed:|MagmaAngry:|MagmaShocked:|N/A|MagmaDamaged:|
+| Hornet   |Hornet:|N/A|HornetAnnoyed:|HornetAngry:|HornetShocked:|N/A|HornetDamaged:|
+| Concrete |Concrete:|ConcreteHappy:|ConcreteAnnoyed:|ConcreteAngry:|ConcreteShocked:|N/A|N/A|
+| Plug     |Plug:|PlugHappy:|PlugAnnoyed:|PlugAngry:|PlugShocked:|N/A|PlugDamaged:|
+| Galaxy   |Galaxy:|GalaxyHappy:|GalaxyAnnoyed:|GalaxyAngry:|GalaxyShocked:|N/A|GalaxyDamaged:|
+| Jewel    |Jewel:|JewelHappy:|JewelAnnoyed:|JewelAngry:|JewelShocked:|N/A|N/A|
+| Splash   |Splash:|SplashHappy:|SplashAnnoyed:|SplashAngry:|SplashShocked:|N/A|SplashDamaged:|
+| Tornado  |Tornado:|TornadoHappy:|TornadoAnnoyed:|TornadoAngry:|TornadoShocked:|N/A|N/A|
+| Fakette  |Fake:|FakeHappy:|FakeAnnoyed:|FakeAngry:|FakeShocked:|N/A|FakeDamaged:|
 
 
 
@@ -45,6 +45,8 @@ var emotes = {original:"",
 	scared:"Scared",
 	nani:"Nani",
 	snicker:"Snicker",
+	damaged:"Damaged",
+	damaged:"Damage",
 };
 
 //TODO: make it work with brackets and spaces between the name and emote
