@@ -46,7 +46,6 @@ var emotes = {original:"",
 	nani:"Nani",
 	snicker:"Snicker",
 	damaged:"Damaged",
-	damaged:"Damage",
 };
 
 //TODO: make it work with brackets and spaces between the name and emote
