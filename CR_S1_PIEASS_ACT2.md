@@ -51,7 +51,7 @@ HornetShocked: GACK [falls over dead]
 
 Hornet: Well...?
 
-GalaxyPissed: [tries stabbing him with the pirate sword but it shatters on impact instead]
+GalaxyPissed: ＼(｀0´)／ [tries stabbing him with the pirate sword but it shatters on impact instead]
 
 HornetAnnoyed: ...
 
@@ -67,7 +67,7 @@ GalaxyAnnoyed: *glubglubglub*
 
 [The ship eventually reaches the city of Robotropolis, hitting the full parking lot.]
 
-PlugScared: [at the crow's nest] EEK! We're going to hit a bunch of boats!!!!
+PlugScared: [at the crow's nest] SACRE BLEU! We're going to hit a bunch of boats!!!!
 
 Hornet: Now we're talking!!
 
@@ -99,9 +99,11 @@ Hornet: Ha ha ha ha!!
 
 [Suddenly, police sirens are heard coming from behind the ship's direction.]
 
-PlugAnnoyed: Ummmm... This is not good I don't think, mon ami, but it looks like there's rival pirate boats coming our way!
+PlugAnnoyed: OH MON DIEU!!
 
-Hornet: What?
+Hornet: Now what?
+
+PlugScared: This is not good I don't think, but it looks like there's rival pirate boats coming our way!
 
 MagmaAnnoyed: Weird! Why would they use boats?
 
@@ -135,7 +137,7 @@ Police Bot 1: We're on the ship and the targets are in our sights.
 
 [All the police bots on the left side of the ship aims their gun at Magma Man]
 
-Magma: Arr, ye ain't going to steal my ship and get my treasure! That's one thing for certain! [aims both of his 
+Magma: Arr, ye ain't going to steal my ship and get my treasure! That's one thing for certain! [aims both of his arm cannon at the police bots]
 
 Police Bot 2: Uhhh...
 
@@ -163,13 +165,13 @@ Police Bot 1: You've melted our guns!
 
 Magma: Yes. Like I said-
 
-Police Bot 2: THEY WERE OUR ARMS!!
+Police Bot 2: THEY WERE OUR HANDS!!
 
-Magma: Silence! Ye shouldn't have messed with my pirate crew and now ye shall pay the price!
+Magma: Ye shouldn't have messed with me pirate crew and now ye shall pay the price!
 
 Police Bot 3: There's more than the 4 of us here! You won't get away with this!!
 
-Hornet: Yo, sup.
+Hornet: Yo, sup?
 
 [Magma and the 4 police bots look a large pile of destroyed police bots]
 
@@ -209,7 +211,7 @@ Police Bot 6: Who's to say we aren't counting the 4 on the crow's nest?
 
 Police Bot 7: Yeah!
 
-[Magma Man and Hornet Man looks at the crow's nest where Plug Man is surrounded by 4 Police Guard Bots.]
+[Magma Man and Hornet Man looks at the crow's nest where Plug Man, is surrounded by 4 Police Guard Bots.]
 
 Police Bot 8: If ya want your friend to get out of this alive, you should surrender!
 
@@ -219,7 +221,7 @@ PlugAngry: [electricutes all the surrounding Police Guard Bots around him]
 
 Police Guard Bots: AIEEEEEEEE!!!! [alls off the crows nest and smashes on the floor]
 
-PlugHappy: [shrugs]
+PlugHappy: You can say these pirates were in quite a SHOCK, mon amis. [shrugs]
 
 Police Bot 10: O-oh...
 
@@ -237,9 +239,9 @@ Police Bots: Yikes!
 
 GalaxyShocked: *GLUB GLUBBBBBBB...* [falls out of the ship]
 
-Hornet: **Strrrrike!**
+Hornet: **Strike!**
 
-MagmaAnnoyed: Did you hear that noise?
+MagmaAnnoyed: Did you hear that weird noise?
 
 HornetGlare: Nah. But let's finish this mess! [points at the police cars still chasing the ship]
 
@@ -267,17 +269,17 @@ Magma: Ya
 
 HornetAnnoyed: How do we know if it's treasure then?!
 
-Magma: For one, the map did say Treasure, but we don't know what's exactly in it! Look at it this way, if there's real treasure we hit the jackpot! But if it's a trap, then it's another exciting fight! 
+Magma: For one, the map did say Treasure, but we don't know what's exactly in it! Look at it this way, if there's real treasure we hit the jackpot! But if it's a trap, then it's another exciting fight for our survival! Yarr!!! 
 
-HornetGlare: Yeah but we'll gain nothing out of this if there's no real treasure! How this you find this map?!
+HornetGlare: What a fucking waste of time then!! Where did you even get this rubbish map?
 
-Magma: The internet!
+Magma: The internet! I was looking at Moogle Earth and found out there's something in the great Robotropolis Sea called "Treasure Warehouse". There has to be treasure I tell you!! 
 
-HornetGlare: What is wrong with you?!
+HornetGlare: ... What is wrong with you?!
 
-Magma: :3c
+MagmaAnnoyed: What?
 
-Hornet: ...
+HornetAngry: ...
 
 **To be continued...**
 
