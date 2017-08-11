@@ -2,24 +2,28 @@
 
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
 
-Since an epilogue is written in script format. Dialog would be written like this:
+Since the dialog is done in script style format, it'll look very simplistic.
 
+<h4>Example of what you've wrote:</h4>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div><br>
 
-When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
+When the site loads the dialog, it will automatically format the characters name (like "Magma:") by replacing the text with a mugshot that is accompanied by the respective full character name and dialog.
 
+<h4>Example of what the site converts your writing into:</h4>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example1.png"></div>
 <br><br>
 <h1>How to Use Expressions</h1>
 
 With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps") and makes each scene stand out better.
 
-The process to use expressions for a mugshot is actually very simple.  Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces"). For example, if you want him to use his Giddy expression, you would have to type like this:
+The process to use expressions for a mugshot is actually very simple. Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces) like Giddy.
 
+<h4>Example of what you've wrote:</h4>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div><br>
 
-With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
+With the name of the expression being added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've wrote.
 
+<h4>Example of what the site converts your writing into:</h4>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example2.png"></div>
 <h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
 <br><br>
