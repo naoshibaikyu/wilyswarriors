@@ -1,3 +1,4 @@
+<div id="sourceDiv" style="display: none">
 <h1>Mugshots</h1>
 
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
@@ -24,7 +25,7 @@ With the name of the expression is added right beside the character's name, it'l
 ![](assets/images/mugshots/magmagiddy.png)Magma Man: Farts...
 
 
-<h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
+<h5>(Note: The example shown is an expression exclusive to Magma Man)</h5></div>
 
 
 Basic expressions - Outside of a few instances, everyone shares these type of expressions.
