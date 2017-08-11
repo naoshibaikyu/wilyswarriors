@@ -1,5 +1,31 @@
-#Basic Emotes
-###
+#Mugshots#
+
+Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
+
+###Emotes###
+
+With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps) and makes each scene stand out better.
+
+###How to Use Emotes###
+The process is actually very simple. Usually (if not always), an epilogue is written in script format.
+For example, a dialog would be written like this:
+```Magma: Farts...```
+
+When the sites reads the epilogue, it would format and display it as:
+![](assets/images/mugshots/magmaoriginal.png) Magma Man: Farts...
+
+Having just typed "Magma" would only display the Neutral emote. To give him a different emote, you would have to type like this:
+
+```MagmaGiddy: Farts...```
+
+With you adding the name of the emote right after the character's format name, it'll use a variation of the mugshot based on the emote you've typed. So it'd display it as:
+
+![](assets/images/mugshots/magmagiddy.png) Magma Man: Farts...
+
+(Note: The example shown is an emote exclusive to Magma Man)
+
+
+Basic Emotes - Outside of a few instances, everyone shares these type of emotes.
 
 |          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|
 |-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
