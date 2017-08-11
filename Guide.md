@@ -1,6 +1,6 @@
 |          |   | Happy | Annoyed | Angry |
 |----------|---|-------|---------|:-----:|
-| Magma    | ![](assets/js/mugshots/magmaoriginal.png)  |       |         |       |
+| Magma    | !()[assets/js/mugshots/magmaoriginal.png]  |       |         |       |
 | Hornet   |   |       |         |       |
 | Concrete |   |       |         |       |
 
