@@ -1,14 +1,14 @@
 |          |Neutral| Happy |Annoyed| Angry |Shocked|
 |----------|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Magma    |![Magma Neutral](assets/images/mugshots/magmaoriginal.png)|MagmaHappy:|||
-| Hornet   ||||||
-| Concrete ||||||
-| Plug     ||||||
-| Galaxy   ||||||
-| Jewel    ||||||
-| Splash   ||||||
-| Tornado  ||||||
-| Fakette  ||||||
+| Magma    |Magma:|MagmaHappy:|MagmaAnnoyed:|MagmaAngry:|MagmaShocked:|
+| Hornet   |Hornet:|N/A|HornetAnnoyed:|HornetAngry:|HornetShocked:|
+| Concrete |Concrete:|ConcreteHappy:|ConcreteAnnoyed:|ConcreteAngry:|ConcreteShocked:|
+| Plug     |Plug:|PlugHappy:|PlugAnnoyed:|PlugAngry:|PlugShocked:|
+| Galaxy   |Galaxy:|GalaxyHappy:|GalaxyAnnoyed:|GalaxyAngry:|GalaxyShocked:|
+| Jewel    |Jewel:|JewelHappy:|JewelAnnoyed:|JewelAngry:|JewelShocked:|
+| Splash   |Splash:|SplashHappy:|SplashAnnoyed:|SplashAngry:|SplashShocked:|
+| Tornado  |Tornado:|TornadoHappy:|TornadoAnnoyed:|TornadoAngry:|TornadoShocked:|
+| Fakette  |Fake:|FakeHappy:|FakeAnnoyed:|FakeAngry:|FakeShocked:|
 
 
 
