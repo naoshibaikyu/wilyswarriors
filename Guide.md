@@ -1,6 +1,6 @@
-|          |Neutral| Happy |Annoyed| Angry |Shocked|
-|-------|:---:|:---:|:---:|:---:|:---:|
-| Magma    |Magma:|MagmaHappy:|MagmaAnnoyed:|MagmaAngry:|MagmaShocked:|
+|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|
+|-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Magma    |Magma:|MagmaHappy:|MagmaAnnoyed:|MagmaAngry:|MagmaShocked:|MagmaShocked:|MagmaShocked:|
 | Hornet   |Hornet:|N/A|HornetAnnoyed:|HornetAngry:|HornetShocked:|
 | Concrete |Concrete:|ConcreteHappy:|ConcreteAnnoyed:|ConcreteAngry:|ConcreteShocked:|
 | Plug     |Plug:|PlugHappy:|PlugAnnoyed:|PlugAngry:|PlugShocked:|
