@@ -1,5 +1,6 @@
 <p style="text-align: center"><button onclick="pageTurn('act1')">Act 1</button> - <button onclick="pageTurn('act2')">Act 2</button></p>
-<div id="act1" style="display: none">
+
+<div id="act1">
 **LOCATION:** Team Base
 
 HornetGlare: [flipping through channels] Fuckin' nothing good is on TV today...
@@ -580,7 +581,7 @@ MagmaAnnoyed: Did you hear that weird noise?
 
 HornetGlare: Nah. But let's finish this mess! [points at the police cars still chasing the ship]
 
-MagmaAngry: Yeah! Let's make surae they don't come back!! [shoots several wave of magma at the police cars on the road] 
+MagmaAngry: Yeah! Let's make sure they don't come back!! [shoots several wave of magma at the police cars on the road] 
 
 Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! [sends swarm of bees towards the police cars as well]
 
