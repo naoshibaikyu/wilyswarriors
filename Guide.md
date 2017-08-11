@@ -1,13 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-    <meta charset="UTF-8"/>
-</head>
-
-<body>
-
-<div>
-
 <h1>Mugshots</h1>
 
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
@@ -52,11 +42,6 @@ Basic expressions - Outside of a few instances, everyone shares these type of ex
 | Fake     |Fake:|FakeHappy:|FakeAnnoyed:|FakeAngry:|FakeShocked:|N/A|FakeDamaged:|
 
 
-</div>
-
-<div id="targetDiv"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.6.3/showdown.min.js"></script>
-
 <script>
 var directory = "./assets/images/mugshots/";
 
@@ -97,7 +82,7 @@ for (var nameKey in names)
 {
 	for (var expressionKey in expressions)
 	{
-		var str = names[nameKey] + expressions[expressionKey] + ":";
+		var str = names[nameKey] + expressions[expressionKey] + "::";
 
 		var find = new RegExp(str, "gi");
 		var imagePath = directory + nameKey + expressionKey + ".png"; 
@@ -108,13 +93,6 @@ for (var nameKey in names)
 		document.body.innerHTML = document.body.innerHTML.replace(find, replace);
 	}
 	
-//Format
-document.body.style.backgroundColor = "#101010";
-document.body.style.color = "#C0C0C0";
-document.body.style.fontSize = "large";
 
 }</script>
-
-</body>
-</html>
 
