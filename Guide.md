@@ -1,10 +1,14 @@
-|          |   | Happy | Annoyed | Angry |
-|----------|---|-------|---------|:-----:|
-| Magma    | !()[assets/js/mugshots/magmaoriginal.png]  |       |         |       |
-| Hornet   |   |       |         |       |
-| Concrete |   |       |         |       |
-
-
+|          |Neutral| Happy |Annoyed| Angry |Shocked|
+|----------|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Magma    |![Magma Neutral](..assets/js/mugshots/magmaoriginal.png)||||
+| Hornet   ||||||
+| Concrete ||||||
+| Plug     ||||||
+| Galaxy   ||||||
+| Jewel    ||||||
+| Splash   ||||||
+| Tornado  ||||||
+| Fakette  ||||||
 
 
 
