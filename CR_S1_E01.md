@@ -182,10 +182,6 @@ HornetPissed:
 
 ConcreteAloof: ![](assets/images/misc/concretespin3.gif)
 
-Magma: Farts...
-
-MagmaGiddy: Farts...
-
 **To be continued...**
 
 <script src="assets/js/replacediv.js"></script>
