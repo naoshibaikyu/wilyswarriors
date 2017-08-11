@@ -4,11 +4,13 @@ Usually, Mega Man Team epilogues have their dialog accompanied with a full sized
 
 Since an epilogue is written in script format. Dialog would be written like this:
 
-<div style="background-color:#303030; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div>
+
 
 When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
 
-![](assets/images/mugshots/magmaoriginal.png)Magma Man: Farts...
+
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">![](assets/images/mugshots/magmaoriginal.png)Magma Man: Farts...</div>
 
 
 <h1>How to Use Expressions</h1>
@@ -17,17 +19,14 @@ With Mugshots being used in epilogues, they are often done with variations of em
 
 The process to use expressions for a mugshot is actually very simple.  Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces). For example, if you want him to use his Giddy expression, you would have to type like this:
 
-<div style="background-color:#303030; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div>
 
-`a`
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div>
 
-``aa``
-
-```aaa```
 
 With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
 
-![](assets/images/mugshots/magmagiddy.png)Magma Man: Farts...
+
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">![](assets/images/mugshots/magmagiddy.png)Magma Man: Farts...</div>
 
 
 <h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
