@@ -53,7 +53,7 @@ for (var nameKey in names)
 {
 	for (var emoteKey in emotes)
 	{
-		var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
+		var str = names[nameKey] + emotes[emoteKey];
 
 		var find = new RegExp(str, "gi");
 		var imagePath = directory + nameKey + emoteKey + ".png"; 
