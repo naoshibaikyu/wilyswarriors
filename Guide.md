@@ -5,7 +5,7 @@ Usually, Mega Man Team epilogues have their dialog accompanied with a full sized
 
 Since an epilogue is written in script format. Dialog would be written like this:
 
-<code>Magma: Farts...</code>
+`Magma: Farts...`
 
 When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
 
