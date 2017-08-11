@@ -3,12 +3,12 @@
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
 
 Since an epilogue is written in script format. Dialog would be written like this:
-
+<br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div>
 <br><br>
 
 When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
-
+<br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmaoriginal.png">Magma Man: Farts...</div>
 <br><br>
 
@@ -17,18 +17,15 @@ When the sites reads the dialog, it would automatically formats the name and dis
 With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps") and makes each scene stand out better.
 
 The process to use expressions for a mugshot is actually very simple.  Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces"). For example, if you want him to use his Giddy expression, you would have to type like this:
-
+<br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div>
-<br><br>
+<br>
 
 With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
-
+<br>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmagiddy.png">Magma Man: Farts...</div>
-
-<br><br>
 <h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
-
-
+<br><br>
 <h1>Mugshot References</h1>
 
 Below are tables showing each and every mugshot available for each character. 
