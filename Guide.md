@@ -8,7 +8,7 @@ Since an epilogue is written in script format. Dialog would be written like this
 
 When the sites reads the dialog, it would automatically formats the name and display it with the mugshot and then it bolds and completes the name (notice how you don't need to type "Man" in "Magma Man"):
 
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmaoriginal.png">Magma Man: Farts...</div>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmaoriginal.png"><b>Magma Man:</b> Farts...</div>
 <br><br>
 <h1>How to Use Expressions</h1>
 
@@ -20,7 +20,7 @@ The process to use expressions for a mugshot is actually very simple.  Note how 
 
 With the name of the expression is added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've typed. So in this case, it'd be displayed as:
 
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmagiddy.png">Magma Man: Farts...</div>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/mugshots/magmagiddy.png"><b>Magma Man:</b> Farts...</div>
 <h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
 <br><br>
 <h1>Mugshot References</h1>
@@ -28,6 +28,8 @@ With the name of the expression is added right beside the character's name, it'l
 Below are tables showing each and every mugshot available for each character. 
 
 <h2>Basic Expressions</h2>
+
+<img id=double src="assets/images/mugshots/magmaoriginal.png"> <p><b>Magma Man:</b></br>oh
 
 Outside of rare instances, everyone has these type of basic expressions.
 <br><br>
