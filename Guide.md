@@ -1,4 +1,3 @@
-<div id="sourceDiv" style="display: none">
 <h1>Mugshots</h1>
 
 Usually, Mega Man Team epilogues have their dialog accompanied with a full sized sprite to enhance the scene. But in this team, every epilogue has its dialog accompanied by mugshots instead. Usually generic NPCs do not have mugshots so they are left with just text.
