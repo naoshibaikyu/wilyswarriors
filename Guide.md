@@ -32,7 +32,14 @@ With the name of the expression is added right beside the character's name, it'l
 <h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
 
 
-Basic expressions - Outside of a few instances, everyone shares these type of expressions.
+<h1>Mugshot References</h1>
+
+Below are tables showing each and every mugshot available for each character. 
+
+<h2>Basic Expressions</h2>
+
+Outside of rare instances, everyone has these type of basic expressions.
+
 
 |          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|
 |-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
