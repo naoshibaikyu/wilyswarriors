@@ -1,5 +1,5 @@
 |          |Neutral| Happy |Annoyed| Angry |Shocked|
-|----------|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-------|:---:|:---:|:---:|:---:|:---:|
 | Magma    |Magma:|MagmaHappy:|MagmaAnnoyed:|MagmaAngry:|MagmaShocked:|
 | Hornet   |Hornet:|N/A|HornetAnnoyed:|HornetAngry:|HornetShocked:|
 | Concrete |Concrete:|ConcreteHappy:|ConcreteAnnoyed:|ConcreteAngry:|ConcreteShocked:|
