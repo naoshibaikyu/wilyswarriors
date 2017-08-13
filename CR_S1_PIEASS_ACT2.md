@@ -35,7 +35,7 @@ HornetAnnoyed: STILL NOT WORKING!!!!!!
 
 GalaxyAngry: (>_<)
 
-HornetGlare: Wow, you've just given up there ya sack of shit.
+HornetGlare: Wow, you just gave up there.
 
 GalaxyPissed: THAT'S IT! ＼(｀0´)／ [takes out a pirate sword and stabs it through Hornet Man's stomach twice]
 
@@ -65,7 +65,7 @@ Hornet: Get off!! [throws him into a barrel]
 
 GalaxyAnnoyed: *glubglubglub*
 
-[The ship eventually reaches the city of Robotropolis, hitting the full parking lot.]
+[The ship eventually reaches the city of Robotropolis, hitting a filled parking lot.]
 
 PlugScared: [at the crow's nest] SACRE BLEU! We're going to hit a bunch of boats!!!!
 
@@ -105,9 +105,9 @@ Hornet: Now what?
 
 PlugScared: This is not good I don't think, but it looks like there's rival pirate boats coming our way!
 
-MagmaAnnoyed: Weird! Why would they use boats?
+MagmaAnnoyed: Weird! Why would they use boats? They should be using a ship like ours!!!
 
-PlugScared: [using the binoculars and sees the police cars gaining up and eventually getting near the sides of the ship] Oh no!!! I think they're trying to get on the ship!
+PlugScared: [using the binoculars and sees the police cars gaining up and eventually getting near the sides of the ship] Oh non! Ai think they're tryeng to get on ze ship!
 
 HornetGlare: Okay.
 
@@ -121,19 +121,19 @@ Magma: Arrr! [draws out his sword] Alright, lads. Hornet, you take care of the r
 
 GalaxyAngry: [wiggles more and eventually gets the barrel knocked over to the ground]
 
-HornetGlare: [looks at the moving barrel and then shrugs] Must be cleaning hall inside or somethin'.
+HornetGlare: [looks at the moving barrel and then shrugs] Must be inspecting all of the rum or somethin'.
 
 MagmaAngry: Ah, good for that lad. Looking out for our ship in such dire times!
 
 Hornet: Yeah, we can take them on ourseives anyways!
 
-MagmaHappy: Yer right. Arr!
+MagmaHappy: Yer right. Arr! **ATTACK!!!**
 
 Hornet: Arr!!!
 
 [Several groups of police bots makes it to both sides of the ship. Hornet and Magma Man rushes to their assigned sides to fend themselves off from the police bots.]
 
-Police Bot 1: We're on the ship and the targets are in our sights.
+Police Bot 1: We have our target on sight!
 
 [All the police bots on the left side of the ship aims their gun at Magma Man]
 
@@ -143,13 +143,13 @@ Police Bot 2: Uhhh...
 
 Police Bot 3: It appears we're fighting land pirates!
 
-Police Bot 1: We're ready to fire, commander!
+Police Bot 1: Well, we're ready to fire, commander!
 
 Police Commander Bot: [over at the intercom] What? Land pirates?! That's just ridiculous! Whatever they are-
 
 **FWOOOOM**
 
-Police Bots: AUGHHHH!!!
+Police Bots: **AUGHHHH!!!**
 
 Police Commander Bot: [over at the intercom] What's going on?! Over!
 
@@ -207,7 +207,7 @@ Police Bot 5: You're outnumbered! 10 to 3!
 
 HornetAnnoyed: Are you blind or are you stupid? Or both? We've took on larger numbers than 10, plus the 4 of your pals are already disarmed so that makes it 6 you stupid idiot!
 
-Police Bot 6: Who's to say we aren't counting the 4 on the crow's nest?
+Police Bot 6: Who's to say we weren't counting the 4 on the crow's nest?
 
 Police Bot 7: Yeah!
 
@@ -215,11 +215,11 @@ Police Bot 7: Yeah!
 
 Police Bot 8: If ya want your friend to get out of this alive, you should surrender!
 
-Police Bot 9: No one can beat the Robotropolis Po-
+Police Bot 9: No one can defeat the Robotropolis Po-
 
 PlugAngry: [electricutes all the surrounding Police Guard Bots around him]
 
-Police Guard Bots: AIEEEEEEEE!!!! [alls off the crows nest and smashes on the floor]
+Police Guard Bots: **AIEEEEEEEE!!!!** [all off the crows nest and smashes on the floor]
 
 PlugHappy: You can say these pirates were in quite a SHOCK, mon amis. [shrugs]
 
@@ -241,9 +241,9 @@ GalaxyShocked: *GLUB GLUBBBBBBB...* [falls out of the ship]
 
 Hornet: **Strike!**
 
-MagmaAnnoyed: Did you hear that weird noise?
+MagmaAnnoyed: What was that weird noise just now?
 
-HornetGlare: Nah. But let's finish this mess! [points at the police cars still chasing the ship]
+HornetGlare: No one important. Let's finish this mess! [points at the police cars still chasing the ship]
 
 MagmaAngry: Yeah! Let's make sure they don't come back!! [shoots several wave of magma at the police cars on the road] 
 
@@ -251,35 +251,33 @@ Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! [sends swarm of bees towards 
 
 [Several police cars explodes from the magma attack while the rest gets harassed by swarm of bees. The police force eventually loses momentum with the ship and eventually retreats.]
 
-PlugHappy: [looking at the road with the binoculars] Looks like they're all backing off now! We did it!!!!
+PlugHappy: [looking at the road with the telescope] Looks like they're all backing off now! We did it!!!!
 
-MagmaHappy: Great job there, crew!
+MagmaHappy: Great job, ny crew! I'm proud of ye.
 
-Hornet: Ya but now it's boring again! FUCK!
+[the ship eventually makes its way out of the city and into the fields]
 
-MagmaHappy: [holding the map] Was hardly a challenge either! Nothing will stop us from getting our treasure! Yarr!! We will be the greatest pirates that has ever lived!
+Hornet: Now it's boring again! FUCK!
 
-HornetGlare: What is the treasure anyways? You've never told us what's in it!
+PlugHappy: Least we're closer to le treasure now, right?
 
-Magma: That's the exciting part! I don't know what's in it!
+MagmaHappy: [holding the map] That we are! Those rival pirates were hardly a challenge either and nothing will stop us from getting our treasure! We will be the greatest pirates that has ever lived!
+
+HornetGlare: What is the treasure anyways? You've never told us anything about it!
+
+Magma: That's the exciting part! I don't know what's the treasure!
 
 Hornet: What? Are you serious?!
 
-Magma: Ya
+Magma: Yar! I know nothin' about the treasure other than it's right there [points at an abandoned warehouse on the map] in ye ol' abandoned warehouse in the middle of nowhere!
 
-HornetAnnoyed: How do we know if it's treasure then?!
+HornetAnnoyed: Of all the-
 
-Magma: For one, the map did say Treasure, but we don't know what's exactly in it! Look at it this way, if there's real treasure we hit the jackpot! But if it's a trap, then it's another exciting fight for our survival! Yarr!!! 
+PlugScared: Eep! [takes hands off of the telescope and points at the forest] Wé're abut to cross zé mystairious green sea!
 
-HornetGlare: What a fucking waste of time then!! Where did you even get this rubbish map?
+Magma: Looks like we're about to cross the unknown territory, lads! Brace yourselves! [heads back to navigating the ship]
 
-Magma: The internet! I was looking at Moogle Earth and found out there's something in the great Robotropolis Sea called "Treasure Warehouse". There has to be treasure I tell you!! 
-
-HornetGlare: ... What is wrong with you?!
-
-MagmaAnnoyed: What?
-
-HornetAngry: ...
+HornetGlare: ...
 
 **To be continued...**
 
