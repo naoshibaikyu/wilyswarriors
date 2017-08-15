@@ -69,7 +69,7 @@ var names = {concrete:"Concrete",
 	narrator:"Narrator"
 };
 
-var expressions = {var emotes = {original:"",
+var expressions = {original:"",
 	happy:"Happy",
 	annoyed:"Annoyed",
 	angry:"Angry",
