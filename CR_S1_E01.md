@@ -112,7 +112,7 @@ HornetGlare: What the heck????
 
 MagmaHappy: [pulls Concrete Man right out of the spot] Found him!
 
-ConcreteAloof: ![](assets/images/misc/concrete.png) [stops emitting the boredom signal]
+SpikeAloof: ![](assets/images/misc/concrete.png) [stops emitting the boredom signal]
 
 GalaxyHappy: Good.
 
@@ -124,7 +124,7 @@ HornetGlare: Piss off. My gigantic headache is finally clearing and you're still
 
 GalaxyAnnoyed: Man, you must've been stuck with Concrete for hours.
 
-ConcreteAloof: ![](assets/images/misc/concrete.png)
+SpikeAloof: ![](assets/images/misc/concrete.png)
 
 MagmaHappy: Right. We still need to find the others!
 
@@ -156,31 +156,31 @@ MagmaAnnoyed: Uh...
 
 Hornet: Yea?
 
-ConcreteAloof: ![](assets/images/misc/concrete.png)
+SpikeAloof: ![](assets/images/misc/concrete.png)
 
 Hornet: Fuck off.
 
-ConcreteAloof: ![](assets/images/misc/concreteright.png)
+SpikeAloof: ![](assets/images/misc/concreteright.png)
 
 HornetAngry: You're giving me a headache again!!
 
-ConcreteAloof: ![](assets/images/misc/concretedownright.png)
+SpikeAloof: ![](assets/images/misc/concretedownright.png)
 
 Hornet: Leave me alone!!!
 
-ConcreteAloof: ![](assets/images/misc/concreteupsidedown.png)
+SpikeAloof: ![](assets/images/misc/concreteupsidedown.png)
 
 HornetShocked: FUCKING STOP
 
-ConcreteAloof: ![](assets/images/misc/concretespin1.gif)
+SpikeAloof: ![](assets/images/misc/concretespin1.gif)
 
 HornetPissed: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
-ConcreteAloof: ![](assets/images/misc/concretespin2.gif)
+SpikeAloof: ![](assets/images/misc/concretespin2.gif)
 
 HornetPissed: 
 
-ConcreteAloof: ![](assets/images/misc/concretespin3.gif)
+SpikeAloof: ![](assets/images/misc/concretespin3.gif)
 
 
 **To be continued...**

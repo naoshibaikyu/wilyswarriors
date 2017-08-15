@@ -23,7 +23,7 @@ Hornet: ...
 
 FakeAnnoyed: ...
 
-ConcreteAloof: ...
+SpikeAloof: ...
 
 Hornet: When did you get in here? Whatever. Not interested anyways.
 
@@ -73,7 +73,7 @@ Hornet: Piss off, loser. Pirates are and will always be superior to your dumb li
 
 SplashNani: ...
 
-ConcreteAloof: ...
+SpikeAloof: ...
 
 SplashAngry: First off, we're not cowards. We hide and strike at the right moment, killing our foes before they know what hit 'em! And second of-
 
@@ -133,11 +133,11 @@ SplashHappy: Good! Glad someone agrees.
 
 HornetAnnoyed: Hmph.
 
-ConcreteAloof: ...
+SpikeAloof: ...
 
 Hornet: ...
 
-ConcreteAloof: ...
+SpikeAloof: ...
 
 HornetGlare: ...
 
@@ -225,17 +225,17 @@ Plug: Arrr!
 
 Hornet: ARRR!!!
 
-ConcreteAnnoyed: [shakes head no position]
+SpikeAnnoyed: [shakes head no position]
 
 Plug: I don't think Concrete Man likes fun.
 
 HornetAnnoyed: Yeah! What crawled up your ass and died!?
 
-ConcreteAloof: ...
+SpikeAloof: ...
 
 HornetAngry: You know what? EAT THIS!! *shoots out tons of killer bees towards him*
 
-ConcreteAloof: [manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]
+SpikeAloof: [manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]
 
 Hornet: Dammit!
 

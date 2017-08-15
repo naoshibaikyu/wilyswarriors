@@ -36,17 +36,17 @@ Below are tables showing each and every mugshot available for each character.
 Outside of rare instances, everyone has these type of basic expressions.
 <br><br>
 
-|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|
+|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|Relieved|
 |-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Magma    |Magma::|MagmaHappy::|MagmaAnnoyed::|MagmaAngry::|MagmaShocked::|N/A|MagmaDamaged::|
-| Hornet   |Hornet::|N/A|HornetAnnoyed::|HornetAngry::|HornetShocked::|N/A|HornetDamaged::|
-| Concrete |Concrete::|ConcreteHappy::|ConcreteAnnoyed::|ConcreteAngry::|ConcreteShocked::|N/A|N/A|
-| Plug     |Plug::|PlugHappy::|PlugAnnoyed::|PlugAngry::|PlugShocked::|N/A|PlugDamaged::|
-| Galaxy   |Galaxy::|GalaxyHappy::|GalaxyAnnoyed::|GalaxyAngry::|GalaxyShocked::|N/A|GalaxyDamaged::|
-| Jewel    |Jewel::|JewelHappy::|JewelAnnoyed::|JewelAngry::|JewelShocked::|N/A|N/A|
-| Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|N/A|SplashDamaged::|
-| Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|N/A|N/A|
-| Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|N/A|FakeDamaged::|
+| Magma    |Magma::|MagmaHappy::|MagmaAnnoyed::|MagmaAngry::|MagmaShocked::|MagmaSad::|MagmaDamaged::|MagmaRelieved::|
+| Hornet   |Hornet::|N/A|HornetAnnoyed::|HornetAngry::|HornetShocked::|HornetSad::|HornetDamaged::|HornetRelieved::|
+| Concrete |Concrete::|ConcreteHappy::|ConcreteAnnoyed::|ConcreteAngry::|ConcreteShocked::|ConcreteSad::|ConcreteDamaged::|ConcreteRelieved::|
+| Plug     |Plug::|PlugHappy::|PlugAnnoyed::|PlugAngry::|PlugShocked::|PlugSad::|PlugDamaged::|PlugRelieved::|
+| Galaxy   |Galaxy::|GalaxyHappy::|GalaxyAnnoyed::|GalaxyAngry::|GalaxyShocked::|GalaxySad::|GalaxyDamaged::|GalaxyRelieved::|
+| Jewel    |Jewel::|JewelHappy::|JewelAnnoyed::|JewelAngry::|JewelShocked::|JewelSad::|JewelDamaged::|JewelRelieved::|
+| Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|SplashSad::|SplashDamaged::|SplashRelieved::|
+| Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|TornadoSad::|TornadoDamaged::|TornadoRelieved::|
+| Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|FakeRelieved::|
 
 
 <script>
@@ -57,6 +57,7 @@ var directory = "./assets/images/mugshots/";
 //Cyborg Resistance Members
 
 var names = {concrete:"Concrete",
+	spike:"Concrete",
 	magma:"Magma",
 	hornet:"Hornet",
 	galaxy:"Galaxy",
@@ -68,11 +69,14 @@ var names = {concrete:"Concrete",
 	narrator:"Narrator"
 };
 
-var expressions = {original:"",
+var expressions = {var emotes = {original:"",
 	happy:"Happy",
 	annoyed:"Annoyed",
 	angry:"Angry",
 	shocked:"Shocked",
+	sad:"Sad",
+	damage:"Damaged",
+	relieved:"Relieved",
 	pissed:"Pissed",
 	glare:"Glare",
 	aloof:"Aloof",
@@ -80,7 +84,6 @@ var expressions = {original:"",
 	scared:"Scared",
 	nani:"Nani",
 	snicker:"Snicker",
-	damaged:"Damaged",
 };
 
 //TODO: make it work with brackets and spaces between the name and expression

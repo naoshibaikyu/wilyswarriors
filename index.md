@@ -14,7 +14,9 @@ Hornet: exactly
 
 FakeSnicker: lol
 
-ConcreteAloof: ...
+SpikeAloof: ...
+
+ConcreteAnnoyed: Get out that shell of a body!!!
 
 Jewel: where is that damn fourth chaos emerald
 
@@ -32,7 +34,8 @@ MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss 
 
 [Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.md) By Hornet Man
 
-[Season 1 Episode ?: PIE ASS](CR_S1_PIEASS.md) By Hornet Man
+[Season 1 Episode ?: PIE ASS - ACT 1](CR_S1_PIEASS.md) By Hornet Man
+[Season 1 Episode ?: PIE ASS - ACT 1](CR_S1_PIEASS_ACT2.md) By Hornet Man
 
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>

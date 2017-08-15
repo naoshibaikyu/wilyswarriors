@@ -5,6 +5,7 @@ var directory = "./assets/images/mugshots/";
 //Cyborg Resistance Members
 
 var names = {concrete:"Concrete",
+	spike:"Concrete",
 	magma:"Magma",
 	hornet:"Hornet",
 	galaxy:"Galaxy",
@@ -21,6 +22,9 @@ var emotes = {original:"",
 	annoyed:"Annoyed",
 	angry:"Angry",
 	shocked:"Shocked",
+	sad:"Sad",
+	damage:"Damaged",
+	relieved:"Relieved",
 	pissed:"Pissed",
 	glare:"Glare",
 	aloof:"Aloof",
@@ -43,6 +47,8 @@ for (var nameKey in names)
 		switch(nameKey)
 		{
 			case "jewel":
+				suffix = " Woman";
+			case "concrete":
 				suffix = " Woman";
 				break;
 			case "fake":
