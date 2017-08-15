@@ -5,7 +5,7 @@ var directory = "./assets/images/mugshots/";
 //Cyborg Resistance Members
 
 var names = {concrete:"Concrete",
-	spike:"Concrete",
+	concrete:"Spike",
 	magma:"Magma",
 	hornet:"Hornet",
 	galaxy:"Galaxy",
