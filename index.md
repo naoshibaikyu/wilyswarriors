@@ -35,7 +35,8 @@ MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss 
 [Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.md) By Hornet Man
 
 [Season 1 Episode ?: PIE ASS - ACT 1](CR_S1_PIEASS.md) By Hornet Man
-[Season 1 Episode ?: PIE ASS - ACT 1](CR_S1_PIEASS_ACT2.md) By Hornet Mans
+
+[Season 1 Episode ?: PIE ASS - ACT 2](CR_S1_PIEASS_ACT2.md) By Hornet Man
 
 
 [Join our forums!](http://cyborgresistance.proboards.com/)
