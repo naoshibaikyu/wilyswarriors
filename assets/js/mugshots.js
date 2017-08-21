@@ -43,7 +43,9 @@ for (var nameKey in names)
 		var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
 		var suffix = "";
 
-		//Insert name suffix
+		//Insert name suffix and prefix
+		var prefix = names[nameKey];
+
 		switch(nameKey)
 		{
 			case "jewel":
@@ -53,6 +55,10 @@ for (var nameKey in names)
 				break;
 			case "fake":
 				suffix = "tte";
+				break;
+			case "spike":
+				prefix = "Concrete";
+				suffix = "Man";
 				break;
 			case "narrator":
 				suffix = "";
@@ -64,7 +70,7 @@ for (var nameKey in names)
 		var find = new RegExp(str, "gi");
 		var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-		replace = "<img id=double src=" + imagePath + "> <p><b>" + names[nameKey] + suffix + ":</b></br>";
+		replace = "<img id=double src=" + imagePath + "> <p><b>" + prefix + suffix + ":</b></br>";
 
 		//TODO: check and see if replace path exists, if not, bold name and continue, else...
 		document.body.innerHTML = document.body.innerHTML.replace(find, replace);
