@@ -1,6 +1,6 @@
 GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
 
-ConcreteAloof: wubby wuzzle mop stop
+SpikeAloof: wubby wuzzle mop stop
 
 Hornet: oh piss off
 
