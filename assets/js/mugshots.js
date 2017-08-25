@@ -78,7 +78,5 @@ for (var nameKey in names)
 }
 
 //Format
-document.body.style.backgroundColor = "#101010";
-document.body.style.color = "#C0C0C0";
-document.body.style.fontSize = 12px;
+
 
