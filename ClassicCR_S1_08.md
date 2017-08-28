@@ -478,5 +478,181 @@ GalaxyScared: ヽ（ ゜ロ゜；）ノ
 HornetDamaged: GET THEM MY BEES! [sends a swarm towards him]
 
 
+<h1>Act 4</h1>
+
+HornetDamaged: GET THEM MY BEES! [sends a swarm towards him]
+
+GalaxyScared: (\꒪Д꒪)/ [RUNS FOR HIS DEAR LIFE]
+
+HornetDamaged: YOU CAN RUN BUT YOU CAN'T HIDE... HAHAHAHAHAHAAAA!!!
+
+Bystanders: [gets caught in the swarm screaming to death] EYAARGHHHH!!!
+
+GalaxyScared: (\゜◇゜)/ [runs quicker]
+
+HornetDamaged: HAHAHAHAHAAAAAAAAAAAAAAAAAAAAAAAAAAA! DIEEEEEEE!!!
+
+GalaxyScared: [notices a huge pool on someone's lawn] （ ゜ロ゜） !
+
+HornetRelieved: WAIT... DON'T... NO!! HEY!!!
+
+GalaxyShocked: [jumps into a pool] ⊙０⊙
+
+HornetDamaged: GET OUT OF THERE!!!
+
+GalaxyHappy: (⊙ヮ⊙)
+
+HornetDamaged: THAT'S CHEATING! BEES CAN'T GO UNDERWATER!!!!
+
+GalaxyHappy: ('v')
+
+HornetDamaged: FUCK YOU!
+
+GalaxyHappy: (￣︶￣)
+
+HornetDamaged: PIECE OF SHIT!
+
+GalaxyHappy: ー(￣︶￣)ノ [swims]
+
+HornetDamaged: YOU'RE PISSING ME OFF, ASSHOLE!!!
+
+(Suddenly something in the pool is slowly peeks out of a hole)
+
+HornetDamaged: [sees it] ... HMHMHMHMHHMHM...
+
+GalaxyHappy: ヽ(￣︶￣)- [still swimming]
+
+HornetDamaged: CAN THE EEL COME OUT TO PLAY?
+
+Galaxy: ー('~')ノ ??
+
+Narrator: The thing in the pool slowly gets out of the hole, revealing that it's an... eel?! WHAT?! ARE YOU SERIOUS? AN EEL IN A POOL?! That's it! I'm done narrating this stupid epilogue. This is too batshit insane for me.
+
+Eel: ＞°）mニニニニ＝～ [pops out of the hole and chases Galaxy Man]
+
+GalaxyShocked: [jumps out of the pool]
+
+HornetDamaged: HAHAHA! DIDN'T THINK YOU WOULD HIDE FOR LONG, DID YA?!
+
+GalaxyScared: (((( ꒪Д꒪;)))) [runs again]
+
+HornetDamaged: GET HIM MY MINIONS! DO NOT LET HIM ESCAPE!!!
+
+GalaxyScared: [sees a gigantic swarm of bees] ((((꒪Д꒪; )))) [runs quicker]
+
+HornetDamaged: RUN ALL YOU WANT, YOU'RE ONLY DELAYING YOUR FATE. HMHMHMHMHMHMHMHHMM...
+
+GalaxyScared: [runs into a dead end brick wall] （゜◇゜） !
+
+GalaxyScared: ((꒪Д꒪; ))
+
+GalaxyScared: (((( ꒪Д꒪;))))
+
+???: psst yo
+
+GalaxyShocked: ヽ(ﾟДﾟ)ﾉ
+
+bee: it's me again
+
+GalaxyShocked: (´д｀)
+
+bee: mayBEE if ya didn't jumped out of the shelf, ya would of saved yo BEEhind
+
+GalaxySad: （´＿｀）
+
+bee: yo life would of have been as sweet as HONEY if you haven't broke that TV
+
+GalaxySad: （；へ：）
+
+bee: but hey mayBEE if yo make it out alive we can hang out and have some BEEr later
+
+GalaxySad: (／。＼)
+
+bee: im guess my puns are such a STINGER to ya, so i should leave now bye
+
+GalaxySad: (／_＼)
+
+HornetDamaged: THERE YOU ARE!!! GET THEM MY BULLET BEES! EAT HIS INSIDES UNTIL HE'S NOTHING BUT A HOLLOW SHELL!! HEHEHAHAHAHAAAAA [sends swarm towards Galaxy Man]
+
+GalaxySad: .・゜゜・（／。＼）・゜゜・．
+
+????: [slices up all of the bees with a katana]
+
+HornetDamaged: HOW THE FUCK?! WHAT?! [sees the guy responsible for killing the bees] NO FUCKING WAY...
+
+Galaxy: (／_＼) ... (゜◇゜) ... (‘∇‘)
+
+Iwata: It's Mii Wara Wara time, bitches.
+
+HornetDamaged: MORE LIKE BII WARA WARA TIME! TOMMY GUN! [makes a gun out of bees and shoots bullet bees from the gun at Iwata]
+
+Iwata: [slices the bullet bees up]
+
+HornetDamaged: GRENADE!! [forms a grenade made of bees and throws it at Iwata]
+
+Iwata: [the bomb explodes right before he even got a chance to slice it; he gets knocked back]
+
+HornetDamaged: HMHMHMHMHMHM... YOU'RE GOING STRAIGHT TO HELL [suddenly gets shot in the back] GACK... WHO THE
+
+Reggie: I'm kicking ass and taking names. [blows smoke from the revolver]
+
+HornetDamaged: WHY YOU...[surrounds himself in bees as armor and then creates a huge swarm of bees and sends them towards Reggie]
+
+Reggie: [spins his revolvers deflecting all of the bees somehow]
+
+HornetDamaged: THIS IS RIDICULOUS! I SHOULD OF HAVE KNOWN BETTER SINCE I'VE WATCHED YOUR SHOW!
+
+Reggie: ¯\_(ツ)_/¯
+
+HornetDamaged: [forms a tank made of bees and gets in it] SEE IF YOU CAN HANDLE THIS
+
+Iwata: If you've seen the latest episode of Nintendo Direct then you would know what will happen.
+
+HornetDamaged: FUCK YOU, I DIDN'T EVEN GET TO SEE THE END OF THE SHOW BECAUSE THAT STUPID UFO FAGGOT BROKE MY TV!!! [SHOOTS BEE MISSILES]
+
+Iwata: [hops on the missiles and then slice the bee tank into thousands of pieces in mid-air]
+
+HornetDamaged: WHAT!? FUCK!!!
+
+Miyamoto: [throws an army of Pikmin at Hornet Man]
+
+HornetDamaged: NO YOU DON'T!! [creates a bee swarm and they kill every Pikmin attacking Hornet Man]
+
+Pikmins: [dies then turns into ghosts floating away... Poor Pikmins RIP]
+
+[The battle goes on for a long time]
+
+Galaxy: [watching the fight while hiding behind a wall] |∇‘)... |◇゜)... |∇‘)... |◇゜)... |∇‘)... |◇゜)...
+
+Magma: There you are!
+
+GalaxyShocked: (゜◇゜)!
+
+ConcreteAnnoyed: [sees the fight] How long have they been fighting?!
+
+PlugScared: uh oh this is not good I think!!! part 4: first blood part 2
+
+KK Slider: WHAT THE HELL ARE YOU DOING YOU MOTHER FUCKERS?
+
+Everyone: [points at the fight]
+
+KK Slider: [goes to a concert stage nearby] Shut the hell up!
+
+Everyone: ...[stops fighting]
+
+KK Slider: You motherfukers all need to calm the fuck down. [sings Super Mario Bros 2 music]
+
+[KK Slider SMB2 Music]
+
+Everyone in the city: [all start dancing]
+
+HornetDamaged: [is dancing as well] WHAT THE FUCK?! WHY CAN'T I STOP?! THIS IS TOO CATCHY! FUCK!!!
+
+KK Slider: [flies through the skies around the world singing the song]
+
+Everyone in the world: [world peace] [dance]
+
+THE END...? 
+
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
