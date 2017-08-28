@@ -1,6 +1,6 @@
 <h1>Act 1</h1>
 
-Iwata: Hello, everyone. This is Iwata from Nintendo. Today I'd like to take about 20 minutes to talk about how you no good white honkey americans won't get Animal Crossing.
+Iwata: Hello, everyone. This is Iwata from Nintendo. Today I'd like to take about 20 minutes to talk about how you no good Americans won't get Animal Crossing.
 
 (Iwata takes out a juice box)
 
@@ -70,7 +70,7 @@ GalaxyShocked: uh oh [runs] (」゜ロ゜)」
 
 HornetAngry: [catches up and beats the living shit out of Galaxy Man] THAT TV FUCKING COSTED ME A LOT YOU FUCKING JACKASS!! WHAT THE FUCK DO YOU HAVE TO SAY FOR YOURSELF, YA LITTLE SHIT?
 
-GalaxyShocked: s.s..s..sor-
+GalaxyDamaged: s.s..s..sor-
 
 HornetAngry: I CAN'T FUCKING HEAR YOU
 
@@ -134,7 +134,7 @@ MagmaAnnoyed: Huh?
 
 Tornado: event uncertain
 
-Fakette: The city looks fine to me.
+Fake: The city looks fine to me.
 
 HornetGlare: ... ...
 
@@ -262,7 +262,7 @@ JewelAngry: ...!! Jewel Satellite! [a bunch of jewels circles around the team li
 
 HornetShocked: OOGH! I'LL BE BACK! GALAXY MAN... I'M COMING FOR YA [forms a giant swarm of bees and runs through the streets causing rampage in his path]
 
-FaketteSnickers: I can't BEElieve he BEEtrayed us like that!
+FakeSnickers: I can't BEElieve he BEEtrayed us like that!
 
 Only surviving audience member: Thank god the theif got BOOTed.
 
