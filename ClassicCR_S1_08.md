@@ -1,3 +1,6 @@
+##Act 3
+
+
 GalaxySad: 〆(꒪Д꒪ ) [finishes will]
 
 GalaxyShocked: [hears a noise] （゜◇゜）
@@ -84,7 +87,7 @@ MagmaShocked: WHAT?
 
 HornetDamaged: EEHEHEHEHAHAHAHAHA... HAAAAAAHAHAHAHAHA... HAAAAAAAAAAAAAAAAHAAAAAAAAAHAHAHAHAHAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...
 
-ConcreteShocked: What is this!
+SpikeShocked: What is this!
 
 SplashAngry: [runs towards Hornet Man and stabs him with the trident]
 
@@ -106,7 +109,7 @@ MagmaAngry: There's too many of them! [burning the bees]
 
 HornetRelieved: Now to make my escape and I'm gonna KILLLLLLLLLLLLLL Galaxy Man. HAHAHAHAHAHA [escapez]
 
-ConcreteShocked: Gah! The bees are a distraction! We gotta save Galaxy Man ASAP!
+SpikeShocked: Gah! The bees are a distraction! We gotta save Galaxy Man ASAP!
 
 (Meanwhile)
 
