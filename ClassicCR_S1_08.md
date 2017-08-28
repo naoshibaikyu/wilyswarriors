@@ -608,7 +608,7 @@ HornetDamaged: [forms a tank made of bees and gets in it] SEE IF YOU CAN HANDLE 
 
 Iwata: If you've seen the latest episode of Nintendo Direct then you would know what will happen.
 
-HornetDamaged: FUCK YOU, I DIDN'T EVEN GET TO SEE THE END OF THE SHOW BECAUSE THAT STUPID UFO FAGGOT BROKE MY TV!!! [SHOOTS BEE MISSILES]
+HornetDamaged: FUCK YOU, I DIDN'T EVEN GET TO SEE THE END OF THE SHOW BECAUSE THAT STUPID UFO PIECE OF SHIT BROKE MY TV!!! [SHOOTS BEE MISSILES]
 
 Iwata: [hops on the missiles and then slice the bee tank into thousands of pieces in mid-air]
 
@@ -622,7 +622,7 @@ Pikmins: [dies then turns into ghosts floating away... Poor Pikmins RIP]
 
 [The battle goes on for a long time]
 
-Galaxy: [watching the fight while hiding behind a wall] |∇‘)... |◇゜)... |∇‘)... |◇゜)... |∇‘)... |◇゜)...
+Galaxy: [watching the fight while hiding behind a wall] <html>|∇‘)... |◇゜)... |∇‘)... |◇゜)... |∇‘)... |◇゜)...</html>
 
 Magma: There you are!
 
