@@ -262,7 +262,7 @@ JewelAngry: ...!! Jewel Satellite! [a bunch of jewels circles around the team li
 
 HornetShocked: OOGH! I'LL BE BACK! GALAXY MAN... I'M COMING FOR YA [forms a giant swarm of bees and runs through the streets causing rampage in his path]
 
-FakeSnickers: I can't BEElieve he BEEtrayed us like that!
+FakeSnicker: I can't BEElieve he BEEtrayed us like that!
 
 Only surviving audience member: Thank god the theif got BOOTed.
 
