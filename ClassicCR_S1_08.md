@@ -144,13 +144,13 @@ GalaxyScared: [hears a swarm of bees from the distance] !! ((((((((꒪Д꒪ ))))
 
 HornetDamaged: [from a bit of distance] GALAXY MAN, I'M COMING FOR YA
 
-GalaxyScared: [sees a toy shop] （゜◇゜） [runs to there]
+Galaxy: [sees a toy shop] （゜◇゜） [runs to there]
 
 GalaxyScared: [looks around] ((꒪Д꒪ ))
 
 GalaxyScared: (( ꒪Д꒪))
 
-GalaxyScared: [sees a shelf full of UFO toys] ( ‘∇‘) ! [hides there to blend in with the toys]
+GalaxyHappy: [sees a shelf full of UFO toys] ( ‘∇‘) ! [hides there to blend in with the toys]
 
 HornetDamaged: HMMM... I WONDER WHERE HE IS... HMMMMMMMM... [spots 2 broken TVs on the sidewalk] ...
 
