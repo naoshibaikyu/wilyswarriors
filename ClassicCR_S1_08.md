@@ -622,7 +622,7 @@ Pikmins: [dies then turns into ghosts floating away... Poor Pikmins RIP]
 
 [The battle goes on for a long time]
 
-Galaxy: [watching the fight while hiding behind a wall] <html>|∇‘)... |◇゜)... |∇‘)... |◇゜)... |∇‘)... |◇゜)...</html>
+Galaxy: [watching the fight while hiding behind a wall] ┬┴┬┴┤∇‘)... ┬┴┬┴┤◇゜)... ┬┴┬┴┤∇‘)... ┬┴┬┴┤◇゜)... ┬┴┬┴┤∇‘)... ┬┴┬┴┤◇゜)...
 
 Magma: There you are!
 
