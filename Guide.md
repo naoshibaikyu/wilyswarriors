@@ -64,22 +64,19 @@ MagmaGiddy:: MagmaGiddy
 
 <h5>Hornet Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
-HornetGlare:: HornetGlare
+HornetGlare:: HornetGlare<br>
 HornetPissed:: HornetPissed
 </div>
-<br>
 
 <h5>Concrete Woman</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 N/A
 </div>
-<br>
 
 <h5>Plug Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 PlugScared:: PlugScared 
 </div>
-<br>
 
 <h5>Galaxy Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
@@ -94,26 +91,29 @@ GalaxySleep:: GalaxySleep
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 SplashNani:: SplashNani
 </div>
-<br>
 
 <h5>Tornado Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 TornadoHotdog:: TornadoHotdog
 </div>
-<br>
 
 <h5>Fakette</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 FakeSnicker:: FakeSnicker
 </div>
-<br>
 
 <h5>Concrete Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 SpikeAloof:: SpikeAloof
 </div>
-<br>
 
+br
+<br>
+br
+
+p
+<p>
+p
 
 <script>
 var directory = "./assets/images/mugshots/";
