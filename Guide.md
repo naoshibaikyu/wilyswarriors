@@ -56,29 +56,29 @@ Outside of rare instances, everyone has these type of basic expressions.
 Usually these are exclusive expressions to a character due to their unique personalities.
 <br><br>
 
-<h5>Magma Man</h5>
+<div style="margin-top:24px;"><h5>Magma Man</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 MagmaGiddy:: MagmaGiddy
 </div>
-<br>
 
-<h5>Hornet Man</h5>
+
+<div style="margin-top:24px;"><h5>Hornet Man</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 HornetGlare:: HornetGlare<br>
 HornetPissed:: HornetPissed
 </div>
-<br>
-<h5>Concrete Woman</h5>
+
+<div style="margin-top:24px;"><h5>Concrete Woman</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 N/A
 </div>
-<br>
-<h5>Plug Man</h5>
+
+<div style="margin-top:24px;"><h5>Plug Man</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 PlugScared:: PlugScared 
 </div>
-<br>
-<h5>Galaxy Man</h5>
+
+<div style="margin-top:24px;"><h5>Galaxy Man</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyScared:: GalaxyScared <br>
 GalaxyPissed:: GalaxyPissed <br>
@@ -87,7 +87,7 @@ GalaxyOwO:: GalaxyOwO <br>
 GalaxySleep:: GalaxySleep
 </div>
 
-<h5>Splash Man</h5>
+<div style="margin-top:24px;"><h5>Splash Man</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 SplashNani:: SplashNani
 </div>
