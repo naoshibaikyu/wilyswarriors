@@ -86,22 +86,22 @@ GalaxyLenny:: GalaxyLenny <br>
 GalaxyOwO:: GalaxyOwO <br>
 GalaxySleep:: GalaxySleep
 </div>
-<br>
+
 <h5>Splash Man</h5>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 SplashNani:: SplashNani
 </div>
-<br>
-<h5>Tornado Man</h5>
+
+<div style="margin-top:8px;"><h5>Tornado Man</h5><div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 TornadoHotdog:: TornadoHotdog
 </div>
-<br>
+
 <h5>Fakette</h5>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 FakeSnicker:: FakeSnicker aaaa
 </div>
-<br>
+
 <h5>Concrete Man</h5>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 SpikeAloof:: SpikeAloof
