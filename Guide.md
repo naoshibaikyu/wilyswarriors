@@ -98,22 +98,14 @@ TornadoHotdog:: TornadoHotdog
 </div>
 
 <h5>Fakette</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#101010; text-align:left; vertical-align: middle;">
 FakeSnicker:: FakeSnicker
 </div>
 
 <h5>Concrete Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#101010; text-align:left; vertical-align: middle;">
 SpikeAloof:: SpikeAloof
 </div>
-
-br
-<br>
-br
-
-p
-<p>
-p
 
 <script>
 var directory = "./assets/images/mugshots/";
