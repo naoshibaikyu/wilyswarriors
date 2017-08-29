@@ -99,7 +99,7 @@ TornadoHotdog:: TornadoHotdog
 
 <div style="margin-top:24px;"><h5>Fakette</h5></div>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
-FakeSnicker:: FakeSnicker aaaa
+FakeSnicker:: FakeSnicker
 </div>
 
 <div style="margin-top:24px;"><h5>Concrete Man</h5></div>
