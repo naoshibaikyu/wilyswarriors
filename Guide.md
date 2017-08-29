@@ -36,18 +36,6 @@ Below are tables showing each and every mugshot available for each character.
 Outside of rare instances, everyone has these type of basic expressions.
 <br><br>
 
-|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  | Scared|Damaged|Relieved|
-|-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Magma    |Magma::|MagmaHappy::|MagmaAnnoyed::|MagmaAngry::|MagmaShocked::|MagmaSad::|N/A|MagmaDamaged::|MagmaRelieved::|
-| Hornet   |Hornet::|N/A|HornetAnnoyed::|HornetAngry::|HornetShocked::|HornetSad::|N/A|HornetDamaged::|HornetRelieved::|
-| Concrete |Concrete::|ConcreteHappy::|ConcreteAnnoyed::|ConcreteAngry::|ConcreteShocked::|N/A|ConcreteSad::|ConcreteDamaged::|ConcreteRelieved::|
-| Plug     |Plug::|PlugHappy::|PlugAnnoyed::|PlugAngry::|PlugShocked::|PlugSad::|PlugScared::|PlugDamaged::|PlugRelieved::|
-| Galaxy   |Galaxy::|GalaxyHappy::|GalaxyAnnoyed::|GalaxyAngry::|GalaxyShocked::|GalaxySad::|GalaxyScared::|GalaxyDamaged::|GalaxyRelieved::|
-| Jewel    |Jewel::|JewelHappy::|JewelAnnoyed::|JewelAngry::|JewelShocked::|JewelSad::|N/A|JewelDamaged::|JewelRelieved::|
-| Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|SplashSad::|N/A|SplashDamaged::|SplashRelieved::|
-| Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|TornadoSad::|N/A|TornadoDamaged::|TornadoRelieved::|
-| Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|N/A|FakeRelieved::|
-| Spike*   |Spike::|SpikeHappy::|SpikeAnnoyed::|SpikeAngry::|SpikeShocked::|SpikeSad::|SpikeDamaged::|N/A|SpikeRelieved::|
 
 <h5>*Name will display as Concrete instead of Spike.</h5>
 
@@ -57,17 +45,13 @@ Usually these are exclusive expressions to a character due to their unique perso
 <br><br>
 
 <h5>Magma Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 MagmaGiddy:: MagmaGiddy
-</div>
 
 <h5>Galaxy Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyPissed:: GalaxyPissed
 GalaxyLenny:: GalaxyLenny
 GalaxyOwO:: GalaxyOwO
 GalaxySleep:: GalaxySleep
-</div>
 
 <script>
 var directory = "./assets/images/mugshots/";
@@ -89,25 +73,25 @@ var names = {concrete:"Concrete",
 	narrator:"Narrator"
 };
 
-var expressions = {original::"",
-	happy::"Happy",
-	annoyed::"Annoyed",
-	angry::"Angry",
-	shocked::"Shocked",
-	sad::"Sad",
-	damaged::"Damaged",
-	relieved::"Relieved",
-	pissed::"Pissed",
-	glare::"Glare",
-	aloof::"Aloof",
-	giddy::"Giddy",
-	scared::"Scared",
-	nani::"Nani",
-	snicker::"Snicker",
-	owo::"OwO"
-	sleep::"Sleep"
-	lenny::"Lenny"
-	hotdog::"Hotdog"
+var expressions = {original:"",
+	happy:"Happy",
+	annoyed:"Annoyed",
+	angry:"Angry",
+	shocked:"Shocked",
+	sad:"Sad",
+	damaged:"Damaged",
+	relieved:"Relieved",
+	pissed:"Pissed",
+	glare:"Glare",
+	aloof:"Aloof",
+	giddy:"Giddy",
+	scared:"Scared",
+	nani:"Nani",
+	snicker:"Snicker",
+	owo:"OwO"
+	sleep:"Sleep"
+	lenny:"Lenny"
+	hotdog:"Hotdog"
 };
 
 //TODO: make it work with brackets and spaces between the name and expression
