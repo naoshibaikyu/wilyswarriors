@@ -47,7 +47,7 @@ Outside of rare instances, everyone has these type of basic expressions.
 | Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|SplashSad::|SplashDamaged::|SplashRelieved::|
 | Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|TornadoSad::|TornadoDamaged::|TornadoRelieved::|
 | Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|FakeRelieved::|
-| Spike*   |Spike::|SpikeHappy::|SpikeAnnoyed::|SpikeAngry::|SpikeShocked::|SpikeSad::|SpikeDamaged::|SpikeRelieved::|
+| Spike*   |Spike::|SpikeHappy::|SpikeAnnoyed::|SpikeAngry::|SpikeShocked::|N/A|N/A|N/A|
 
 <h5>*Name will display as Concrete instead of Spike.</h5>
 
@@ -62,6 +62,25 @@ MagmaGiddy:: MagmaGiddy
 </div>
 <br>
 
+<h5>Hornet Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+HornetGlare:: HornetGlare
+HornetPissed:: HornetPissed
+</div>
+<br>
+
+<h5>Concrete Woman</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+N/A
+</div>
+<br>
+
+<h5>Plug Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+PlugScared:: PlugScared 
+</div>
+<br>
+
 <h5>Galaxy Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyScared:: GalaxyScared <br>
@@ -70,6 +89,30 @@ GalaxyLenny:: GalaxyLenny <br>
 GalaxyOwO:: GalaxyOwO <br>
 GalaxySleep:: GalaxySleep
 </div>
+
+<h5>Splash Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+SplashNani:: SplashNani
+</div>
+<br>
+
+<h5>Tornado Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+TornadoHotdog:: TornadoHotdog
+</div>
+<br>
+
+<h5>Fakette</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+FakeSnicker:: FakeSnicker
+</div>
+<br>
+
+<h5>Concrete Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+SpikeAloof:: SpikeAloof
+</div>
+<br>
 
 
 <script>
