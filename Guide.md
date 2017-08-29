@@ -36,22 +36,18 @@ Below are tables showing each and every mugshot available for each character.
 Outside of rare instances, everyone has these type of basic expressions.
 <br><br>
 
+|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|Relieved|
+|-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Magma    |Magma::|MagmaHappy::|MagmaAnnoyed::|MagmaAngry::|MagmaShocked::|MagmaSad::|MagmaDamaged::|MagmaRelieved::|
+| Hornet   |Hornet::|N/A|HornetAnnoyed::|HornetAngry::|HornetShocked::|HornetSad::|HornetDamaged::|HornetRelieved::|
+| Concrete |Concrete::|ConcreteHappy::|ConcreteAnnoyed::|ConcreteAngry::|ConcreteShocked::|ConcreteSad::|ConcreteDamaged::|ConcreteRelieved::|
+| Plug     |Plug::|PlugHappy::|PlugAnnoyed::|PlugAngry::|PlugShocked::|PlugSad::|PlugDamaged::|PlugRelieved::|
+| Galaxy   |Galaxy::|GalaxyHappy::|GalaxyAnnoyed::|GalaxyAngry::|GalaxyShocked::|GalaxySad::|GalaxyDamaged::|GalaxyRelieved::|
+| Jewel    |Jewel::|JewelHappy::|JewelAnnoyed::|JewelAngry::|JewelShocked::|JewelSad::|JewelDamaged::|JewelRelieved::|
+| Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|SplashSad::|SplashDamaged::|SplashRelieved::|
+| Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|TornadoSad::|TornadoDamaged::|TornadoRelieved::|
+| Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|FakeRelieved::|
 
-<h5>*Name will display as Concrete instead of Spike.</h5>
-
-<h2>Uncommon Expressions</h2>
-
-Usually these are exclusive expressions to a character due to their unique personalities.
-<br><br>
-
-<h5>Magma Man</h5>
-MagmaGiddy:: MagmaGiddy
-
-<h5>Galaxy Man</h5>
-GalaxyPissed:: GalaxyPissed
-GalaxyLenny:: GalaxyLenny
-GalaxyOwO:: GalaxyOwO
-GalaxySleep:: GalaxySleep
 
 <script>
 var directory = "./assets/images/mugshots/";
@@ -61,7 +57,7 @@ var directory = "./assets/images/mugshots/";
 //Cyborg Resistance Members
 
 var names = {concrete:"Concrete",
-	spike:"Spike",
+	spike:"Concrete",
 	magma:"Magma",
 	hornet:"Hornet",
 	galaxy:"Galaxy",
@@ -88,10 +84,6 @@ var expressions = {original:"",
 	scared:"Scared",
 	nani:"Nani",
 	snicker:"Snicker",
-	owo:"OwO"
-	sleep:"Sleep"
-	lenny:"Lenny"
-	hotdog:"Hotdog"
 };
 
 //TODO: make it work with brackets and spaces between the name and expression
