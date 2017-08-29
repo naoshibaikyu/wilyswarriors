@@ -32,6 +32,10 @@ var emotes = {original:"",
 	scared:"Scared",
 	nani:"Nani",
 	snicker:"Snicker",
+	owo:"OwO"
+	sleep:"Sleep"
+	lenny:"Lenny"
+	hotdog:"Hotdog"
 };
 
 //TODO: make it work with brackets and spaces between the name and emote
