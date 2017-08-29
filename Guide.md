@@ -36,18 +36,18 @@ Below are tables showing each and every mugshot available for each character.
 Outside of rare instances, everyone has these type of basic expressions.
 <br><br>
 
-|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  | Scared|Damaged|Relieved|
-|-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Magma    |Magma::|MagmaHappy::|MagmaAnnoyed::|MagmaAngry::|MagmaShocked::|MagmaSad::|N/A|MagmaDamaged::|MagmaRelieved::|
-| Hornet   |Hornet::|N/A|HornetAnnoyed::|HornetAngry::|HornetShocked::|HornetSad::|N/A|HornetDamaged::|HornetRelieved::|
-| Concrete |Concrete::|ConcreteHappy::|ConcreteAnnoyed::|ConcreteAngry::|ConcreteShocked::|N/A|ConcreteSad::|ConcreteDamaged::|ConcreteRelieved::|
-| Plug     |Plug::|PlugHappy::|PlugAnnoyed::|PlugAngry::|PlugShocked::|PlugSad::|PlugScared::|PlugDamaged::|PlugRelieved::|
-| Galaxy   |Galaxy::|GalaxyHappy::|GalaxyAnnoyed::|GalaxyAngry::|GalaxyShocked::|GalaxySad::|GalaxyScared::|GalaxyDamaged::|GalaxyRelieved::|
-| Jewel    |Jewel::|JewelHappy::|JewelAnnoyed::|JewelAngry::|JewelShocked::|JewelSad::|N/A|JewelDamaged::|JewelRelieved::|
-| Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|SplashSad::|N/A|SplashDamaged::|SplashRelieved::|
-| Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|TornadoSad::|N/A|TornadoDamaged::|TornadoRelieved::|
-| Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|N/A|FakeRelieved::|
-
+|          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|Relieved|
+|-------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Magma    |Magma::|MagmaHappy::|MagmaAnnoyed::|MagmaAngry::|MagmaShocked::|MagmaSad::|MagmaDamaged::|MagmaRelieved::|
+| Hornet   |Hornet::|N/A|HornetAnnoyed::|HornetAngry::|HornetShocked::|HornetSad::|HornetDamaged::|HornetRelieved::|
+| Concrete |Concrete::|ConcreteHappy::|ConcreteAnnoyed::|ConcreteAngry::|ConcreteShocked::|ConcreteSad::|ConcreteDamaged::|ConcreteRelieved::|
+| Plug     |Plug::|PlugHappy::|PlugAnnoyed::|PlugAngry::|PlugShocked::|PlugSad::|PlugDamaged::|PlugRelieved::|
+| Galaxy   |Galaxy::|GalaxyHappy::|GalaxyAnnoyed::|GalaxyAngry::|GalaxyShocked::|GalaxySad::|GalaxyDamaged::|GalaxyRelieved::|
+| Jewel    |Jewel::|JewelHappy::|JewelAnnoyed::|JewelAngry::|JewelShocked::|JewelSad::|JewelDamaged::|JewelRelieved::|
+| Splash   |Splash::|SplashHappy::|SplashAnnoyed::|SplashAngry::|SplashShocked::|SplashSad::|SplashDamaged::|SplashRelieved::|
+| Tornado  |Tornado::|TornadoHappy::|TornadoAnnoyed::|TornadoAngry::|TornadoShocked::|TornadoSad::|TornadoDamaged::|TornadoRelieved::|
+| Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|FakeRelieved::|
+| Spike*   |Spike::|SpikeHappy::|SpikeAnnoyed::|SpikeAngry::|SpikeShocked::|SpikeSad::|SpikeDamaged::|SpikeRelieved::|
 
 <h5>*Name will display as Concrete instead of Spike.</h5>
 
@@ -68,6 +68,7 @@ GalaxyLenny:: GalaxyLenny
 GalaxyOwO:: GalaxyOwO
 GalaxySleep:: GalaxySleep
 </div>
+
 
 <script>
 var directory = "./assets/images/mugshots/";
