@@ -60,12 +60,14 @@ Usually these are exclusive expressions to a character due to their unique perso
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 MagmaGiddy:: MagmaGiddy
 </div>
+<br>
 
 <h5>Galaxy Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
-GalaxyPissed:: GalaxyPissed
-GalaxyLenny:: GalaxyLenny
-GalaxyOwO:: GalaxyOwO
+GalaxyScared:: GalaxyScared <br>
+GalaxyPissed:: GalaxyPissed <br>
+GalaxyLenny:: GalaxyLenny <br>
+GalaxyOwO:: GalaxyOwO <br>
 GalaxySleep:: GalaxySleep
 </div>
 
