@@ -73,13 +73,11 @@ HornetPissed:: HornetPissed
 N/A
 </div>
 
-<h5>Plug Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+<h5>Plug Man</h5><div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 PlugScared:: PlugScared 
 </div>
 
-<h5>Galaxy Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+<h5>Galaxy Man</h5><div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyScared:: GalaxyScared <br>
 GalaxyPissed:: GalaxyPissed <br>
 GalaxyLenny:: GalaxyLenny <br>
@@ -87,23 +85,19 @@ GalaxyOwO:: GalaxyOwO <br>
 GalaxySleep:: GalaxySleep
 </div>
 
-<h5>Splash Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+<h5>Splash Man</h5><div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 SplashNani:: SplashNani
 </div>
-<span style="line-height:8px;"><br></span> 
-<h5>Tornado Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+
+<h5>Tornado Man</h5><div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 TornadoHotdog:: TornadoHotdog
 </div>
-<span style="line-height:16px;"><br></span> 
-<h5>Fakette</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+
+<h5>Fakette</h5><div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 FakeSnicker:: FakeSnicker
 </div>
-<span style="line-height:-16px;"><br></span> 
-<h5>Concrete Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
+
+<h5>Concrete Man</h5><div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 SpikeAloof:: SpikeAloof
 </div>
 
