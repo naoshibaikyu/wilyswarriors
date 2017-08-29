@@ -91,19 +91,19 @@ GalaxySleep:: GalaxySleep
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 SplashNani:: SplashNani
 </div>
-
+<span style="font-size: .25em;">&nbsp;</span>
 <h5>Tornado Man</h5>
 <div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 TornadoHotdog:: TornadoHotdog
 </div>
-
+<span style="font-size: .25em;">&nbsp;</span>
 <h5>Fakette</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle;">
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 FakeSnicker:: FakeSnicker
 </div>
-
+<span style="font-size: .25em;">&nbsp;</span>
 <h5>Concrete Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle;">
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 SpikeAloof:: SpikeAloof
 </div>
 
