@@ -57,13 +57,17 @@ Usually these are exclusive expressions to a character due to their unique perso
 <br><br>
 
 <h5>Magma Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 MagmaGiddy:: MagmaGiddy
+</div>
 
 <h5>Galaxy Man</h5>
+<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyPissed:: GalaxyPissed
 GalaxyLenny:: GalaxyLenny
 GalaxyOwO:: GalaxyOwO
 GalaxySleep:: GalaxySleep
+</div>
 
 <script>
 var directory = "./assets/images/mugshots/";
@@ -85,25 +89,25 @@ var names = {concrete:"Concrete",
 	narrator:"Narrator"
 };
 
-var expressions = {original:"",
-	happy:"Happy",
-	annoyed:"Annoyed",
-	angry:"Angry",
-	shocked:"Shocked",
-	sad:"Sad",
-	damaged:"Damaged",
-	relieved:"Relieved",
-	pissed:"Pissed",
-	glare:"Glare",
-	aloof:"Aloof",
-	giddy:"Giddy",
-	scared:"Scared",
-	nani:"Nani",
-	snicker:"Snicker",
-	owo:"OwO"
-	sleep:"Sleep"
-	lenny:"Lenny"
-	hotdog:"Hotdog"
+var expressions = {original::"",
+	happy::"Happy",
+	annoyed::"Annoyed",
+	angry::"Angry",
+	shocked::"Shocked",
+	sad::"Sad",
+	damaged::"Damaged",
+	relieved::"Relieved",
+	pissed::"Pissed",
+	glare::"Glare",
+	aloof::"Aloof",
+	giddy::"Giddy",
+	scared::"Scared",
+	nani::"Nani",
+	snicker::"Snicker",
+	owo::"OwO"
+	sleep::"Sleep"
+	lenny::"Lenny"
+	hotdog::"Hotdog"
 };
 
 //TODO: make it work with brackets and spaces between the name and expression
