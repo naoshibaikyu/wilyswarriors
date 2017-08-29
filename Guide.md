@@ -57,17 +57,13 @@ Usually these are exclusive expressions to a character due to their unique perso
 <br><br>
 
 <h5>Magma Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 MagmaGiddy:: MagmaGiddy
-</div>
 
 <h5>Galaxy Man</h5>
-<div style="background-color:#101010; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyPissed:: GalaxyPissed
 GalaxyLenny:: GalaxyLenny
 GalaxyOwO:: GalaxyOwO
 GalaxySleep:: GalaxySleep
-</div>
 
 <script>
 var directory = "./assets/images/mugshots/";
