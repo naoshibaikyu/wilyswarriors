@@ -105,9 +105,9 @@ var expressions = {original:"",
 	scared:"Scared",
 	nani:"Nani",
 	snicker:"Snicker",
-	owo:"OwO"
-	sleep:"Sleep"
-	lenny:"Lenny"
+	owo:"OwO",
+	sleep:"Sleep",
+	lenny:"Lenny",
 	hotdog:"Hotdog"
 };
 
