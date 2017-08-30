@@ -107,6 +107,20 @@ FakeSnicker:: FakeSnicker
 SpikeAloof:: SpikeAloof
 </div>
 
+
+<h2>NPCs</h2>
+Well ok, "NPC" is pretty redundant in this because it's not a game. But just pretend NPCs refers to non-team mates and you're better off.
+
+<div style="margin-top:24px;"><h5>Narrator</h5></div>
+<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+Narrator:: Narrator
+</div>
+
+<div style="margin-top:24px;"><h5>Robotropolis Police Force</h5></div>
+<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+N/A
+</div>
+
 <script>
 var directory = "./assets/images/mugshots/";
 
