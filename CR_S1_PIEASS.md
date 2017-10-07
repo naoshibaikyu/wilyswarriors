@@ -1,19 +1,19 @@
 
 **LOCATION:** Team Base
 
-HornetGlare: [flipping through channels] Fuckin' nothing good is on TV today...
+HornetGlare: [flipping through channels] Meh. Nothing good is on TV today...
 
 FakeAnnoyed: Then stop flipping channels, you've been at it for 30 minutes.
 
-HornetGlare: [keeps pressing the button on the remote] But I'm hoping to catch a fuckin' good show on. You can just mind your own damned business.
+HornetGlare: [keeps pressing the button on the remote] But I'm hoping to catch a good show on! You can just mind your own damned business.
 
 FakeShocked: But you've cycled through all the channels 5 times...
 
-HornetGlare: Meh. [still flipping]
+HornetGlare: Meh. Still nothing good... [still flipping]
 
 FakeAnnoyed: Make that 6.
 
-HornetGlare: Ah, shut it. Not like you have any better ideas.
+HornetGlare: Oh, shut it. Not like you have any better ideas.
 
 Fake: ...
 
@@ -35,9 +35,17 @@ Fake: What's wrong? It's a popular show amongst kids and even adults like us!
 
 Hornet: Well, count me out on being part this stupid trash's braindead audience. Nowadays all the popular shows are about Ninjas, Samurais and whatever else. But never pirates. Pirates!!!
 
-Fake: Maybe Pirates are just not the appeal-
+Fake: Maybe Pirates are just not appealing to-
 
-HornetAngry: BULLSHIT! PIRATES DO HAVE APPEAL BECAUSE PIRATES ARE BADASS! FUCK NINJAS.
+HornetAngry: WRONG! So so wrong. What do you even know about Pirates? You're not a sheep to the modern mainstream, are you Fakette!? ARE YOU?!
+
+FakeShocked: Yeesh, taking it a bit personal there. I didn't even stated my perference.
+
+HornetGlare: So?! It's personal when Ninjas are somehow the "in" to everyone now. 
+
+FakeAnnoyed: They have always been popular, Hornet.
+
+HornetAngry: FAKETTE, DON'T YOU UNDERSTAND?! NINJAS ARE TRASH!! **T-R-A-S-H**
 
 [Elsewhere in the Team's base]
 
@@ -53,7 +61,7 @@ SplashNani: I've sensed some serious *dishonor* from the living room...
 
 HornetGlare: [watched bits of the show right before deciding to flip channels again] How do these Salmon even walk? They don't have legs anyways!
 
-FakeAnnoyed: It's a cartoon... You're suppose to suspend belief!
+FakeAnnoyed: It's a cartoon... You're suppose to suspend disbelief!
 
 [Suddenly Splash Man zooms into the scene with Plug Man arriving a few seconds later]
 
@@ -65,17 +73,21 @@ PlugScared: Honestly, I don't know either!!
 
 FakeSnicker: Oh, you mean what Hornet Man had said about Ninjas?
 
-HornetGlare: Oh yeah. That. They suck, who cares. Move on.
+HornetGlare: Oh yeah. That. They suck, who cares?
+
+FakeAnnoyed: But weren't you just...
+
+HornetGlare: ...
 
 SplashAngry: You dare dishonor my clan?
 
-Hornet: Piss off, loser. Pirates are and will always be superior to your dumb little cowardly clan.
+Hornet: Piss off, loser. Pirates are and will always be superior to your dumb little inferior clan.
 
 SplashNani: ...
 
 SpikeAloof: ...
 
-SplashAngry: First off, we're not cowards. We hide and strike at the right moment, killing our foes before they know what hit 'em! And second of-
+SplashAngry: First off, we're not inferior! We hide and strike at the right moment, killing our foes before they know what hit 'em! And second of-
 
 HornetGlare: [interrupts] Wow. So impressive. **NOT!** Sounds like a bunch of miserable cowards in spandexes that jump around like idiots.
 
@@ -83,7 +95,7 @@ SplashAngry: That's not cowardice! It's called stealth and it's a lot of effort 
 
 Hornet: Spare me the insults. Pirates are infinitely cooler because they have guns, cannons, and parrots! They also raid islands and villages, then become rich from stealing treasure! Oh and not to mention they fight badass monsters like krakens!
 
-SplashAnnoyed: ...There is no such thing as krakens. Also going by your description of pirates, they unsuprisingly sound like a bunch of dishonorable jerks with no redeemable qualities whatsoever.
+SplashAnnoyed: ...They sound like a bunch of genocidal jerks for money. Seriously? Raiding villages and theft? And Krakens don't exist! They have no redeemable qualities whatsoever!
 
 Hornet: Yeah, right! They become rich too!
 
@@ -91,7 +103,7 @@ SplashAnnoyed: I said *redeemable* qualities.
 
 HornetAnnoyed: What did you say?!
 
-Splash: Face it. Ninjas are more better for a reason! Pirates will never be as popular as Ninjas will ever be because they lack honor and dignity! They're just a bunch of corrupt fools that only want their own gain!
+Splash: Face it. Pirates will never be as popular as Ninjas will ever be because they lack honor and dignity! They're just a bunch of corrupt inhumane fools!
 
 HornetAngry: *Bullshit.* **BULLSHIT.** ***B U L L S H I T!***
 
