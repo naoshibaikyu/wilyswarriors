@@ -18,8 +18,6 @@ img#double
 
 .content 
 {  
-  position: relative; 
-  top: -16px;
   margin: auto;
   max-width: 1280px;
 
@@ -37,6 +35,8 @@ img#double
   padding: 16px; 
   width: 98%;
   height: 90%; 
+  position: relative; 
+  top: -16px;
 }
 
 .content b
