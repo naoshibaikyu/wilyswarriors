@@ -19,7 +19,7 @@ img#double
 {
   margin: auto;
   max-width: 1280px;
-
+  overflow: hidden;
 }
 
 .content img 
@@ -33,7 +33,7 @@ img#double
   background: #202020;
   padding: 4px; 
   width: 100%;
-  height: 100%; 
+  height: 72px; 
 }
 
 .content b
