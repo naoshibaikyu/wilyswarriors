@@ -75,37 +75,37 @@ FakeSnicker: Oh, you mean what Hornet Man had said about Ninjas?
 
 HornetGlare: Oh yeah. That. They suck, who cares?
 
-FakeAnnoyed: But weren't you just...
+FakeAnnoyed: But didn't you get all flared up over for...
 
 HornetGlare: ...
 
-SplashAngry: You dare dishonor my clan?
+SplashAngry: You dare dishonor our caste?
 
-Hornet: Piss off, loser. Pirates are and will always be superior to your dumb little inferior clan.
+Hornet: I dare, loser. Pirates are and will always be superior to your dumb little inferior clan.
 
 SplashNani: ...
 
 SpikeAloof: ...
 
-SplashAngry: First off, we're not inferior! We hide and strike at the right moment, killing our foes before they know what hit 'em! And second of-
+SplashAngry: First off, we're not inferior! We hide and strike our foes at the right moment before they know what hit 'em! And second of-
 
 HornetGlare: [interrupts] Wow. So impressive. **NOT!** Sounds like a bunch of miserable cowards in spandexes that jump around like idiots.
 
-SplashAngry: That's not cowardice! It's called stealth and it's a lot of effort to put into it, you ignorant-
+SplashAngry: Fool! It's called stealth and there's a lot of work and skills involved, so it's not cowardice you ignorant-
 
 Hornet: Spare me the insults. Pirates are infinitely cooler because they have guns, cannons, and parrots! They also raid islands and villages, then become rich from stealing treasure! Oh and not to mention they fight badass monsters like krakens!
 
-SplashAnnoyed: ...They sound like a bunch of genocidal jerks for money. Seriously? Raiding villages and theft? And Krakens don't exist! They have no redeemable qualities whatsoever!
+SplashAnnoyed: All I'm getting from this is they destroy innocent lives for profit! They have no redeemable qualities whatsoever!
 
-Hornet: Yeah, right! They become rich too!
+Hornet: Yeah, right! They become rich!
 
-SplashAnnoyed: I said *redeemable* qualities.
+SplashAnnoyed: I said *redeemable* qualities. And krakens don't exist you disgraceful idiot!
 
 HornetAnnoyed: What did you say?!
 
-Splash: Face it. Pirates will never be as popular as Ninjas will ever be because they lack honor and dignity! They're just a bunch of corrupt inhumane fools!
+Splash: Face it! Pirates will never be as popular as Ninjas will ever be because they lack honor and dignity! They're just a bunch of corrupt inhumane fools!
 
-HornetAngry: *Bullshit.* **BULLSHIT.** ***B U L L S H I T!***
+HornetAngry: *Bullshit.* ***BULLSHIT.*** ***B U L L S H I T!***
 
 Splash: Sorry, but it's the truth.
 
@@ -139,9 +139,9 @@ SplashHappy: Yes!
 
 HornetGlare: No.
 
-GalaxyHappy: Well, personally, I prefer Ninjas. They're so stealthy and cool! They even have these cool little star throwing sharp thingies!
+GalaxyHappy: Well, personally, I prefer Ninjas. They're so sneaky and cool! They even have these cool little star throwing sharp thingies!
 
-SplashHappy: Good! Glad someone agrees.
+SplashHappy: Good! Glad someone agrees... even with a basic understanding.
 
 HornetAnnoyed: Hmph.
 
@@ -171,9 +171,13 @@ SplashAnnoyed: I don't want to talk about it.
 
 Hornet: Whatever! This conversation is over!
 
+SplashAnnoyed: You just don't wanna admit-
+
+HornetGlare: Go home!
+
 SplashAngry: Fine! I'm out! [heads back to his room]
 
-GalaxyHappy: Well, guess I'm gonna go grocery shopping! [walks out the door]
+GalaxyHappy: Well, guess I'm gonna go do some grocery shopping.
 
 Fake: ...But you do this every day. We have so much food already!
 
@@ -219,7 +223,7 @@ Magma: Guess what!?
 
 Hornet: Shut up! I'm trying to boot up the Wii U Classic Mini!!
 
-HornetGlare: ...Hmm, the size of the system doesn't look small...
+HornetGlare: ...Hmm, the mini system is the exact size as the original...
 
 Magma: I'm now a pirate for no reason! Arrrr!! [pirate hat and eyepatch suddenly appears]
 
