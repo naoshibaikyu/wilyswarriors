@@ -31,10 +31,11 @@ img#double
 
 .content p
 {
-  margin-left: -16px;
   border-radius: 8px;
   background: #202020;
-  padding-bottom: 32px; 
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
   width: 98%;
   height: 90%;
 
