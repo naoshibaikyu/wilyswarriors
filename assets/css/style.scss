@@ -38,8 +38,9 @@ img#double
 }
 
 .content b
-{
-  padding: -16px;
+{ 
+  position: relative; 
+  top: -16px;
   font-size: 75%;
   color: lightslategray;
 }
