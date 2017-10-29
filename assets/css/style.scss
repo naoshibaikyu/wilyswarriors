@@ -26,6 +26,8 @@ img#double
 .content img 
 {
   float: left;
+  position: relative; 
+  top: -16px;
 }
 
 .content p
@@ -35,8 +37,6 @@ img#double
   padding: 16px; 
   width: 98%;
   height: 90%; 
-  position: relative; 
-  top: -16px;
 }
 
 .content b
