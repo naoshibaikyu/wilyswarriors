@@ -20,7 +20,8 @@ img#double
 {  
   margin: auto;
   max-width: 1280px;
-
+  position: relative; 
+  top: -16px;
 
 }
 
@@ -32,12 +33,13 @@ img#double
 
 .content p
 {
-  margin-top: -16px;
   border-radius: 8px;
   background: #202020;
   padding: 16px; 
   width: 98%;
-  height: 90%; 
+  height: 90%;
+  position: relative; 
+  top: -16px;
 }
 
 .content b
