@@ -78,6 +78,12 @@ for (var nameKey in names)
 
 		//TODO: check and see if replace path exists, if not, bold name and continue, else...
 		document.body.innerHTML = document.body.innerHTML.replace(find, replace);
+		
+  border-radius: 8px;
+  background: #202020;
+  padding: 4px; 
+  width: 98%;
+  height: 100%; 
 	}
 }
 
