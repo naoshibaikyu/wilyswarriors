@@ -25,6 +25,11 @@ img#double
 .content img 
 {
   float: left;
+  border-radius: 8px;
+  background: #202020;
+  padding: 4px; 
+  width: 98%;
+  height: 64px; 
 }
 
 .content p
@@ -33,7 +38,7 @@ img#double
   background: #202020;
   padding: 4px; 
   width: 98%;
-  height: 72px; 
+  height: 100%; 
 }
 
 .content b
