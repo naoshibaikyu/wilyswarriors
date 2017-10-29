@@ -20,16 +20,16 @@ img#double
 
   max-width: 1280px;
   overflow: hidden;
+    border-radius: 8px;
+  background: #202020;
+  padding: 4px; 
+  width: 98%;
+  height: 100%; 
 }
 
 .content img 
 {
   float: left;
-  border-radius: 8px;
-  background: #202020;
-  padding: 4px; 
-  width: 98%;
-  height: 64px; 
 }
 
 .content p
