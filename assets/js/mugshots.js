@@ -1,4 +1,5 @@
 var directory = "./assets/images/mugshots/";
+div.className = "mugshots";
 
 //Instances of where a character has an image attached to their name. Along with bolding the name.
 
@@ -86,4 +87,3 @@ for (var nameKey in names)
 document.body.style.backgroundColor = "#101010";
 document.body.style.color = "#C0C0C0";
 document.body.style.fontSize = "medium";
-document.getElementById("div").className = "mugshots";
