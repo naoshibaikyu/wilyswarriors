@@ -32,13 +32,7 @@ img#double
 
 .content p
 {
-  border-radius: 8px;
-  background: #202020;
-  padding-bottom: 32px;
-  padding-left: 16px;
-  padding-right: 16px;
-  width: 98%;
-  height: 90%;
+
 }
 
 .content b
@@ -48,9 +42,12 @@ img#double
 }
 
 p {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+  border-radius: 8px;
+  background: #202020;
+  padding-left: 16px;
+  padding-right: 16px;
+  width: 98%;
+  height: 90%;
 
 }
 
