@@ -13,9 +13,6 @@ img#double
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
   transform: scale(2);
   margin: 25px;
-    display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
 
 }
 
@@ -29,9 +26,7 @@ img#double
 .content img 
 {
   float: left;
-  display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
+  
 
 }
 
@@ -44,16 +39,11 @@ img#double
   padding-right: 16px;
   width: 98%;
   height: 90%;
-    display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
   
 }
 
 .content b
-{   display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
+{ 
   font-size: 75%;
   color: lightslategray;
 }
