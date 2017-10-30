@@ -26,6 +26,9 @@ img#double
 .content img 
 {
   float: left;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
 
 }
 
@@ -38,7 +41,7 @@ img#double
   padding-right: 16px;
   width: 98%;
   height: 90%;
-  vertical-align: 32px;
+  
 }
 
 .content b
