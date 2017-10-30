@@ -44,7 +44,7 @@ for (var nameKey in names)
 {
 	for (var emoteKey in emotes)
 	{
-		var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
+		var str = "<p class="mugshot">" + names[nameKey] + emotes[emoteKey] + ":";
 		var suffix = "";
 
 		//Insert name suffix and prefix
