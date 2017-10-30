@@ -48,9 +48,10 @@ img#double
 }
 
 p {
-    text-align: center;
-    margin: auto;
-    font-family: Calibri;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+
 }
 
 
