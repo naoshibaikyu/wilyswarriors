@@ -26,13 +26,18 @@ img#double
 .content img 
 {
   float: left;
-  height: 72px;
 
 }
 
 .content p
 {  
-
+  border-radius: 8px;
+  background: #202020;
+  padding-left: 16px;
+  padding-right: 16px;
+  min-height: 72px;
+  width: 98%;
+  height: 90%;
 }
 
 .content b
@@ -40,16 +45,6 @@ img#double
   font-size: 75%;
   color: lightslategray;
 }
-
-p {
-  border-radius: 8px;
-  background: #202020;
-  padding-left: 16px;
-  padding-right: 16px;
-  width: 98%;
-  height: 90%;
-  }
-
 
 // background-color: #0c376d; //bg
 // background-color: #0a0f3a; //dialog bg
