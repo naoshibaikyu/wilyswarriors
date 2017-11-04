@@ -315,7 +315,17 @@ Magma: Even if he did, look at it this way. He will realize the errors of his wa
 
 HornetAnnoyed: Ughhhh... *Fine...*
 
-MagmaHappy: Welcome to the crew, Galaxy Man! I think we can do with four to set sail. Arr! Time to set sail, lads!
+MagmaHappy: Welcome to the crew, Galaxy Man!
+
+GalaxyHappy: Yay!!
+
+MagmaHappy: And now with that out the way, I think we can do with four of us for now! So it is time to set sail, lads! Arrr!!
+
+PlugHappy: Arr!!
+
+GalaxyHappy: Arr!!
+
+HornetAnnoyed: Arr...
 
 <div class="hhhh">The pirate ship slowly sails towards out of the pool and drags itself across the land, creating a huge earth-destroying trail behind.</div>
 
