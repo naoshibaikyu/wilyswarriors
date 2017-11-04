@@ -1,5 +1,5 @@
 
-<div class="hhhh">**LOCATION:** Team Base</div>
+<div class="hhhh"><b>LOCATION:</b> Team Base</div>
 
 HornetGlare: [flipping through channels] Meh. Nothing good is on TV today...
 
