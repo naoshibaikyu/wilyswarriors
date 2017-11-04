@@ -1,6 +1,5 @@
 
-<div class="hhhh">**LOCATION:** Team Base</div>
-<p></p>
+<br><div class="hhhh">**LOCATION:** Team Base</div></br>
 HornetGlare: [flipping through channels] Meh. Nothing good is on TV today...
 
 FakeAnnoyed: Then stop flipping channels, you've been at it for 30 minutes.
@@ -27,7 +26,7 @@ SpikeAloof: ...
 
 Hornet: When did you get in here? Whatever. Not interested anyways.
 
-[Hornet stops channel flipping and it eventually stops at a show called "Super Salmon Ninja Squad".]
+[Hornet stops channel flipping and ends up at a channel displaying a show called "Super Salmon Ninja Squad".]
 
 HornetGlare: Oh god...
 
