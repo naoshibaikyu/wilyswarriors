@@ -313,13 +313,13 @@ Hornet: You picked Ninjas! Get out!
 
 Magma: Even if he did, look at it this way. He will realize the errors of his ways and become a true pirate!
 
-HornetAnnoyed: Ughhhh... *Fine...*
+HornetAnnoyed: But you just... Ugh. *Fine...*
 
 MagmaHappy: Welcome to the crew, Galaxy Man!
 
 GalaxyHappy: Yay!!
 
-MagmaHappy: And now with that out the way, I think we can do with four of us for now! So it is time to set sail, lads! Arrr!!
+MagmaHappy: And now with that out of the way, I think we can do with the four of us for now! So it is time to set sail, lads! Arrr!!
 
 PlugHappy: Arr!!
 
