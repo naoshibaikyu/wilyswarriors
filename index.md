@@ -16,7 +16,7 @@ FakeSnicker: lol
 
 SpikeAloof: ...
 
-ConcreteAnnoyed: Get out of that shell!
+ConcreteAnnoyed: Get out of there!!
 
 Jewel: where is that damn fourth chaos emerald
 
