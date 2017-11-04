@@ -271,7 +271,7 @@ MagmaHappy: And we still need a pirate ship for our crew!
 
 HornetGlare: Then it's on...!! [grabs the wishbone and holds it up in front of Magma Man]
 
-MagmaGlare: [grabs the wishbone from the other side]
+MagmaAnnoyed: [grabs the wishbone from the other side]
 
 <div class="hhhh">Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b></div>
 
