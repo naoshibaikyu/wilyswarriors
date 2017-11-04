@@ -27,7 +27,7 @@ SpikeAloof: ...
 
 Hornet: When did you get in here? Whatever. Not interested anyways.
 
-[Hornet stops channel flipping and ends up at a channel displaying a show called "Super Salmon Ninja Squad".]
+<div class="hhhh">Hornet stops channel flipping and ends up at a channel displaying a show called "Super Salmon Ninja Squad".</div>
 
 HornetGlare: Oh god...
 
@@ -47,7 +47,7 @@ FakeAnnoyed: They have always been popular, Hornet.
 
 HornetAngry: FAKETTE, DON'T YOU UNDERSTAND?! NINJAS ARE TRASH!! **T-R-A-S-H**
 
-[Elsewhere in the Team's base]
+<div class="hhhh">Elsewhere in the Team's base.</div>
 
 Splash: And that is how you-
 
@@ -63,7 +63,7 @@ HornetGlare: [watched bits of the show right before deciding to flip channels ag
 
 FakeAnnoyed: It's a cartoon... You're suppose to suspend disbelief!
 
-[Suddenly Splash Man zooms into the scene with Plug Man arriving a few seconds later]
+<div class="hhhh">Suddenly Splash Man zooms into the scene with Plug Man arriving a few seconds later.</div>
 
 SplashAngry: Alright, who was it?! Who uttered such a dishonorable thing around here?!
 
@@ -183,7 +183,7 @@ Fake: ...But you do this every day. We have so much food already!
 
 GalaxyAnnoyed: Huh? You're right but whatever!
 
-[As Galaxy Man heads out to the outdoors, Fakette turns to Hornet wanting to go back to the previous conversation]
+<div class="hhhh">As Galaxy Man heads out to the outdoors, Fakette turns to Hornet wanting to go back to the previous conversation</div>
 
 Fake: So... would you rather talk about the Wii U Classic Mini?
 
@@ -217,7 +217,7 @@ FakeShocked: O-Oh. Well, I didn't expect an actual sale. Aheh.... [hands over th
 
 Hornet: Whatever! Hooking it up now! [opens the box]
 
-[Suddenly Magma Man barges in from his trip outdoors.]
+<div class="hhhh">Suddenly Magma Man barges in from his trip outdoors.</div>
 
 Magma: Guess what!?
 
