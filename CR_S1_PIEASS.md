@@ -267,15 +267,17 @@ PlugScared: But, a wishbone only grants one wish! So, whoever gets the longer pi
 
 HornetAnnoyed: Oh what?! Well, I still want my wish!
 
-MagmaHappy: And we need a pirate ship!
+MagmaHappy: And we still need a pirate ship for our crew!
 
-PlugScared:
+HornetGlare: Then it's on...!! [grabs the wishbone and holds it up in front of Magma Man]
 
-<div class="hhhh">Hornet Man and Magma Man holds the wishbone from different sides. Both glare at each other, wanting their own wish to be granted. With a loud snap, the wishbone has been split into two, granting a wish to one person!</div>
+MagmaGlare: [grabs the wishbone from the other side]
+
+<div class="hhhh">Both had a dramatic stare down right before pulling the wishbone to their direction. And... <b>SNAP!!</b></div>
 
 MagmaGiddy: YEAH! [holds the longer piece up]
 
-HornetSad: Fuck.
+HornetAngry: Fuck!
 
 <div class="hhhh">Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!</div>
 
@@ -307,7 +309,7 @@ HornetAnnoyed: Get lost!
 
 Galaxy: Huh. I just wanted to see what you all are upto...
 
-HornetAnnoyed: You picked Ninjas! GET OUT!
+Hornet: You picked Ninjas! Get out!
 
 Magma: Even if he did, look at it this way. He will realize the errors of his ways and become a true pirate!
 
@@ -315,8 +317,7 @@ HornetAnnoyed: Ughhhh... *Fine...*
 
 MagmaHappy: Welcome to the crew, Galaxy Man! I think we can do with four to set sail. Arr! Time to set sail, lads!
 
-<div class="hhhh">The pirate ship slowly sails towards out of the pool and drags across the land, creating a huge grass-destroying path behind.</div>
-
+<div class="hhhh">The pirate ship slowly sails towards out of the pool and drags itself across the land, creating a huge earth-destroying trail behind.</div>
 
 <div class="hhhh"><b>To be continued...</b></div>
 
