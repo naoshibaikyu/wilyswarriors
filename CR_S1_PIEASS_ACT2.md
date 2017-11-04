@@ -1,17 +1,45 @@
 
 **LOCATION:** Pirate Ship
 
-Narrator: The crew's pirate ship set sail for a grand adventure across the sea, er, I mean land? Umm...
+Magma: Alright, mateys. Listen up! As pirates, ye' all do as I say as I am the captain of the crew. We are gon' get that booty and become rich!
 
-[The ship somehow slowly grates across the land, leaving behind a huge path of destroyed ground.]
+GalaxyHappy: [snickers]
 
-Narrator: Yeah, land. I guess.
+MagmaAnnoyed: Eh?
 
-HornetGlare: ...
+GalaxyHappy: You said booty and... oh...
 
-Galaxy: ?
+MagmaAngry: I know what job ye scallywag will have now... You shall clean the poop deck whenever it's a mess and do absolutely nothing else! 'less you want to be shark bait...
 
-HornetGlare: Wow. This is so *boring*. Nothing exciting is even happening.
+GalaxyShocked: (°ロ°)
+
+Galaxy: Wait, if I have to clean the *poop* deck while it's dirty, doesn't this mean I always have to clean it because-
+
+MagmaAngry: ...
+
+GalaxyShocked: Heh. Heh. Get it? Because... poo...
+
+MagmaAngry: ...
+
+Hornet: Hey, you chucklefucks! What am I suppose to do?!
+
+Plug: Same.
+
+Magma: Cranchio, you scout on the Crow's Nest and tell us when there's a threat nearby! We can't afford to be unguarded out in the dangerous sea!
+
+HornetAngry: HEY! I SAID WHAT ABOUT ME?!
+
+Magma: Dunno, do whatever ya want.
+
+HornetAnnoyed: Ugh. I'm going to play the Wii U Classic then.
+
+<div class="hhhh">Hornet Man then remembers he left the system at home</div>
+
+HornetGlare: Fuck.
+
+Galaxy: Huh?
+
+HornetGlare: This is so *boring*. Nothing exciting is even happening.
 
 GalaxyAnnoyed: Dude, we've only just started sailing 3 minutes ago.
 

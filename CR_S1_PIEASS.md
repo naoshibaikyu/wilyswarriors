@@ -57,7 +57,7 @@ PlugShocked: Sacre bleu, what's wrong?
 
 SplashNani: I've sensed some serious *dishonor* from the living room...
 
-[Splash Man immediately darts out of his room with Plug Man following.]
+<div class="hhhh">Splash Man immediately darts out of his room with Plug Man following.</div>
 
 HornetGlare: [watched bits of the show right before deciding to flip channels again] How do these Salmon even walk? They don't have legs anyways!
 
@@ -255,31 +255,41 @@ SpikeAloof: [manages to rolls away successfully, but accidentally leaves behind 
 
 Hornet: Dammit!
 
-PlugHappy: Oh, look! A wishbone! We can make a wish by breaking it into two!
+HornetGlare: Wait, what the hell did he just dropped?
+
+PlugHappy: Oh, look! A wishbone! We can make a wish by snapping it in half!
 
 Hornet: I want a pet parrot before we get a ship!
 
-MagmaHappy: Yeah?! Well we still need a pirate ship!!
+MagmaHappy: Yar! And I want a pirate ship for me journey!
 
-[Hornet Man and Magma Man hold the wishbone and snap it in half. Fortunately for Magma Man, he got the longer piece to grant his wish.]
+PlugScared: But, a wishbone only grants one wish! So, whoever gets the longer piece gets their wish granted!
 
-Hornet: Fuck.
+HornetAnnoyed: Oh what?! Well, I still want my wish!
 
-[The pirate ship suddenly appears outside]
+MagmaHappy: And we need a pirate ship!
+
+PlugScared:
+
+<div class="hhhh">Hornet Man and Magma Man holds the wishbone from different sides. Both glare at each other, wanting their own wish to be granted. With a loud snap, the wishbone has been split into two, granting a wish to one person!</div>
+
+MagmaGiddy: YEAH! [holds the longer piece up]
+
+HornetSad: Fuck.
+
+<div class="hhhh">Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!</div>
 
 GalaxyShocked: [wakes up and sees a pirate ship dropping onto the pool] (°o°) ... **(°ロ°)!**
 
-MagmaGiddy: Arrr, there it is, lads! All aboard the S.S. Magma!
+PlugHappy: [peeks out the window] Wow, it really worked!!
 
-HornetAngry: Dammit! I hope I get a pet parrot on our way then!
+MagmaHappy: [peeks out the window] Yarr!! There it is, lads! All aboard the S.S. Magma!
 
-Magma: You can get both a parrot and treasure in one journey you know! I bet there's plenty of both at the destination!
+HornetSad: Meh.
 
-Hornet: I guess.
+<div class="hhhh">The three goes to board the ship, unknowingly with Galaxy Man curiously trailing behind them.</div>
 
-[The three goes to board the ship, unknowingly with Galaxy Man curiously trailing behind them.]
-
-PlugHappy: This is bigger than I expected!
+PlugShocked: This is bigger than I expected!
 
 MagmaAnnoyed: Yeah. I think we might need a bigger crew than this.
 
@@ -291,59 +301,24 @@ Hornet: Exactly!
 
 GalaxyHappy: Hi.
 
-Magma: Ahoy!
+MagmaHappy: Ahoy!
 
-HornetAngry: Get lost! You've picked Ninja!
+HornetAnnoyed: Get lost!
 
 Galaxy: Huh. I just wanted to see what you all are upto...
 
+HornetAnnoyed: You picked Ninjas! GET OUT!
+
 Magma: Even if he did, look at it this way. He will realize the errors of his ways and become a true pirate!
 
-HornetAnnoyed: Ughhhh... *Fine...* But listen here, you better not do anything funny... Or else.
+HornetAnnoyed: Ughhhh... *Fine...*
 
 MagmaHappy: Welcome to the crew, Galaxy Man! I think we can do with four to set sail. Arr! Time to set sail, lads!
 
-(The pirate ship slowly sails towards out of the pool and drags across the land, creating a huge grass-destroying path behind.)
-
-Magma: Alright, mateys. Listen up! As pirates, ye' all do as I say as I am the captain of the crew. We are gon' get that booty and become rich!
-
-GalaxyHappy: [snickers]
-
-MagmaAnnoyed: Eh?
-
-GalaxyHappy: You said booty and... oh...
-
-MagmaAngry: I know what job ye scallywag will have now... You shall clean the poop deck whenever it's a mess and do absolutely nothing else! 'less you want to be shark bait...
-
-GalaxyShocked: (°ロ°)
-
-Galaxy: Wait, if I have to clean the *poop* deck while it's dirty, doesn't this mean I always have to clean it because-
-
-MagmaAngry: ...
-
-GalaxyShocked: Heh. Heh. Get it? Because... poo...
-
-MagmaAngry: ...
-
-Hornet: Hey, you chucklefucks! What am I suppose to do?!
-
-Plug: Same.
-
-Magma: Cranchio, you scout on the Crow's Nest and tell us when there's a threat nearby! We can't afford to be unguarded out in the dangerous sea!
-
-HornetAngry: HEY! I SAID WHAT ABOUT ME?!
-
-Magma: Dunno, do whatever ya want.
-
-HornetAnnoyed: Ugh. I'm going to play the Wii U Classic then.
-
-[Hornet Man then remembers he left the system at home]
-
-HornetGlare: Fuck.
+<div class="hhhh">The pirate ship slowly sails towards out of the pool and drags across the land, creating a huge grass-destroying path behind.</div>
 
 
-
-**To be continued...**
+<div class="hhhh"><b>To be continued...</b></div>
 
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
