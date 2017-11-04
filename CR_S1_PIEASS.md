@@ -273,7 +273,7 @@ HornetGlare: Then it's on...!! [grabs the wishbone and holds it up in front of M
 
 MagmaGlare: [grabs the wishbone from the other side]
 
-<div class="hhhh">Both had a dramatic stare down right before pulling the wishbone to their direction. And... <b>SNAP!!</b></div>
+<div class="hhhh">Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b></div>
 
 MagmaGiddy: YEAH! [holds the longer piece up]
 
