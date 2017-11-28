@@ -16,9 +16,9 @@ GalaxyHappy: Look at me spinning my yo-yo!!
 
 GalaxyOwO: Hoo Ha Ha Huu Ha Huu!
 
-<div class="hhhh">[Everyone but him has already left the room.]</div>
+<div class="hhhh">...</div>
 
-GalaxySad: Oh I'm depressed...
+GalaxySad: [looks around] Oh I'm depressed...
 
 <div class="hhhh"><b>LOCATION:</b>Space</div>
 
@@ -44,7 +44,9 @@ PlugShocked: No, I do!!
 
 PlugDamaged:
 
-HornetGlare: We have come to take over!
+MagmaAngry: Hoo Ha Ha Huu Ha Huu!
+
+HornetPissed: We have come to take over!
 
 SplashAngry: Bring it!
 
