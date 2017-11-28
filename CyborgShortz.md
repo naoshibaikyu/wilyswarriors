@@ -32,7 +32,7 @@ TornadoHotDog: Hoo Ha Ha Huu Ha Huu!
 
 <div class="hhhh"><b>LOCATION:</b>Team Base</div>
 
-Splash: [sending a huge fireball at Plug Man's direction] **FWEW**
+Splash: [sending a huge fireball at Plug Man's direction] **FIRE**
 
 PlugShocked: No!! I give!!
 
