@@ -54,7 +54,7 @@ PlugDamaged: Why I am being attacked by bees?
 
 GalaxyHappy: Wee!!
 
-TornadoHotDog: Happy Birthday
+TornadoHotDog: Birthday Happy. Celebrate
 
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
