@@ -1,4 +1,4 @@
-<div class="hhhh">Shortz #1: Stop farting.</div>
+<div class="hhhh"><center><b>Test Shortz #1:</b> Stop farting.</center></div>
 
 <div class="hhhh"><b>LOCATION:</b>Team Base: Training Room</div>
 
