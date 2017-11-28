@@ -1,6 +1,6 @@
 <div class="hhhh"><center><b>Test Shortz #1:</b> Stop farting.</center></div>
 
-<div class="hhhh"><b>LOCATION:</b>Team Base: Training Room</div>
+<div class="hhhh"><b>LOCATION: </b>Team Base's Training Room</div>
 
 PlugAngry: Attack!!! [sends out a huge electrical spark]
 
