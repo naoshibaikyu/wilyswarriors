@@ -56,5 +56,47 @@ GalaxyHappy: Wee!!
 
 TornadoHotDog: Birthday Happy. Celebrate
 
+<div class="none">Fin.</div>
+
+<div class="hhhh"><center><b>Test Shortz #2:</b> Stop.</center></div>
+
+HornetGlare: Stop it.
+
+GalaxyHappy: Stop what?
+
+HornetAnnoyed: The thing you're doing. Stop it.
+
+GalaxyHappy: This?
+
+HornetAnnoyed: Stop.
+
+GalaxyHappy: Nah.
+
+HornetAngry: Stop it!!
+
+GalaxyHappy: Nope.
+
+HornetShocked: I SAID STOP IT AUGGHHGFHGHGHGHGHGHGHHJHJGGHKGJKG...
+
+GalaxyOwO: Did I do that?
+
+HornetDamaged: ...
+
+GalaxyOwO: ...:)
+
+HornetRelieved: Shop.
+
+Galaxy: Shop?
+
+GalaxyAngry: STOP!!
+
+HornetRelieved: ...
+
+GalaxyAngry: HORNET! THERE IS NO SHOP!!! STOP IT OR I'LL GET TAKEN AWAY TO THE FUNNY FARM-
+
+HornetRelieved: Good...
+
+<div class="none">Fin.</div>
+
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
