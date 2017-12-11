@@ -2,7 +2,6 @@
 <h2>Season 1 Episode #3</h2>
 <h4>PIEASS</h4>
 <h5>Written by Psycho The Mantis</h5>
-
 </center></div>
 
 <div class="hhhh"><b>LOCATION:</b> Team Base</div>
