@@ -1,5 +1,7 @@
 <div class="hhhh"><center>
-<h1>Season 1 Episode #3</h1><h4>PIEASS</h4><h5>Written by Psycho The Mantis</h5>
+<h4>Season 1 Episode #?</h4>
+<h2>PIEASS</h2>
+<h6>Written by Psycho The Mantis</h6>
 </center></div>
 
 <div class="hhhh"><b>LOCATION:</b> Team Base</div>
