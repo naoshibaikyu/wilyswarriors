@@ -4,13 +4,13 @@
 <h6>Written by Psycho The Mantis</h6>
 </center></div>
 
-<b>
+<b><div class=""></div>
 
 <div class=""><center>
 <h1>ACT I</h1>
 </center></div>
 
-<b>
+<b><div class=""></div>
 
 <div class="hhhh"><b>LOCATION:</b> Team Base</div>
 
