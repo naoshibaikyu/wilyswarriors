@@ -20,7 +20,7 @@ HornetAnnoyed: Bah Humbug?
 
 GalaxyScared: Oops, I accidentally blew up the tree!
 
-PlugShocked: 
+PlugShocked: Great scott!!
 
 JewelAnnoyed: Galaxy, I told you creating a mini nova star would-
 
