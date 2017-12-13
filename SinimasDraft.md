@@ -2,11 +2,11 @@
 <h4>Season 1 Christmas Special Mock Up</h4>
 <h2>It's Beginning to Look A Lot Like Sinimas</h2>
 <h6>Written by Psycho The Mantis</h6>
+<hr>
 </center></div>
 
 <div class="">
 <h1>ACT I</h1>
-<hr>
 </div>
 
 <div class="hhhh"><b>LOCATION:</b> Team Base</div>
