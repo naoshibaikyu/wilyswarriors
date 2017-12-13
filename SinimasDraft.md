@@ -63,5 +63,7 @@ Magma: I'm taking over the north pole good day.
 <h2>ACT II</h2>
 </center></div>
 
+:@
+
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
