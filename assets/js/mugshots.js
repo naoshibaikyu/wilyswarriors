@@ -15,8 +15,8 @@ var names = {concrete:"Concrete",
 	fake:"Fake",
 	jewel:"Jewel",
 	splash:"Splash",
-	narrator:"Narrator"
-	pasthornet:"PastHornet",
+	narrator:"Narrator",
+	pasthornet:"'Young' Hornet"
 };
 
 var emotes = {original:"",
@@ -66,9 +66,6 @@ for (var nameKey in names)
 				prefix = "Concrete";
 				suffix = " Man";
 				break;
-			case "pasthornet":
-				prefix = "'Hornet";
-				suffix = " Man'";
 			case "narrator":
 				suffix = "";
 				break;
