@@ -16,7 +16,7 @@ var names = {concrete:"Concrete",
 	jewel:"Jewel",
 	splash:"Splash",
 	narrator:"Narrator",
-	pasthornet:"'Young' Hornet"
+	pasthornet:"Past Hornet"
 };
 
 var emotes = {original:"",
