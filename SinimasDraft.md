@@ -57,13 +57,63 @@ MagmaAnnoyed: Sinimas.
 
 SplashAngry: No.
 
-Magma: I'm taking over the north pole good day.
+Magma: I'm going to become Santa's PR. GOOD DAY
+
+<div class="hhhh">
+DOOR SLAM SFX
+</div>
 
 <div class=""><center>
-<h2>ACT II</h2>
+<h1>ACT II</h1>
 </center></div>
 
-:@
+FakeSnicker: Hey, let's make Hornet Man not cynical and a piece of shit for the holidays.
+
+SplashAnnoyed: Ok
+
+Galaxy: Ok
+
+HornetGlare: Bah Humbug... zzzz
+
+FakeSnicker: [shape shifts into ghost of christmas past] Boo
+
+Hornet: oh no
+
+Fake: I'm ghost of christmas past come with me ok yes
+
+Hornet: no
+
+FakeAngry: I SAID OK Yes
+
+Hornet: good point
+
+SplashSad: [hornet man costume] My name is Hornet Man and I'm smelly
+
+GalaxyAnnoyed: [behind a prop] **ahem**
+
+SplashShocked: Oh
+
+SplashAngry: Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [smashes a bunch of empty xmas boxes] 
+
+Hornet: wow do I really smell
+
+Fake: ya
+
+Hornet: oh ok i need to take care of my hygene. thank you so much. ok going back to bed
+
+FakeAngry: ugh
+
+<div class="hhhh">
+Meanwhile
+</div>
+
+MagmaGiddy: Heh heh heh
+
+Magma: Wait where is even the North Pole
+
+unfinished here ok bye
+
+
 
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
