@@ -87,21 +87,21 @@ FakeAngry: I SAID OK Yes
 
 Hornet: good point
 
-SplashSad: [hornet man costume] My name is Hornet Man and I'm smelly
+PastHornetAnnoyed: My name is Hornet Man and I'm smelly
 
 GalaxyAnnoyed: [behind a prop] **ahem**
 
-SplashShocked: Oh
+PastHornet: Oh
 
-SplashAngry: Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [smashes a bunch of empty xmas boxes] 
+PastHornet: Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [smashes a bunch of empty xmas boxes] 
 
 Hornet: wow do I really smell
 
 Fake: ya
 
-Hornet: oh ok i need to take care of my hygene. thank you so much. ok going back to bed
+Hornet: oh ok i just need to take care of my hygene. thank you so much. ok going back to bed
 
-FakeAngry: ugh
+FakeAnnoyed: ugh
 
 <div class="hhhh">
 Meanwhile
