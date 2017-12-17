@@ -89,17 +89,17 @@ Hornet: good point
 
 PastHornetAnnoyed: My name is Hornet Man and I'm smelly
 
+HornetGlare: hmmm..
+
 GalaxyAnnoyed: [behind a prop] **ahem**
 
-PastHornet: Oh
-
-PastHornet: Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [smashes a bunch of empty xmas boxes] 
+PastHornet: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [smashes a bunch of empty xmas boxes] 
 
 Hornet: wow do I really smell
 
-Fake: ya
-
-Hornet: oh ok i just need to take care of my hygene. thank you so much. ok going back to bed
+FakeAnnoyed: ...
+ 
+Hornet: guess i just need to take care of my hygene. thank you so much. ok going back to bed
 
 FakeAnnoyed: ugh
 
@@ -111,7 +111,51 @@ MagmaGiddy: Heh heh heh
 
 Magma: Wait where is even the North Pole
 
-unfinished here ok bye
+Penguin: Ya fuck, this is the South Pole. GET OUT OF HERE. OUT.
+
+MagmaAngry: That's it. [blows up the penguin] I'm going straight to the North Pole!!
+
+<div class="hhhh">
+He takes out a huge drill and goes drilling in from the center of the South Pole.
+</div>
+
+<div class=""><center>
+<h1>ACT III</h1>
+</center></div>
+
+MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+<div class="hhhh">
+He digs through the earths core.
+</div>
+
+MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+<div class="hhhh">
+He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.
+</div>
+
+Elves: What
+
+Santa: Ho Ho Holy Fuck
+
+Magma: Can I join ur teem pls I wanna be PR Man but I was told by the 2 Dark I have to say fat warios pls 500 times
+
+Santa: yo you were cool holy shit we gotta make christmas edgy
+
+Magma: yoy TIME TO RENAME IT TO SINIMAS
+
+Santa: yeah!!
+
+Santa:
+
+Santa: whats a sinimas
+
+<div class="hhhh">
+Meanwhile
+</div>
+
+HornetGlare: Snore
 
 
 
