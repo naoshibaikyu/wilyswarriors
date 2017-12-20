@@ -181,7 +181,7 @@ Magma: sorry
 
 Santa: we need to rebrand christmas... somehow...
 
-MagmaHappy: holy shit we gotta make christmas edgy
+Magma: holy shit we gotta make christmas edgy
 
 Santa: yeah!
 
