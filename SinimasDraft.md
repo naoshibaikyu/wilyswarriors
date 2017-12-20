@@ -141,21 +141,61 @@ Santa: Ho Ho Holy Fuck
 
 Magma: Can I join ur teem pls I wanna be PR Man but I was told by the 2 Dark I have to say fat warios pls 500 times
 
-Santa: yo you were cool holy shit we gotta make christmas edgy
+Santa: yo you were cool. HOLY SHIT. HIRED.
 
-Magma: yoy TIME TO RENAME IT TO SINIMAS
-
-Santa: yeah!!
-
-Santa:
-
-Santa: whats a sinimas
+MagmaGiddy: ya
 
 <div class="hhhh">
 Meanwhile
 </div>
 
 HornetGlare: Snore
+
+Plug: I am the ghost of Christmas Present.
+
+Hornet: Really?
+
+Plug: ya
+
+Hornet: ...
+
+Plug: we're just standing here. thats the present. i hope you learned your lesson. bye.
+
+Hornet: Who was that weirdo
+
+GalaxyAnnoyed: ...
+
+Plug: what?
+
+<div class="hhhh">
+Meanwhile
+</div>
+
+Santa: Ok so you're now hired, now what?
+
+Magma: idk my best friend bill
+
+Santa: MY NAME IS NOT BILL!!!
+
+Magma: sorry
+
+Santa: we need to rebrand christmas... somehow...
+
+MagmaHappy: holy shit we gotta make christmas edgy
+
+Santa: yeah!
+
+MagmaGiddy: AND RENAME IT SINIMAS
+
+Santa: YEAH!!
+
+Santa:
+
+Santa: whats a sinimas
+
+<div class=""><center>
+<h1>ACT IV</h1>
+</center></div>
 
 
 
