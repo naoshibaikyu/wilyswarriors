@@ -40,7 +40,7 @@ Splash: Where did the water come from?
 
 FakeSad: My blood. [immediately collaspes]
 
-SplashAnnoyed: ...
+SplashShocked: ...
 
 FakeSnicker: Just kidding! It's just water.
 
@@ -56,7 +56,7 @@ HornetGlare: A likely story.
 *AHEM*
 </div>
 
-Tornado: Tornde will solve mysterious cause.
+Tornado: Tornde will solve unknown cause.
 
 Splash: Always good to have our resident detective!
 
@@ -87,6 +87,8 @@ HornetGlare: Meh.
 <div class="hhhh">
 Hornet looks at the charred tree then chucks Galaxy Man towards it.
 </div>
+
+Eveyrthing here below is from the draft... ignore '-'
 
 HornetGlare: Bah Humbug...
 
