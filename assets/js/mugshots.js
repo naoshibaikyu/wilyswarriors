@@ -65,6 +65,7 @@ for (var nameKey in names)
 			case "spike":
 				prefix = "Concrete";
 				suffix = " Man";
+				break;
 			case "pasthornet":
 				prefix = "Past Hornet";
 				suffix = " Man";
