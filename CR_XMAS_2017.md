@@ -62,13 +62,13 @@ Splash: Always good to have our resident detective!
 
 GalaxyShocked: ...
 
-Tornado: [walks over to the burnt tree and inspects it] Cause not regular. Robot Master power possible. [turns back to the team]
+Tornado: [walks over to the burnt tree and inspects it] Cause not regular. Top burnt from extreme. Robot Master power possible. [turns back to the team]
 
 GalaxyShocked: **!!**
 
 TornadoAnnoyed: Yes. Reaction. Power was likely space man. [points at Galaxy Man's direction]
 
-JewelAnnoyed: Galaxy Man?! Ugh! I've tried to tell you creating a mini nova star would-
+JewelAnnoyed: Galaxy Man?! Ugh! I've told you creating a mini nova star would-
 
 SplashAngry: What?! Seriously?! Why on Earth would you create a mini nova.
 
