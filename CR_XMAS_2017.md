@@ -168,7 +168,7 @@ FakeSnicker: Great! This is going to be *so fun*.
 
 
 <div class="hhhh">
-***Everything here below is from the draft... ignore '-'***
+<b>Everything here below is from the draft... ignore '-'</b>
 </div>
 
 Fake: Should we?
