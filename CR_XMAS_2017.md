@@ -1,7 +1,8 @@
 <div class=""><center>
-<h4>Season 1 Christmas Special Mock Up</h4>
+<h4>Cyborg Resistance's 2017 Christmas Special</h4>
 <h2>It's Beginning to Look A Lot Like Sinimas</h2>
 <h6>Written by Psycho The Mantis</h6>
+<h6>Special Thanks to Sinistar and SilverDime</h6>
 <hr>
 </center></div>
 
@@ -11,20 +12,80 @@
 
 <div class="hhhh"><b>LOCATION:</b> Team Base</div>
 
-Narrator: It's the Christmas Eve Eve Eve Eve. Which means 4 days before Christmas. Wow. Anyways, just your-**[BOOM]** ...typical day!
+Narrator: It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-**[BOOM]** ...typical day... Yeah.
 
-HornetAnnoyed: Bah Humbug?
+SplashShocked: [rushing to the living room] What the heck? What just happened??
 
-GalaxyScared: Oops, I accidentally blew up the tree!
+SpikeAloof: ...
 
-PlugShocked: Great scott!!
+GalaxyScared: Uhhh.... ummm...
 
-JewelAnnoyed: Galaxy, I told you creating a mini nova star would-
+PlugShocked: Great scott!! The tree is on fire! Put it out!!
 
-Hornet: Bah Humbug.
+Jewel: [holding a fire extinguisher] I can't! There's nothing in it?!
+
+SplashAnnoyed: Dang it! It's all used up for some reason, why?
+
+PlugScared: I don't know, but do something!! It's spreading to the ground!
+
+FakeSnicker: Not to worry! Fakette and her shapeshifting powers to the rescue!
 
 <div class="hhhh">
-Hornet throws Galaxy Man at the charred tree.
+Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
+</div>
+
+FakeHappy: All done!
+
+Splash: Where did the water come from?
+
+FakeSad: My blood. [immediately collaspes]
+
+SplashAnnoyed: ...
+
+FakeSnicker: Just kidding! It's just water.
+
+SplashAnnoyed: ...
+
+SplashAngry: Right. Anyways... Who did this dishonorable act? Who would burn the tree?!
+
+GalaxyShocked: It wasn't me!
+
+HornetGlare: A likely story.
+
+<div class="hhhh">
+*AHEM*
+</div>
+
+Tornado: Tornde will solve mysterious cause.
+
+Splash: Always good to have our resident detective!
+
+GalaxyShocked: ...
+
+Tornado: [walks over to the burnt tree and inspects it] Cause not regular. Robot Master power possible. [turns back to the team]
+
+GalaxyShocked: **!!**
+
+TornadoAnnoyed: Yes. Reaction. Power was likely Space Man. [points at Galaxy Man's direction]
+
+JewelAnnoyed: Galaxy Man?! Ugh! I've tried to tell you creating a mini nova star would-
+
+SplashAngry: What?! Seriously?! Why on Earth would you create a mini nova.
+
+GalaxySad: I just wanted to make a fancy star for the tree...
+
+HornetAngry: [grabs Galaxy Man] **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
+
+SplashAnnoyed: Uhm...
+
+SpikeAloof: ...
+
+GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! You can sleep now!! Don't hurt me, Hornet, please!!
+
+HornetGlare: Meh. 
+
+<div class="hhhh">
+Hornet looks at the charred tree then chucks Galaxy Man towards it.
 </div>
 
 HornetGlare: Bah Humbug...
