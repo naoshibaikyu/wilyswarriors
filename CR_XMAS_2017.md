@@ -18,15 +18,15 @@ SplashShocked: [rushing to the living room] What the heck? What just happened??
 
 SpikeAloof: ...
 
-GalaxyScared: Uhhh.... ummm...
+GalaxyScared: [blackened and dizzy from the impact] Uhhh.... ummm... [falls over]
 
-PlugShocked: Great scott!! The tree is on fire! Put it out!!
+PlugShocked: **Great scott!!** [points towards the Christmas tree] The tree is on fire! Put it out!!
 
-Jewel: [holding a fire extinguisher] I can't! There's nothing in it?!
+Jewel: [attempts to spray with the fire extinguisher] I can't! There's nothing in it?!
 
-SplashAnnoyed: Dang it! It's all used up for some reason, why?
+SplashAnnoyed: Dang it! It's been used up for some reason, why?
 
-PlugScared: I don't know, but do something!! It's spreading to the ground!
+PlugScared: I don't know, but do something!! The fire is about to spread to the ground!
 
 FakeSnicker: Not to worry! Fakette and her shapeshifting powers to the rescue!
 
@@ -34,19 +34,19 @@ FakeSnicker: Not to worry! Fakette and her shapeshifting powers to the rescue!
 Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
 </div>
 
-FakeHappy: All done!
+FakeHappy: *Tada~!* All done!
 
-Splash: Where did the water come from?
+Splash: Uh... Where did the water come from?
 
 FakeSad: My blood. [immediately collaspes]
 
-SplashShocked: ...
+SplashShocked: **!?**
 
-FakeSnicker: Just kidding! It's just water.
+FakeSnicker: Just kidding! It's really just water.
 
 SplashAnnoyed: ...
 
-SplashAngry: Right. Anyways... Who did this dishonorable act? Who would burn the tree?!
+SplashAngry: *Right*... Anyways, who have commited such a terrible act? Who would burn the tree?!
 
 GalaxyShocked: It wasn't me!
 
@@ -66,7 +66,7 @@ Tornado: [walks over to the burnt tree and inspects it] Cause not regular. Robot
 
 GalaxyShocked: **!!**
 
-TornadoAnnoyed: Yes. Reaction. Power was likely Space Man. [points at Galaxy Man's direction]
+TornadoAnnoyed: Yes. Reaction. Power was likely space man. [points at Galaxy Man's direction]
 
 JewelAnnoyed: Galaxy Man?! Ugh! I've tried to tell you creating a mini nova star would-
 
@@ -88,21 +88,87 @@ HornetGlare: Meh.
 Hornet looks at the charred tree then chucks Galaxy Man towards it.
 </div>
 
-Eveyrthing here below is from the draft... ignore '-'
+HornetGlare: Feh. Now that's taken care of I'm going back to sleep.
 
-HornetGlare: Bah Humbug...
+SplashAnnoyed: But it's only 5PM.
 
-Splash: Someone's not in the spirit.
+HornetAnnoyed: Yeah so? I just want to sleep til the Holiday goes by.
 
-HornetAngry: BAH HUMBUG!
+FakeAnnoyed: Well, I see someone's not in the holiday spirit.
 
-Jewel: Wow, don't be a scrooge.
+Hornet: I get nothing but coal every Christmas. What good is coal these days?! USELESS GARBAGE! THAT'S WHAT!
 
-Hornet: Bah Humbug...
+GalaxyDamage: Well maybe if you weren't such a...
+
+HornetGlare: ...
+
+GalaxyDamage: Uhm...
+
+HornetGlare: Finish that. I dare you.
+
+SplashAngry: He's right though. Maybe you at least should spend the rest of the holidays being nice!
+
+Hornet: And?
+ 
+Splash: So that way you won't end up on Santa's naughty list?
+
+Hornet: Santa's not real!
+
+Splash: Yes he is!
+
+Hornet: I'm not stupid, Splash Man.
+
+Jewel: He wasn't going to fall for that you know.
+
+SplashAnnoyed: *Sigh*
+
+Plug: [cleaning up the mess from the fire] I think we need a new a new tree...
+
+HornetAnnoyed: [shakes his head] Bah Humbug...
+
+SplashAngry: Oh don't you start that-
+
+HornetGlare: Bah Humbug!!
+
+JewelAnnoyed: Jeez, don't be such a Scrooge!
+
+HornetAngry: **BAH HUMBUG!**
 
 <div class="hhhh">
-Hornet exits to his room.
+Hornet leaves to his room and slams the door shut.
 </div>
+
+SplashAnnoyed: This is going to be a long night...
+
+Fake: [to self] ...Should we? Hmmm...
+
+SplashAnnoyed: What? Give him more presents full of coal?
+
+FakeAnnoyed: Well no. Jewel's comment gave me an idea actually!
+
+PlugHappy: Oh! Do tell!
+
+FakeAnnoyed: Why don't we dress up as the three Ghosts of Christmas and teach him the holiday spirit?
+
+Splash: That's never going to work. He'll just end up being annoyed!
+
+FakeSnicker: Exactly!
+
+SplashAnnoyed: ...
+
+PlugAnnoyed: ...
+
+SplashHappy: I'm in!
+
+Plug: Same I guess.
+
+PlugRelieved: Oh! Me too! Me too!
+
+FakeSnicker: Great! This is going to be *so fun*.
+
+
+
+Everything here below is from the draft... ignore '-'
 
 Fake: Should we?
 
