@@ -167,9 +167,10 @@ GalaxyRelieved: Oh! Me too! Me too!
 FakeSnicker: Great! This is going to be *so fun*.
 
 
-<div class="hhhh">
-<b>Everything here below is from the draft... ignore '-'</b>
-</div>
+
+<div class=""><center>
+<h1>Everything here below is from the draft... ignore '-'</h1>
+</center></div>
 
 Fake: Should we?
 
