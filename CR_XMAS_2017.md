@@ -162,7 +162,7 @@ SplashHappy: I'm in!
 
 Plug: Same I guess.
 
-PlugRelieved: Oh! Me too! Me too!
+GalaxyRelieved: Oh! Me too! Me too!
 
 FakeSnicker: Great! This is going to be *so fun*.
 
