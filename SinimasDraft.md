@@ -9,7 +9,7 @@
 <h1>ACT I</h1>
 </div>
 
-<div class="hhhh"><b>LOCATION:</b> Team Base</div>
+<div class="narration"><b>LOCATION:</b> Team Base</div>
 
 Narrator: It's the Christmas Eve Eve Eve Eve. Which means 4 days before Christmas. Wow. Anyways, just your-**[BOOM]** ...typical day!
 
@@ -23,7 +23,7 @@ JewelAnnoyed: Galaxy, I told you creating a mini nova star would-
 
 Hornet: Bah Humbug.
 
-<div class="hhhh">
+<div class="narration">
 Hornet throws Galaxy Man at the charred tree.
 </div>
 
@@ -37,7 +37,7 @@ Jewel: Wow, don't be a scrooge.
 
 Hornet: Bah Humbug...
 
-<div class="hhhh">
+<div class="narration">
 Hornet exits to his room.
 </div>
 
@@ -59,7 +59,7 @@ SplashAngry: No.
 
 Magma: I'm going to become Santa's PR. GOOD DAY
 
-<div class="hhhh">
+<div class="narration">
 DOOR SLAM SFX
 </div>
 
@@ -103,7 +103,7 @@ Hornet: guess i just need to take care of my hygene. thank you so much. ok going
 
 FakeAnnoyed: ugh
 
-<div class="hhhh">
+<div class="narration">
 Meanwhile
 </div>
 
@@ -115,7 +115,7 @@ Penguin: Ya fuck, this is the South Pole. GET OUT OF HERE. OUT.
 
 MagmaAngry: That's it. [blows up the penguin] I'm going straight to the North Pole!!
 
-<div class="hhhh">
+<div class="narration">
 He takes out a huge drill and goes drilling in from the center of the South Pole.
 </div>
 
@@ -123,15 +123,15 @@ He takes out a huge drill and goes drilling in from the center of the South Pole
 <h1>ACT III</h1>
 </center></div>
 
-MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
 
-<div class="hhhh">
+<div class="narration">
 He digs through the earths core.
 </div>
 
-MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
 
-<div class="hhhh">
+<div class="narration">
 He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.
 </div>
 
@@ -145,7 +145,7 @@ Santa: yo you were cool. HOLY SHIT. HIRED.
 
 MagmaGiddy: ya
 
-<div class="hhhh">
+<div class="narration">
 Meanwhile
 </div>
 
@@ -167,7 +167,7 @@ GalaxyAnnoyed: ...
 
 Plug: what?
 
-<div class="hhhh">
+<div class="narration">
 Meanwhile
 </div>
 

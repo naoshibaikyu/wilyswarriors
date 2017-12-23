@@ -10,7 +10,7 @@
 ACT I
 </h1></center></div>
 
-<div class="hhhh"><b>LOCATION:</b> Team Base</div>
+<div class="narration"><b>LOCATION: </b>Living Room</div>
 
 Narrator: It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-**[BOOM]** ...typical day... Yeah.
 
@@ -30,7 +30,7 @@ PlugScared: I don't know, but do something!! The fire is about to spread to the 
 
 FakeSnicker: Not to worry! Fakette and her shapeshifting powers to the rescue!
 
-<div class="hhhh">
+<div class="narration">
 Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
 </div>
 
@@ -52,7 +52,7 @@ GalaxyShocked: It wasn't me!
 
 HornetGlare: A likely story.
 
-<div class="hhhh">
+<div class="narration">
 *AHEM*
 </div>
 
@@ -84,7 +84,7 @@ GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! You can sleep now!
 
 HornetGlare: Meh. 
 
-<div class="hhhh">
+<div class="narration">
 Hornet looks at the charred tree then chucks Galaxy Man towards it.
 </div>
 
@@ -134,7 +134,7 @@ JewelAnnoyed: Jeez, don't be such a Scrooge!
 
 HornetAngry: **BAH HUMBUG!**
 
-<div class="hhhh">
+<div class="narration">
 Hornet leaves to his room and slams the door shut.
 </div>
 
@@ -166,13 +166,13 @@ GalaxyRelieved: Oh! Me too! Me too!
 
 FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
-<div class=""><center>
-<h1>ACT II</h1>
-</center></div>
+<div class=""><center><h1>
+ACT II
+</h1></center></div>
 
-<div class="hhhh"><b>LOCATION:</b> Team Base</div>
+<div class="narration"><b>LOCATION: </b>Living Room</div>
 
-<div class="hhhh">
+<div class="narration">
 Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
 </div>
 
@@ -212,9 +212,9 @@ MagmaGiddy: That's right! I'm going to replace Christmas. What better way to int
 
 JewelAnnoyed: Um, have fun with that I guess.
 
-MagmaGiddy: YEAHHHH!!!
+MagmaGiddy: YEAnarration!!!
 
-<div class="hhhh">
+<div class="narration">
 Magma Man dashes outside, gets in a flying vehicle and flies away.
 </div>
 
@@ -222,11 +222,103 @@ TornadoAnnoyed: Still confusion. But also concern.
 
 JewelAnnoyed: Wait, did he just took Dr. Light's flying car?
 
-<div class="hhhh">
-Meanwhile
+<div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
+
+HornetSleep: Zzzz... Zzzzzzzzz........
+
+GhostPast: Heheheh...
+
+GhostPast: BOO!
+
+HornetShocked: [immediately wakes up and sits up on his bed] AUGH! What the?! [turns to the ghost] ...
+
+GhostPast: ...
+
+HornetGlare: Who the hell are you?
+
+GhostPast: Hornet Man, I am your Ghost of the Christmas Past.
+
+Hornet: ...
+
+HornetGlare: Whatever.
+
+GhostPast: But wouldn't you like to revisit your past? It's right out of this door!
+
+Hornet: What?
+
+GhostPast: Follow meeeeeee... [bumps into the door] Ooof! Uh, can you open the door? I'm only a ghost candle.
+
+Hornet: Fine.
+
+<div class="narration">
+Hornet Man gets out of the bed and walks towards the door to open it. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
 </div>
 
-GhostPast: AAAAAA
+HornetAnnoyed: Hello, past me.
+
+PastHornet: ...!
+
+HornetAnnoyed: Psst, never join Cyborg Resistance when you're older. Or you'd be dealing with a major headache from a UFO.
+
+GhostPast: He can't see or hear you. You're only experiencing old memories.
+
+Hornet: What? But he just looked at me!
+
+GhostPast: He's not! [looks back at Splash Man and gives a glare] It was just well timed he looked at your direction is all!
+
+HornetGlare: Lame. I wanna go back to my room then.
+
+GhostPast: But you've just got here!
+
+Hornet: Fine! [looks at Splash Man]
+
+PastHornet: My name is Hornet Man and I smell really bad!
+
+HornetGlare: ...Hmmm...
+
+GalaxyAnnoyed: [behind a prop] **ahem** [quietly to Splash Man] You're ruining it.
+
+PastHornetAnnoyed: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [lazily smashes a bunch of empty xmas boxes]
+
+GhostPast: So... uh... Do you get it now?
+
+Hornet: Yeah, I just need to take care of my personal hygene more.
+
+GhostPast: Erm...
+
+Hornet: Look, I honestly don't know what else is wrong here. And well, it's been fun but I want to *sleep* right now.
+
+GhostPast: Really? Nothing wrong here?
+
+HornetGlare: Yes and you're just wasting my time at this point. So just go away!
+
+<div class="narration">
+Hornet Man walks back towards his room and rests in his bed again.
+</div>
+
+GhostPast: ...
+
+GalaxyAnnoyed: ...
+
+PastHornet: What?
+
+PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn...
+
+<div class="narration"><b>LOCATION: </b>Somewhere in a frozen desert.</div>
+
+MagmaAnnoyed: [gets out of the frozen vehicle's wreckage] Curses! No one told me the North Pole was going to be that cold!
+
+MagmaGiddy: Doesn't matter! I am certain the workshop is not too far from here!!
+
+Chill: Hey, man.
+
+MagmaAnnoyed: Eh? Who may you be?
+
+Chill: Just a forgotten member of an old defunct team... Never recognized and always missing in action.
+
+MagmaSad: Oh, I'm sorry.
+
+Chill: Haha, nah. I don't care. I was so lazy and was never there anyways. I'm just really... chill, man.
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>
@@ -250,13 +342,6 @@ FakeAngry: I SAID OK Yes
 
 Hornet: good point
 
-PastHornetAnnoyed: My name is Hornet Man and I'm smelly
-
-HornetGlare: hmmm..
-
-GalaxyAnnoyed: [behind a prop] **ahem**
-
-PastHornet: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [smashes a bunch of empty xmas boxes] 
 
 Hornet: wow do I really smell
 
@@ -266,7 +351,7 @@ Hornet: guess i just need to take care of my hygene. thank you so much. ok going
 
 FakeAnnoyed: ugh
 
-<div class="hhhh">
+<div class="narration">
 Meanwhile
 </div>
 
@@ -278,7 +363,7 @@ Penguin: Ya fuck, this is the South Pole. GET OUT OF HERE. OUT.
 
 MagmaAngry: That's it. [blows up the penguin] I'm going straight to the North Pole!!
 
-<div class="hhhh">
+<div class="narration">
 He takes out a huge drill and goes drilling in from the center of the South Pole.
 </div>
 
@@ -286,15 +371,15 @@ He takes out a huge drill and goes drilling in from the center of the South Pole
 <h1>ACT III</h1>
 </center></div>
 
-MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
 
-<div class="hhhh">
+<div class="narration">
 He digs through the earths core.
 </div>
 
-MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
 
-<div class="hhhh">
+<div class="narration">
 He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.
 </div>
 
@@ -308,7 +393,7 @@ Santa: yo you were cool. HOLY SHIT. HIRED.
 
 MagmaGiddy: ya
 
-<div class="hhhh">
+<div class="narration">
 Meanwhile
 </div>
 
@@ -330,7 +415,7 @@ GalaxyAnnoyed: ...
 
 Plug: what?
 
-<div class="hhhh">
+<div class="narration">
 Meanwhile
 </div>
 

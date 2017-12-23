@@ -4,7 +4,7 @@
 <h6>Written by Psycho The Mantis</h6>
 </center></div>
 
-<div class="hhhh"><b>LOCATION:</b> Team Base</div>
+<div class="narration"><b>LOCATION:</b> Team Base</div>
 
 HornetGlare: [flipping through channels] Meh. Nothing good is on TV today...
 
