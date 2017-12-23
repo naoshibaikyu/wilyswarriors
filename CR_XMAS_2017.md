@@ -232,17 +232,15 @@ GhostPast: BOO!
 
 HornetShocked: [immediately wakes up and sits up on his bed] AUGH! What the?! [turns to the ghost] ...
 
-GhostPast: ...
-
 HornetGlare: Who the hell are you?
 
-GhostPast: Hornet Mannnnnnnn... I am your Ghost of the Christmas Past...
+GhostPast: Hornet Mannnnnnnn... I am the Ghost of your Christmas Pastttttt...
 
 Hornet: ...
 
 HornetGlare: So?
 
-GhostPast: We exist because of your misdeeds and poor character, past and presentttt... We the three ghosts have been chosen to warn to you of an uncertain fate from the dark path you've chosen in your entire lifeeee...
+GhostPast: We exist because of your misdeeds and poor character, past and presentttt... We the three ghosts have come with a warninggg...
 
 HornetGlare: Really? Then where's the other ghosts?
 
@@ -274,19 +272,17 @@ GhostPast: He can't see or hear you. You're only experiencing old memories.
 
 Hornet: What? But he just looked at me!
 
-GhostPast: He's not! [looks back at Splash Man and gives a glare] It was just well timed he looked at your direction is all!
+GhostPast: He's not! [looks back at Splash Man and gives a glare] It was just well timed that he looked at your direction is all!
 
 HornetGlare: Lame. I wanna go back to my room then.
 
 GhostPast: But you've just got here!
 
-Hornet: Fine! [looks at Splash Man]
-
 PastHornet: My name is Hornet Man and I smell really bad!
 
 HornetGlare: ...Hmmm...
 
-GalaxyAnnoyed: [behind a prop] **ahem** [quietly to Splash Man] You're ruining it.
+GalaxyAnnoyed: [behind a prop] **ahem**
 
 PastHornetAnnoyed: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [lazily smashes a bunch of empty xmas boxes]
 
@@ -300,10 +296,10 @@ Hornet: Look, I honestly don't know what else is wrong here. And well, it's been
 
 GhostPast: Really? Nothing wrong here?
 
-HornetGlare: Yes and you're just wasting my time at this point. So just go away!
+HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your dumbass friends to not bother!
 
 <div class="narration">
-Hornet Man walks back towards his room and rests in his bed again.
+Hornet Man storms back towards his room and rests in his bed again.
 </div>
 
 GhostPast: ...
@@ -312,7 +308,7 @@ PastHornet: What?
 
 GalaxyAnnoyed: I can't tell if we're suppose to annoy or actually help him.
 
-GhostPast: Well I gotta pretend to care and be in character!
+FakeSnicker: [poof] Well I gotta pretend to care and be in character!
 
 PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn.
 
