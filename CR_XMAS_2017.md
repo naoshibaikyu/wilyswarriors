@@ -236,19 +236,29 @@ GhostPast: ...
 
 HornetGlare: Who the hell are you?
 
-GhostPast: Hornet Man, I am your Ghost of the Christmas Past.
+GhostPast: Hornet Mannnnnnnn... I am your Ghost of the Christmas Past...
 
 Hornet: ...
 
-HornetGlare: Whatever.
+HornetGlare: So?
 
-GhostPast: But wouldn't you like to revisit your past? It's right out of this door!
+GhostPast: We exist because of your misdeeds and poor character, past and presentttt... We the three ghosts have been chosen to warn to you of an uncertain fate from the dark path you've chosen in your entire lifeeee...
 
-Hornet: What?
+HornetGlare: Really? Then where's the other ghosts?
 
-GhostPast: Follow meeeeeee... [bumps into the door] Ooof! Uh, can you open the door? I'm only a ghost candle.
+GhostPast: They will arrive laterrrr, one by oneeee....
 
-Hornet: Fine.
+HornetAnnoyed: Do you think I actually care?
+
+GhostPast: No.
+
+HornetGlare: Then stop bugging me. You're just an annoying candle, so just go away before I'll show you a misdeed. And cut it out with your ghostly act, dumbass.
+
+GhostPast: But wouldn't you at least like to revisit your past? It's right out of this door!
+
+HornetAnnoyed: You know what? Fine.
+
+GhostPast: Follow me! [bumps into the door] Ooof! Uh, can you open the door? I have no hands...
 
 <div class="narration">
 Hornet Man gets out of the bed and walks towards the door to open it. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
@@ -256,9 +266,9 @@ Hornet Man gets out of the bed and walks towards the door to open it. He then se
 
 HornetAnnoyed: Hello, past me.
 
-PastHornet: ...!
+PastHornet: !
 
-HornetAnnoyed: Psst, never join Cyborg Resistance when you're older. Or you'd be dealing with a major headache from a UFO.
+HornetGlare: Psst, never join Cyborg Resistance when you're older. Or you'd be dealing with a major headache from a UFO.
 
 GhostPast: He can't see or hear you. You're only experiencing old memories.
 
@@ -298,11 +308,11 @@ Hornet Man walks back towards his room and rests in his bed again.
 
 GhostPast: ...
 
-GalaxyAnnoyed: ...
-
 PastHornet: What?
 
-PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn...
+GalaxyAnnoyed: I can't tell if we're suppose to annoy or actually help him.
+
+PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn.
 
 <div class="narration"><b>LOCATION: </b>Somewhere in a frozen desert.</div>
 
