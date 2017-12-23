@@ -6,9 +6,9 @@
 <hr>
 </center></div>
 
-<div class="">
-<h1>ACT I</h1>
-</div>
+<div class=""><center><h1>
+ACT I
+</h1></center></div>
 
 <div class="hhhh"><b>LOCATION:</b> Team Base</div>
 
