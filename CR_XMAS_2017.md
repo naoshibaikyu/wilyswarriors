@@ -312,6 +312,8 @@ PastHornet: What?
 
 GalaxyAnnoyed: I can't tell if we're suppose to annoy or actually help him.
 
+GhostPast: Well I gotta pretend to care and be in character!
+
 PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn.
 
 <div class="narration"><b>LOCATION: </b>Somewhere in a frozen desert.</div>
