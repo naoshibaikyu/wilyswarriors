@@ -259,14 +259,14 @@ HornetAnnoyed: You know what? Fine.
 GhostPast: Follow me! [bumps into the door] Ooof! Uh, can you open the door? I have no hands...
 
 <div class="narration">
-Hornet Man gets out of the bed and walks towards the door to open it. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
+Hornet Man gets out of the bed and walks towards the door to open it. As he enters the living room, he sees it decorated with props and decorations while resembling an living room from many decades ago despite his young age. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
 </div>
 
 HornetAnnoyed: Hello, past me.
 
 PastHornet: !
 
-HornetGlare: Psst, never join Cyborg Resistance when you're older. Or you'd be dealing with a major headache from a UFO.
+HornetGlare: Psst, never join Cyborg Resistance when you're older. Or you'll be dealing with a major headache from a UFO.
 
 GhostPast: He can't see or hear you. You're only experiencing old memories.
 
@@ -274,7 +274,7 @@ Hornet: What? But he just looked at me!
 
 GhostPast: He's not! [looks back at Splash Man and gives a glare] It was just well timed that he looked at your direction is all!
 
-HornetGlare: Lame. I wanna go back to my room then.
+HornetGlare: Ugh! I wanna go back to my room then.
 
 GhostPast: But you've just got here!
 
