@@ -164,45 +164,75 @@ Plug: Same I guess.
 
 GalaxyRelieved: Oh! Me too! Me too!
 
-FakeSnicker: Great! This is going to be *so fun*.
-
-
-
-<div class=""><center>
-<h1>Everything here below is from the draft... ignore '-'</h1>
-</center></div>
-
-Fake: Should we?
-
-Splash: Nah.
-
-GalaxyRelieved: Yes.
-
-SpikeAloof: ...
-
-MagmaHappy: HO HO HO, MERRY SINIMAS.
-
-SplashAnnoyed: Wtf it's Christmas.
-
-MagmaAnnoyed: Sinimas.
-
-SplashAngry: No.
-
-Magma: I'm going to become Santa's PR. GOOD DAY
-
-<div class="hhhh">
-DOOR SLAM SFX
-</div>
+FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
 <div class=""><center>
 <h1>ACT II</h1>
 </center></div>
 
-FakeSnicker: Hey, let's make Hornet Man not cynical and a piece of shit for the holidays.
+<div class="hhhh"><b>LOCATION:</b> Team Base</div>
 
-SplashAnnoyed: Ok
+<div class="hhhh">
+Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
+</div>
 
-Galaxy: Ok
+TornadoHappy: [holds up a "10" card]
+
+JewelHappy: [holds up a "10" card as well]
+
+SpikeAloof: [holds up a blank card] ...
+
+MagmaAnnoyed: Oh come on! You're even too lazy to write a number, Concrete?! Where is your Sinimas Spirit?
+
+Jewel: What's a Sinimas?
+
+MagmaHappy: Only the best holiday ever conceived in Sinistar-kind!
+
+TornadoAnnoyed: What?
+
+MagmaAnnoyed: Don't tell me you've never heard of Sinimas!
+
+TornadoAnnoyed: Confusion. We want Sinimas knowledge to be acquired.
+
+MagmaHappy: It's a wonderful time where all the Sinistars come together and celebrate a festive day by eating space ships!
+
+Jewel: ...
+
+TornadoAnnoyed: ...
+
+MagmaAnnoyed: What?
+
+Jewel: I thought Sinistar was just one entity. Plus, there's several holidays this month but I'm certain Sinimas is not one of them!
+
+MagmaHappy: Well, there should be if there isn't one on this planet! It's time to change things up. Sinimas isn't going to start itself! To the North Pole!
+
+JewelShocked: North Pole?!
+
+MagmaGiddy: That's right! I'm going to replace Christmas. What better way to introduce the world to Sinimas than replacing one of the biggest holidays of the country?! Ol' St. Nicholas is gonna have a brand new PR for his holiday brand! Me!
+
+JewelAnnoyed: Um, have fun with that I guess.
+
+MagmaGiddy: YEAHHHH!!!
+
+<div class="hhhh">
+Magma Man dashes outside, gets in a flying vehicle and flies away.
+</div>
+
+TornadoAnnoyed: Still confusion. But also concern.
+
+JewelAnnoyed: Wait, did he just took Dr. Light's flying car?
+
+<div class="hhhh">
+Meanwhile
+</div>
+
+<div class=""><center>
+<h1>Everything here below is from the draft... ignore '-'</h1>
+</center></div>
+
+<div class=""><center>
+<h1>ACT II</h1>
+</center></div>
 
 HornetGlare: Bah Humbug... zzzz
 

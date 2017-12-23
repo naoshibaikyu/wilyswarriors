@@ -15,8 +15,14 @@ var names = {concrete:"Concrete",
 	fake:"Fake",
 	jewel:"Jewel",
 	splash:"Splash",
+	//Supporting Characters
 	narrator:"Narrator",
-	pasthornet:"PastHornet"
+	//Generic NPCs
+	//Christmas Characters
+	ghostpast:"GhostPast",
+	ghostpresent:"GhostPresent",
+	ghostfuture:"GhostFuture",
+	pasthornet:"PastHornet",
 };
 
 var emotes = {original:"",
@@ -66,11 +72,21 @@ for (var nameKey in names)
 				prefix = "Concrete";
 				suffix = " Man";
 				break;
-			case "pasthornet":
-				prefix = "Past Hornet";
-				suffix = " Man";
-				break;
+			//Supporting Characters
 			case "narrator":
+				suffix = "";
+				break;
+			//Christmas Characters
+			case "ghostpast":
+				prefix = "Ghost of Christmas Past";
+				suffix = "";
+				break;
+			case "ghostpresent":
+				prefix = "Ghost of Christmas Present";
+				suffix = "";
+				break;
+			case "ghostfuture":
+				prefix = "Ghost of Christmas Future";
 				suffix = "";
 				break;
 			default:
