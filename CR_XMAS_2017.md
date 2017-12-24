@@ -374,51 +374,107 @@ MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** [gets e
 
 Santa: Ho ho ho...
 
-Elf: 
+Elf: What's wrong, Santa?
+
+Santa: Christmas just isn't the same anymore, Jimmy... Just not the same...
+
+Elf: But we do the same thing every year?
+
+Santa: Exactly! And how long have we've been doing it? For centuries! We need something new... something... fresh. Something to make me feel alive!
+
+Elf: Like what?
+
+Santa: [sighs and sits back on his rocking chair] Like... Hmm...
+
+<div class="narration">
+Suddenly, the North Pole begins to shake as if there's an earthquake!
+</div>
+
+Elf: WH-WHAT THE?!
+
+Santa: An earthquake?! Here?! In the North Pole?!
+
+<div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
+
+HornetSleep: ZZzzz... 
+
+Plug: ...
+
+HornetSleep: ZzzzZZzz...
+
+PlugAnnoyed: ...
+
+HornetSleep: ZzZzzzZzz... ZzzzZZzz...
+
+PlugScared: ...
+
+HornetSleep: ZZzzzZzZZzz...zzzzZzz... ZzZzzz... ZzzzzZZZzzzzz........
+
+PlugShocked: ...
+
+HornetPissed: [immediately gets up] **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+PlugShocked: **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+HornetSleep: [immediately goes back to sleep] Zzzzzzz...
+
+PlugAngry: HEY! [kicks the bed] Get up!!
+
+HornetGlare: Zzzz... huh? What?
+
+Hornet: ...
+
+PlugScared: ...
+
+Hornet: Oh, I must be still dreaming about ghosts...
+
+PlugAngry: You're not! We're real and I'm the Ghost of Christmas Present!
+
+HornetAnnoyed: Fuck my life.
+
+PlugAnnoyed: Anyways...!! Uhh... You're in the present now.
+
+Hornet: ...
+
+PlugHappy: ...
+
+HornetGlare: And?
+
+PlugScared: We're just really standing here. And that is what's going on in the present. Now I've hope you've learned your valuable lesson and become an upstanding citizen!
+
+HornetAngry: The only valuable lesson I've learned is that you're an insufferable idiot prick.
+
+PlugShocked: Oh!! W-well... uh...! Bye!
+
+<div class="narration">
+Plug Man dashes out of the room.
+</div>
+
+Hornet: [deep sigh and rests]
+
+SplashAnnoyed: ...
+
+Plug: S-sorry, mon ami. I couldn't do it! He was just too immitating to handle...
+
+FakeAnnoyed: Why couldn't you let Galaxy Man handle that one?
+
+GalaxyHappy: Oh! Don't worry, I've got a great idea as the next ghost!
+
+PlugHappy: Oh! Do tell!
+
+Galaxy: Well, we can't let the readers know! [faces to the reader] Why don't you tune in to the other scene first?
+
+FakeShocked: Readers??
+
+<div class="narration"><b>LOCATION: </b>The North Pole</div>
+
+Santa: What in god's name is an earthquake around here?!
+
+Elf:
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>
 </center></div>
-
-MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHH
-
-<div class="narration">
-He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.
-</div>
-
-Elves: What the?
-
-
-
-Santa: Ho Ho Holy Fuck
-
-Magma: Can I join ur teem pls I wanna be PR Man but I was told by the 2 Dark I have to say fat warios pls 500 times
-
-Santa: yo you were cool. HOLY SHIT. HIRED.
-
-MagmaGiddy: ya
-
-<div class="narration">
-Meanwhile
-</div>
-
-HornetGlare: Snore
-
-Plug: I am the ghost of Christmas Present.
-
-Hornet: Really?
-
-Plug: ya
-
-Hornet: ...
-
-Plug: we're just standing here. thats the present. i hope you learned your lesson. bye.
-
-Hornet: Who was that weirdo
-
-GalaxyAnnoyed: ...
-
-Plug: what?
 
 <div class="narration">
 Meanwhile
