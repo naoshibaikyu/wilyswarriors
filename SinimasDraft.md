@@ -123,13 +123,13 @@ He takes out a huge drill and goes drilling in from the center of the South Pole
 <h1>ACT III</h1>
 </center></div>
 
-MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
+MagmaAngry: RAHHHHHHHHHHHHHHH
 
 <div class="narration">
 He digs through the earths core.
 </div>
 
-MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
+MagmaAngry: RAHHHHHHHHHHHHHHH
 
 <div class="narration">
 He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.

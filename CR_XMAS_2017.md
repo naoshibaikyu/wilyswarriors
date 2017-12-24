@@ -314,78 +314,69 @@ PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn.
 
 <div class="narration"><b>LOCATION: </b>Somewhere in a frozen desert.</div>
 
-MagmaAnnoyed: [gets out of the frozen vehicle's wreckage] Curses! No one told me the North Pole was going to be that cold!
+MagmaAnnoyed: 
 
-MagmaGiddy: Doesn't matter! I am certain the workshop is not too far from here!!
+MagmaAnnoyed: [walking through the barren landscape] Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
-Chill: Hey, man.
+MagmaGiddy: Well, least it's not cold enough to freeze my burning body! Ha! And I am certain the workshop is still not too far from here!!
+
+Chill: Hey, man. 
 
 MagmaAnnoyed: Eh? Who may you be?
 
 Chill: Just a forgotten member of an old defunct team... Never recognized and always missing in action.
 
-MagmaSad: Oh, I'm sorry.
+MagmaSad: Oh...
 
-Chill: Haha, nah. I don't care. I was so lazy and was never there anyways. I'm just really... chill, man.
+Chill: Haha, nah. I don't care. I was so lazy and was never there anyways. Anyways, welcome to the South Pole. Population: Me
+
+MagmaShocked: South Pole?! I thought this was the North Pole!
+
+Chill: Nope. You must've took the wrong turn and ended up here.
+
+MagmaAnnoyed: Darn it!! Who knew piloting in reverse would be such a terrible idea?
+
+Chill: Hey, just chill... man. Haha!
+
+MagmaAnnoyed: Hahaha! Good pun! High five!!
+
+<div class="narration">
+Magma Man and Chill Man gives each other a five high. Right before their hands hit, Chill Man suddenly fades away...
+</div>
+
+MagmaShocked: Woah?!
+
+MagmaAnnoyed: [looks around] Man... Being stranded in such a frozen desert is really starting to get into me!
+
+Magma: And if what my imaginary friend just said is true... how am I going to get out of this mess... Hmmm...
+
+Hornet: Just dig, ya dumbass.
+
+MagmaShocked: You're right, mirage Hornet Man! I can just dig all the way to the other side!
+
+MagmaHappy: Oh man, this will create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
+
+<div class="narration">
+He takes out a huge drill and goes drilling in from the center of the South Pole.
+</div>
+
+
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>
 </center></div>
 
 <div class=""><center>
-<h1>ACT II</h1>
-</center></div>
-
-HornetGlare: Bah Humbug... zzzz
-
-FakeSnicker: [shape shifts into ghost of christmas past] Boo
-
-Hornet: oh no
-
-Fake: I'm ghost of christmas past come with me ok yes
-
-Hornet: no
-
-FakeAngry: I SAID OK Yes
-
-Hornet: good point
-
-
-Hornet: wow do I really smell
-
-FakeAnnoyed: ...
- 
-Hornet: guess i just need to take care of my hygene. thank you so much. ok going back to bed
-
-FakeAnnoyed: ugh
-
-<div class="narration">
-Meanwhile
-</div>
-
-MagmaGiddy: Heh heh heh
-
-Magma: Wait where is even the North Pole
-
-Penguin: Ya fuck, this is the South Pole. GET OUT OF HERE. OUT.
-
-MagmaAngry: That's it. [blows up the penguin] I'm going straight to the North Pole!!
-
-<div class="narration">
-He takes out a huge drill and goes drilling in from the center of the South Pole.
-</div>
-
-<div class=""><center>
 <h1>ACT III</h1>
 </center></div>
 
-MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
+MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHH
 
 <div class="narration">
 He digs through the earths core.
 </div>
 
-MagmaAngry: RAnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationnarrationHHH
+MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHH
 
 <div class="narration">
 He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.
