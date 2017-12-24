@@ -312,9 +312,7 @@ FakeSnicker: [poof] Well I gotta pretend to care and be in character!
 
 PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn.
 
-<div class="narration"><b>LOCATION: </b>Somewhere in a frozen desert.</div>
-
-MagmaAnnoyed: 
+<div class="narration"><b>LOCATION: </b>Somewhere in a snowy land...</div>
 
 MagmaAnnoyed: [walking through the barren landscape] Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
@@ -360,21 +358,27 @@ MagmaHappy: Oh man, this will create an awesome entrance. Surely Santa would hir
 He takes out a huge drill and goes drilling in from the center of the South Pole.
 </div>
 
-
-
-<div class=""><center>
-<h1>Everything here below is from the draft... ignore '-'</h1>
-</center></div>
-
 <div class=""><center>
 <h1>ACT III</h1>
 </center></div>
 
-MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHH
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
 <div class="narration">
-He digs through the earths core.
+Magma Man shouts loudly as he digs through planet from the very bottom towards the top. Eventually he meets the center of the planet; its core.
 </div>
+
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** [gets engulfed in the molten magma of the core]
+
+<div class="narration"><b>LOCATION: </b>The North Pole</div>
+
+Santa: Ho ho ho...
+
+Elf: 
+
+<div class=""><center>
+<h1>Everything here below is from the draft... ignore '-'</h1>
+</center></div>
 
 MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHH
 
@@ -382,7 +386,9 @@ MagmaAngry: RAHHHHHHHHHHHHHHHHHHHHHHHH
 He reaches the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop, a lava geyser spews out of the hole.
 </div>
 
-Elves: What
+Elves: What the?
+
+
 
 Santa: Ho Ho Holy Fuck
 

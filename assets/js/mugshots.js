@@ -23,6 +23,7 @@ var names = {concrete:"Concrete",
 	ghostpresent:"GhostPresent",
 	ghostfuture:"GhostFuture",
 	pasthornet:"PastHornet",
+	chill:"Chill",
 };
 
 var emotes = {original:"",
