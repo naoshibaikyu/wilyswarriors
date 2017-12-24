@@ -336,7 +336,7 @@ MagmaAnnoyed: Darn it!! Who knew piloting in reverse would be such a terrible id
 
 Chill: Hey, just chill... man. Haha!
 
-MagmaAnnoyed: Hahaha! Good pun! High five!!
+MagmaHappy: Hahaha! Good pun! High five!!
 
 <div class="narration">
 Magma Man and Chill Man gives each other a five high. Right before their hands hit, Chill Man suddenly fades away...
@@ -430,7 +430,7 @@ Hornet: Oh, I must be still dreaming about ghosts...
 
 PlugAngry: You're not! We're real and I'm the Ghost of Christmas Present!
 
-HornetAnnoyed: Fuck my life.
+HornetAnnoyed: Ugh. FML
 
 PlugAnnoyed: Anyways...!! Uhh... You're in the present now.
 
@@ -442,7 +442,7 @@ HornetGlare: And?
 
 PlugScared: We're just really standing here. And that is what's going on in the present. Now I've hope you've learned your valuable lesson and become an upstanding citizen!
 
-HornetAngry: The only valuable lesson I've learned is that you're an insufferable idiot prick.
+HornetAngry: The only valuable lesson I've learned is that you're an insufferable idiot prick. GET LOST!
 
 PlugShocked: Oh!! W-well... uh...! Bye!
 
@@ -470,7 +470,35 @@ FakeShocked: Readers??
 
 Santa: What in god's name is an earthquake around here?!
 
-Elf:
+Elf: [pointing at a distance] H-hey! Do you hear something?!
+
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+<div class="narration">
+Magma Man finally reaches to the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop as a lava geyser spews out of the hole. As soon as he lands, he strikes a pose!
+</div>
+
+Santa: HO HO HOLY SHIT!!
+
+Elf: [holds up a "10" card]
+
+Santa: [holds up a "11" card]
+
+SpikeAloof: [holds up a blank card] ...
+
+MagmaAnnoyed: ...[shoots his magma bazooka at Concrete Man]
+
+SpikeAloof: [blows up]
+
+MagmaGiddy: SANTAAAAA!!
+
+Santa: BILLY!!!!
+
+MagmaAngry: My name is not Billy!!!
+
+Santa: Sorry
+
+
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>
