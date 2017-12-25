@@ -1,42 +1,28 @@
-GalaxyHappy: hi. this is a temporary site for prototyping things. enjoy ur stay friend uwu
+GalaxyHappy: Wow!! We have a new site!!
 
-SpikeAloof: wubby wuzzle mop stop
+SplashAnnoyed: But it's not even 10% finished...
 
-Hornet: oh piss off
+MagmaGiddy: Ya but we have a new epilogue!
 
-Magma: stop hornet
+Hornet: Wait, really?! We're back?!
 
-HornetGlare: no im back on my bullshit
+Fake: Yeah! And we're debuting with a Christmas Special at that!
 
-MagmaAnnoyed: were you ever not?
+HornetGlare: Bah Humbug...
 
-Hornet: exactly
+MagmaHappy: MERRY SINIMAS!!
 
-FakeSnicker: lol
 
-SpikeAloof: ...
+<div class="narration">
+Cyborg Resistance's 2017 Christmas Special - It's Beginning to Look A Lot Like Sinimas!
+*[Act I](CR_XMAS_2017_ACT_I.md)
+*Act II - Coming 12/26/17
+*Act III - Coming 12/27/17
+*Act IV - Coming 12/28/17
+*Act V - Coming 12/29/17
+</div>
 
-ConcreteAnnoyed: Get out of there!!
 
-Jewel: where is that damn fourth chaos emerald
-
-PlugAnnoyed: damn not here...
-
-Tornado: acquiring help. danger.
-
-SplashHappy: thats our hotdog man!!
-
-Narrator: and that's how ya play duck hunt
-
-MagmaGiddy: fartsssssssss ssssssss ssssssss ssssssssssss ssssssssssss sssssssss ssssssssssss sss sssssss ssss ssssssssss ssssssss sssss ssssssssssss ssssssssss ssssssssssssss sssssss ssssssssss ssssssss ssssssss sssss sssssss
-
-**Links:**
-
-[Season 1 Episode 1: Sorrows of Time Forgotten](CR_S1_E01.md) By Hornet Man
-
-[Season 1 Episode ?: PIE ASS - ACT 1](CR_S1_PIEASS.md) By Hornet Man
-
-[Season 1 Episode ?: PIE ASS - ACT 2](CR_S1_PIEASS_ACT2.md) By Hornet Man
 
 
 [Join our forums!](http://cyborgresistance.proboards.com/)

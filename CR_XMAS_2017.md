@@ -18,7 +18,7 @@ SplashShocked: [rushing to the living room] What the heck? What just happened??
 
 SpikeAloof: ...
 
-GalaxyScared: [blackened and dizzy from the impact] Uhhh.... ummm... [falls over]
+GalaxyDamaged: [blackened and dizzy from the impact] Uhhh.... ummm... [falls over]
 
 PlugShocked: **Great scott!!** [points towards the Christmas tree] The tree is on fire! Put it out!!
 
@@ -38,7 +38,7 @@ FakeHappy: *Tada~!* All done!
 
 Splash: Uh... Where did the water come from?
 
-FakeSad: My blood. [immediately collaspes]
+FakeSad: My blood...... [immediately collaspes]
 
 SplashShocked: **!?**
 
@@ -80,7 +80,7 @@ SplashAnnoyed: Uhm...
 
 SpikeAloof: ...
 
-GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! You can sleep now!! Don't hurt me, Hornet, please!!
+GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! Don't hurt meeeeeeeeeeeeeeeeeee!
 
 HornetGlare: Meh. 
 
@@ -498,7 +498,9 @@ MagmaAngry: My name is not Billy!!!
 
 Santa: Sorry
 
+MagmaHappy: Anyways, ol' Nick! I've came literally all the way from the other side of the planet to ask for a certain job position.
 
+Santa: A job position? Did we have one... Oh, wait, yeah. We needed a new PR.
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>
