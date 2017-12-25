@@ -2,11 +2,13 @@
 <h1>BREAKING NEWS!!</h1>
 </div>
 
-GalaxyHappy: Wow!! We have a new site!!
+PlugShocked: Woah?!
 
-SplashAnnoyed: But it's not even 10% finished...
+GalaxyHappy: Oh, hey!! We have a new site!!
 
-MagmaGiddy: Ya but we have a new epilogue!
+SplashAnnoyed: But it doesn't even look 10% finished...
+
+MagmaGiddy: Yeah, but we have a new epilogue it seems!
 
 Hornet: Wait, really?! We're back?!
 
@@ -20,7 +22,7 @@ MagmaHappy: MERRY SINIMAS!!
 <div class="narration">
 Cyborg Resistance's 2017 Christmas Special: It's Beginning to Look A Lot Like Sinimas!
 <ul>
-<li><a href="CR_XMAS_2017_ACT_I.md">Act I</a></li> - <b>NEW!!<b>
+<li><a href="CR_XMAS_2017_ACT_I.md">Act I</a> - <b><font size="2">NEW!!</font></b></li> 
 <li>Act II - Coming 12/26/17</li>
 <li>Act III - Coming 12/27/17</li>
 <li>Act IV - Coming 12/28/17</li>
