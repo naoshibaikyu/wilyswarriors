@@ -168,14 +168,12 @@ FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
 <div class="narration">
 To be continued!
-<div class="narration">
 <ul>
 <li><b>Act I</b></li> 
 <li>Act II - Coming 12/26/17</li>
 <li>Act III - Coming 12/27/17</li>
 <li>Act IV - Coming 12/28/17</li>
 <li>Act V - Coming 12/29/17</li></ul>
-</div>
 </div>
 
 
