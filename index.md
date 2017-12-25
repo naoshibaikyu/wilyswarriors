@@ -1,4 +1,4 @@
-<div class="content">GalaxyHappy: Wow!! We have a new site!!
+GalaxyHappy: Wow!! We have a new site!!
 
 SplashAnnoyed: But it's not even 10% finished...
 
@@ -11,16 +11,15 @@ Fake: Yeah! And we're debuting with a Christmas Special at that!
 HornetGlare: Bah Humbug...
 
 MagmaHappy: MERRY SINIMAS!!
-</div>
 
 
-<div class="">
-Cyborg Resistance's 2017 Christmas Special - It's Beginning to Look A Lot Like Sinimas!
-*[Act I](CR_XMAS_2017_ACT_I.md)
-*Act II - Coming 12/26/17
-*Act III - Coming 12/27/17
-*Act IV - Coming 12/28/17
-*Act V - Coming 12/29/17
+<div class="narration">
+Cyborg Resistance's 2017 Christmas Special - It's Beginning to Look A Lot Like Sinimas!<br>
+*[Act I](CR_XMAS_2017_ACT_I.md)<br>
+*Act II - Coming 12/26/17<br>
+*Act III - Coming 12/27/17<br>
+*Act IV - Coming 12/28/17<br>
+*Act V - Coming 12/29/17<br>
 </div>
 
 
