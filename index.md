@@ -2,17 +2,17 @@
 <h1>BREAKING NEWS!!</h1>
 </div>
 
-PlugShocked: Woah?!
+PlugShocked: Woah?! Where are we...
 
-GalaxyHappy: Oh, hey!! We have a new site!!
+GalaxyHappy: Oh, hey!! Looks like we're back and we have a new site!!
 
-SplashAnnoyed: But it doesn't even look 10% finished...
+SplashAnnoyed: But our site doesn't even look 10% finished...
 
 MagmaGiddy: Yeah, but we have a new epilogue it seems!
 
-Hornet: Wait, really?! We're back?!
+Hornet: Wait, really?! A new epilogue? In 2017?!
 
-Fake: Yeah! And we're debuting with a Christmas Special at that!
+Fake: Yeah! And we're debuting our revival with a Christmas Special!
 
 HornetGlare: Bah Humbug...
 
