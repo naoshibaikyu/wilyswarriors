@@ -212,7 +212,7 @@ MagmaGiddy: That's right! I'm going to replace Christmas. What better way to int
 
 JewelAnnoyed: Um, have fun with that I guess.
 
-MagmaGiddy: YEAnarration!!!
+MagmaGiddy: YEAHHHH!!!
 
 <div class="narration">
 Magma Man dashes outside, gets in a flying vehicle and flies away.
@@ -380,7 +380,7 @@ Santa: Christmas just isn't the same anymore, Jimmy... Just not the same...
 
 Elf: But we do the same thing every year?
 
-Santa: Exactly! And how long have we've been doing it? For centuries! We need something new... something... fresh. Something to make me feel alive!
+Santa: Exactly! And how long have we've been doing it? For centuries! We need something new... something... fresh. Something that would make it exciting for me again!
 
 Elf: Like what?
 
@@ -430,7 +430,7 @@ Hornet: Oh, I must be still dreaming about ghosts...
 
 PlugAngry: You're not! We're real and I'm the Ghost of Christmas Present!
 
-HornetAnnoyed: Ugh. FML
+HornetAnnoyed: Oh, damn it.
 
 PlugAnnoyed: Anyways...!! Uhh... You're in the present now.
 
