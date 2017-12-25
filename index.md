@@ -1,3 +1,7 @@
+<div class="narration">
+<h1>BREAKING NEWS!!</h1>
+</div>
+
 GalaxyHappy: Wow!! We have a new site!!
 
 SplashAnnoyed: But it's not even 10% finished...
