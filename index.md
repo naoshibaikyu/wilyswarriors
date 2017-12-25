@@ -14,16 +14,14 @@ MagmaHappy: MERRY SINIMAS!!
 
 
 <div class="narration">
-Cyborg Resistance's 2017 Christmas Special - It's Beginning to Look A Lot Like Sinimas!
+Cyborg Resistance's 2017 Christmas Special: It's Beginning to Look A Lot Like Sinimas!
 <ul>
-<li><a href="CR_XMAS_2017_ACT_I.md">Act I</a></li>
+<li><a href="CR_XMAS_2017_ACT_I.md">Act I</a></li> - <b>NEW!!<b>
 <li>Act II - Coming 12/26/17</li>
 <li>Act III - Coming 12/27/17</li>
 <li>Act IV - Coming 12/28/17</li>
-<li>Act V - Coming 12/29/17</li>
-</ul>
+<li>Act V - Coming 12/29/17</li></ul>
 </div>
-
 
 MagmaHappy: [Join our forums!](http://cyborgresistance.proboards.com/)
 
