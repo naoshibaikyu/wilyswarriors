@@ -252,7 +252,7 @@ GhostPast: No.
 
 HornetGlare: Then stop bugging me. You're just an annoying candle, so just go away before I'll show you a misdeed. And cut it out with your ghostly act, dumbass.
 
-GhostPast: But wouldn't you at least like to revisit your past? It's right out of this door!
+GhostPastAnnoyed: But wouldn't you at least like to revisit your past? It's right out of this door!
 
 HornetAnnoyed: You know what? Fine.
 
@@ -272,11 +272,13 @@ GhostPast: He can't see or hear you. You're only experiencing old memories.
 
 Hornet: What? But he just looked at me!
 
-GhostPast: He's not! [looks back at Splash Man and gives a glare] It was just well timed that he looked at your direction is all!
+GhostPastAnnoyed: He's not! [looks back at Splash Man and gives a glare]
+
+GhostPast: It was just well timed that he looked at your direction is all!
 
 HornetGlare: Ugh! I wanna go back to my room then.
 
-GhostPast: But you've just got here!
+GhostPastAnnoyed: But you've just got here!
 
 PastHornet: My name is Hornet Man and I smell really bad!
 
@@ -290,11 +292,11 @@ GhostPast: So... uh... Do you get it now?
 
 Hornet: Yeah, I just need to take care of my personal hygene more.
 
-GhostPast: Erm...
+GhostPastAnnoyed: Erm...
 
 Hornet: Look, I honestly don't know what else is wrong here. And well, it's been fun but I want to *sleep* right now.
 
-GhostPast: Really? Nothing wrong here?
+GhostPastAnnoyed: Really? Nothing wrong here?
 
 HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your dumbass friends to not bother!
 
@@ -302,7 +304,7 @@ HornetGlare: Yes and you're just wasting my time at this point. So just go away 
 Hornet Man storms back towards his room and rests in his bed again.
 </div>
 
-GhostPast: ...
+GhostPastAnnoyed: ...
 
 PastHornet: What?
 
