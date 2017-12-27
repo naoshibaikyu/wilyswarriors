@@ -90,6 +90,10 @@ for (var nameKey in names)
 				prefix = "Ghost of Christmas Future";
 				suffix = "";
 				break;
+			case "pasthornet":
+				prefix = "Past Hornet";
+				suffix = " Man";
+				break;
 			default:
 				suffix = " Man";
 		}
