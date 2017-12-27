@@ -202,7 +202,7 @@ TornadoAnnoyed: ...
 
 MagmaAnnoyed: What?
 
-Jewel: I thought Sinistar was just one entity. Plus, there's several holidays this month but I'm certain Sinimas is not one of them!
+Jewel: For starters, there's several holidays this month and I'm certain Sinimas is not one of them!
 
 MagmaHappy: Well, there should be if there isn't one on this planet! It's time to change things up. Sinimas isn't going to start itself! To the North Pole!
 
