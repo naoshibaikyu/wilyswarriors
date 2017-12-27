@@ -216,7 +216,7 @@ Hornet: Just dig to the other side, ya dumbass.
 
 MagmaHappy: You're right, mirage Hornet Man! Always a genius!
 
-MagmaGiddy: Oh man, this will create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
+MagmaGiddy: Oh man, this would create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
 
 <div class="narration">
 He takes out a huge drill and goes drilling in from the center of the South Pole.
