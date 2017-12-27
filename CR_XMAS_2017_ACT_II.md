@@ -158,7 +158,7 @@ Hornet: Look, I honestly don't know what else is wrong here.
 
 GhostPastAnnoyed: Really? Nothing else wrong your past self?
 
-HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your ghostly idiots to not bother!
+HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your ghostly idiots to not bother either!
 
 <div class="narration">
 Hornet Man walks back to his room and rests in his bed again.
