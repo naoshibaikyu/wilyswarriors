@@ -240,7 +240,7 @@ Hornet: ...
 
 HornetGlare: So?
 
-GhostPast: We exist because of your misdeeds and poor character, past and presentttt... We the three ghosts have come with a warninggg...
+GhostPast: We are here for your misdeeds and poor character... We the three ghosts have come with a warninggg...
 
 HornetGlare: Really? Then where's the other ghosts?
 
@@ -262,27 +262,47 @@ GhostPast: Follow me! [bumps into the door] Ooof! Uh, can you open the door? I h
 Hornet Man gets out of the bed and walks towards the door to open it. As he enters the living room, he sees it decorated with props and decorations while resembling an living room from many decades ago despite his young age. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
 </div>
 
-HornetAnnoyed: Hello, past me.
+HornetGlare: Wait a minute... [looks at young Hornet Man's lack of legs] Where are my legs?
+
+PastHornet: ...
+
+GhostPastAnnoyed: Because bees aren't born with legs!
+
+Hornet: [turns to the ghost] Uhh, yeah they do!
+
+GhostPast: No they don't! Ever heard of evolution?! You'll grow them later! [gives a hand signal to Plug Man secretly]
+
+HornetGlare: That's not how evolution works.
+
+PlugAnnoyed: [tip toes in and tapes fake cardboard cutout of a pair of regular human legs onto Splash Man's tail and tip toes out of the scene]
+
+GhostPast: Yes it does! The proof is right there! Look!
+
+PastHornetAnnoyed: [suddenly wearing the cardboard cutout of legs] I've just evolved. Wow.
+
+GhostPast: Convinced now?
+
+HornetGlare: ...
+
+HornetAnnoyed: Yes, I guess if you've been changing history by messing with time and space.
+
+GhostPast: No one can see or hear us, though! It's not real time travel, we're just in your subconcious! So you're only experiencing old memories.
+
+HornetGlare: What?! Ugh! I wanna go back to my room then. No point if I can't change history myself!
+
+GhostPastAnnoyed: I've just told you we're here to show your misdeeds. Not to change the past! That's the whole point!
+
+Hornet: Yeah, except nothing is even happening. Woo! Me being silent, the true sins of my past.
+
+GhostPastAnnoyed: [glares at Splash Man]
 
 PastHornet: !
 
-HornetGlare: Psst, never join Cyborg Resistance when you're older. Or you'll be dealing with a major headache from a UFO.
-
-GhostPast: He can't see or hear you. You're only experiencing old memories.
-
-Hornet: What? But he just looked at me!
-
-GhostPastAnnoyed: He's not! [looks back at Splash Man and gives a glare]
-
-GhostPast: It was just well timed that he looked at your direction is all!
-
-HornetGlare: Ugh! I wanna go back to my room then.
-
-GhostPastAnnoyed: But you've just got here!
-
-PastHornet: My name is Hornet Man and I smell really bad!
+PastHornetAnnoyed: My name is Hornet Man and I smell really bad!
 
 HornetGlare: ...Hmmm...
+
+GhostPastAnnoyed: ...
 
 GalaxyAnnoyed: [behind a prop] **ahem**
 
@@ -294,31 +314,33 @@ Hornet: Yeah, I just need to take care of my personal hygene more.
 
 GhostPastAnnoyed: Erm...
 
-Hornet: Look, I honestly don't know what else is wrong here. And well, it's been fun but I want to *sleep* right now.
+Hornet: Look, I honestly don't know what else is wrong here.
 
-GhostPastAnnoyed: Really? Nothing wrong here?
+GhostPastAnnoyed: Really? Nothing else wrong your past self?
 
-HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your dumbass friends to not bother!
+HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your ghostly idiots to not bother!
 
 <div class="narration">
-Hornet Man storms back towards his room and rests in his bed again.
+Hornet Man walks back to his room and rests in his bed again.
 </div>
 
-GhostPastAnnoyed: ...
+GalaxyAnnoyed: I honestly can't tell if our goal is to annoy him or actually help him...
 
-PastHornet: What?
+FakeSnicker: [poof] Well I gotta pretend to care and be in character! Plus he seemed pretty annoyed there, so we're accomplishing what we wanted most!
 
-GalaxyAnnoyed: I can't tell if we're suppose to annoy or actually help him.
+PastHornet: I don't know, if anything, I feel I'm the unfortunate one.
 
-FakeSnicker: [poof] Well I gotta pretend to care and be in character!
+FakeSnicker: Well you've agreed to this farce!
 
-PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn.
+PastHornet: But I didn't agree to wear *this*!
+
+PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn...
 
 <div class="narration"><b>LOCATION: </b>Somewhere in a snowy land...</div>
 
 MagmaAnnoyed: [walking through the barren landscape] Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
-MagmaGiddy: Well, least it's not cold enough to freeze my burning body! Ha! And I am certain the workshop is still not too far from here!!
+MagmaGiddy: Well, least it's not cold enough to freeze my ever so burning body! Ha! And I am certain the workshop is still not too far from here!!
 
 Chill: Hey, man. 
 
@@ -350,11 +372,11 @@ MagmaAnnoyed: [looks around] Man... Being stranded in such a frozen desert is re
 
 Magma: And if what my imaginary friend just said is true... how am I going to get out of this mess... Hmmm...
 
-Hornet: Just dig, ya dumbass.
+Hornet: Just dig to the other side, ya dumbass.
 
-MagmaShocked: You're right, mirage Hornet Man! I can just dig all the way to the other side!
+MagmaHappy: You're right, mirage Hornet Man! Always a genius!
 
-MagmaHappy: Oh man, this will create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
+MagmaGiddy: Oh man, this will create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
 
 <div class="narration">
 He takes out a huge drill and goes drilling in from the center of the South Pole.
