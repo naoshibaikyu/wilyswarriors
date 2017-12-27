@@ -292,7 +292,7 @@ HornetGlare: What?! Ugh! I wanna go back to my room then. No point if I can't ch
 
 GhostPastAnnoyed: I've just told you we're here to show your misdeeds. Not to change the past! That's the whole point!
 
-Hornet: Yeah, except nothing is even happening. Woo! Me being silent, the true sins of my past.
+Hornet: Wow, me being silent and doing absolutely nothing. The true sins of my past!
 
 GhostPastAnnoyed: [glares at Splash Man]
 
@@ -350,7 +350,7 @@ Chill: Just a forgotten member of an old defunct team... Never recognized and al
 
 MagmaSad: Oh...
 
-Chill: Haha, nah. I don't care. I was so lazy and was never there anyways. Anyways, welcome to the South Pole. Population: Me
+Chill: Haha, nah. I don't care. I was so lazy and was never there for them. Anyways, welcome to the South Pole. Population: Me
 
 MagmaShocked: South Pole?! I thought this was the North Pole!
 
