@@ -64,19 +64,26 @@ for (var nameKey in names)
 		//Cyborg Resistance Members
 			case "hornet":
 				suffix = " Man";
+				break;
 			case "magma":
 				suffix = " Man";
+				break;
 			case "splash":
 				suffix = " Man";
+				break;
 			case "galaxy":
 				suffix = " Man";
+				break;
 			case "plug":
 				suffix = " Man";
+				break;
 			case "tornado":
 				suffix = " Man";
+				break;
 			case "jewel":
 				suffix = " Woman";
-			case "concrete":
+				break;
+				case "concrete":
 				suffix = " Woman";
 				break;
 			case "fake":
