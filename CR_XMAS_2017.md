@@ -532,7 +532,34 @@ Santa: [strokes beard] Hmmm... Well, we don't have any job listings for a PR.
 
 MagmaSad: Aw...
 
-Santa: However! 
+Santa: However! *I* want to change Christmas. You can only do so much with doing the same thing after so many centuries, after all...
+
+Magma: Oh?
+
+Santa: Yeah! In fact...! You are exactly what we need! A new mascot! A new face... of Christmas! You and your impressive display of an entrance has given me an idea! 
+
+MagmaGiddy: Oh man! Oh man! So I get to decide what Christmas is now?
+
+Santa: Yes! Just for this year and depending how well it goes, we can make it like this... FOREVER!
+
+MagmaGiddy: Ohhh boy!!!
+
+MagmaHappy: Aha... I have one request before we do this.
+
+Santa: Hm?
+
+MagmaHappy: Let's rename it to Sinimas in honor of my new job!
+
+Santa: Hmmm... I'll allow it.
+
+MagmaGiddy: YEAH!
+
+MagmaHappy: Oh and on my way I have written so many ideas of how we can work with this...! [rolls out a long paper containing a huge list of ideas]
+
+Santa: Oh...?
+
+
+
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>

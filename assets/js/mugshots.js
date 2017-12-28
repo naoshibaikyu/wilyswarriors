@@ -24,7 +24,7 @@ var names = {concrete:"Concrete",
 	ghostfuture:"GhostFuture",
 	pasthornet:"PastHornet",
 	chill:"Chill",
-	santa:"Santa"
+	santa:"Santa",
 	elf:"Elf"
 };
 
@@ -46,7 +46,9 @@ var emotes = {original:"",
 	owo:"OwO",
 	sleep:"Sleep",
 	lenny:"Lenny",
-	hotdog:"Hotdog"
+	hotdog:"Hotdog",
+	scary:"Scary",
+	punched:"Punched"
 };
 
 //TODO: make it work with brackets and spaces between the name and emote
