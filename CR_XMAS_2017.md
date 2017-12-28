@@ -524,7 +524,15 @@ Santa: Sorry
 
 MagmaHappy: Anyways, ol' Nick! I've came literally all the way from the other side of the planet to ask for a certain job position.
 
-Santa: A job position? Did we have one... Oh, wait, yeah. We needed a new PR.
+Santa: A job position?
+
+Magma: Yeah, like a PR!
+
+Santa: [strokes beard] Hmmm... Well, we don't have any job listings for a PR.
+
+MagmaSad: Aw...
+
+Santa: However! 
 
 <div class=""><center>
 <h1>Everything here below is from the draft... ignore '-'</h1>
@@ -561,6 +569,44 @@ Santa: whats a sinimas
 </center></div>
 
 HornetGlare: Snore
+
+Galaxy: Boo
+
+Hornet: GAHHHHHHHHHHHH AHHHHHHHHHHHHHHHHHH WHAT THE FUCK
+
+Galaxy: Huh
+
+Hornet: ITS DEATH
+
+Galaxy: no im not
+
+Hornet Man fucking murders Galaxy Man but not really but he was really fucking close and oh my god theres blood and gore everywhere OH MY GOD WHAT IS THIS HORROR FSDJKLGSL;GASDASDG ASHDFKLGLADJGLKASDJ AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+Hornet: HOLY SHIT I BEAT DEATH. I DID IT.
+
+OldHornet: But at what cost... *dies*
+
+Hornet: NOOOOOOOOOOOOOOOOOOOOOOOOO!! They were right...
+
+Hornet: NO MORE ANGRY HORNET. ITS TIME FOR HAPPY HORNET
+
+HornetAngry: HNNNNGGGGGGGG...
+
+HornetHappy: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Everyone: what the FUCK
+
+News: We regret to inform you Christmas is cancelled.
+
+Hornet: What
+
+News: It's Sinimas now. Good day
+
+Hornet: FUCK THIS. TO WAR.
+
+Everyone: stop
+
+Hornet: YOU CANT STOP ME
 
 
 

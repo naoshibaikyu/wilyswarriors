@@ -24,6 +24,8 @@ var names = {concrete:"Concrete",
 	ghostfuture:"GhostFuture",
 	pasthornet:"PastHornet",
 	chill:"Chill",
+	santa:"Santa"
+	elf:"Elf"
 };
 
 var emotes = {original:"",
@@ -94,9 +96,6 @@ for (var nameKey in names)
 				suffix = " Man";
 				break;
 		//Supporting Characters
-			case "narrator":
-				suffix = "";
-				break;
 			case "drlight":
 				prefix = "Dr. ";
 				suffix = "Light";
