@@ -61,6 +61,19 @@ for (var nameKey in names)
 
 		switch(nameKey)
 		{
+		//Cyborg Resistance Members
+			case "hornet":
+				suffix = " Man";
+			case "magma":
+				suffix = " Man";
+			case "splash":
+				suffix = " Man";
+			case "galaxy":
+				suffix = " Man";
+			case "plug":
+				suffix = " Man";
+			case "tornado":
+				suffix = " Man";
 			case "jewel":
 				suffix = " Woman";
 			case "concrete":
@@ -73,29 +86,31 @@ for (var nameKey in names)
 				prefix = "Concrete";
 				suffix = " Man";
 				break;
-			//Supporting Characters
+		//Supporting Characters
 			case "narrator":
 				suffix = "";
 				break;
-			//Christmas Characters
+			case "drlight":
+				prefix = "Dr. ";
+				suffix = "Light";
+				break;
+		//Christmas Characters
+			case "chill":
+				suffix = " Man";
+				break;
 			case "ghostpast":
 				prefix = "Ghost of Christmas Past";
-				suffix = "";
 				break;
 			case "ghostpresent":
 				prefix = "Ghost of Christmas Present";
-				suffix = "";
 				break;
 			case "ghostfuture":
 				prefix = "Ghost of Christmas Future";
-				suffix = "";
 				break;
 			case "pasthornet":
 				prefix = "Past Hornet";
 				suffix = " Man";
 				break;
-			default:
-				suffix = " Man";
 		}
 
 		var find = new RegExp(str, "gi");
