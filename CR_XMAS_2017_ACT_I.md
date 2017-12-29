@@ -171,9 +171,9 @@ To be continued!
 <ul>
 <li><b>Act I</b></li> 
 <li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li> 
-<li>Act III - Coming 12/27/17</li>
-<li>Act IV - Coming 12/28/17</li>
-<li>Act V - Coming 12/29/17</li></ul>
+<li>Act III</li>
+<li>Act IV</li>
+<li>Act V/li></ul>
 </div>
 
 
