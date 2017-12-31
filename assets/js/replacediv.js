@@ -1,5 +1,5 @@
 //Replace all p tags with div class=content tags
-var pTags=document.getElementsByTagName('p');
+var pTags=document.getElementsByTagName('test');
 
 for(i=0;i<pTags.length;i++)
 {

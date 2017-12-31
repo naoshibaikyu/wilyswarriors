@@ -46,7 +46,7 @@ img#double
 }
 
 
-.imgbox
+.imgbox p
 { 
   border-radius: 12px;
   background: #202020;
@@ -55,7 +55,7 @@ img#double
   width: 98%;
   height: 100%;
   word-wrap: break-word;
-  mix-width: 64px;
+  min-width: 64px;
 }
 
 .narrationaaa
