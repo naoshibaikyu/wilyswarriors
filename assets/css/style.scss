@@ -11,7 +11,7 @@ img#double
   image-rendering: pixelated;                 /* Chrome                         */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-  transform: scale(1);
+  transform: scale(2);
   margin: 25px;
 
 }
@@ -45,6 +45,18 @@ img#double
   color: lightslategray;
 }
 
+
+.imgbox
+{ 
+  border-radius: 12px;
+  background: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  width: 98%;
+  height: 100%;
+  word-wrap: break-word;
+  mix-width: 64px;
+}
 
 .narrationaaa
 { 
