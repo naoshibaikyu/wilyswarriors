@@ -9,7 +9,9 @@
 <span class=""><center><h1>
 ACT II
 </h1></center></span>
-<div class="content">
+<span class="content">
+MagmaSad: Mamga
+</span>
 
 <span class="narration"><b>LOCATION: </b>Living Room</span>
 
