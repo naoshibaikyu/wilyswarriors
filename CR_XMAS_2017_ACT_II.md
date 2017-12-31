@@ -231,7 +231,6 @@ To be continued!
 <li>Act IV</li>
 <li>Act V/li></ul>
 </span>
-</div>
 
 <script src="assets/js/replacespan.js"></script>
 <script src="assets/js/mugshots.js"></script>
