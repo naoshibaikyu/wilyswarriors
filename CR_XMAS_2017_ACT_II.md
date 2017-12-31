@@ -10,11 +10,11 @@
 ACT II
 </h1></center></div>
 
-<b>LOCATION: </b>Living Room
+<div class="narration"><b>LOCATION: </b>Living Room</div>
 
-
+<div class="narration">
 Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
-
+</div>
 
 TornadoHappy: [holds up a "10" card]
 
@@ -219,7 +219,7 @@ MagmaHappy: You're right, mirage Hornet Man! Always a genius!
 MagmaGiddy: Oh man, this would create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
 
 <div class="narration">
-He takes out a huge drill and goes drilling in from the center of the *South Pole.*
+He takes out a huge drill and goes drilling in from the center of the South Pole.
 </div>
 
 <div class="narration">
@@ -231,6 +231,7 @@ To be continued!
 <li>Act IV</li>
 <li>Act V/li></ul>
 </div>
+
 
 <script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
