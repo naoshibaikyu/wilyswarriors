@@ -1,10 +1,10 @@
-<span class=""><center>
+<div class=""><center>
 <h4>Cyborg Resistance's 2017 Christmas Special</h4>
 <h2>It's Beginning to Look A Lot Like Sinimas</h2>
 <h6>Written by Psycho The Mantis</h6>
 <h6>Special Thanks to Sinistar and SilverDime</h6>
 <hr>
-</center></span>
+</center></div>
 
 <span class=""><center><h1>
 ACT II
