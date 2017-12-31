@@ -1,20 +1,20 @@
-<div class=""><center>
+<span class=""><center>
 <h4>Cyborg Resistance's 2017 Christmas Special</h4>
 <h2>It's Beginning to Look A Lot Like Sinimas</h2>
 <h6>Written by Psycho The Mantis</h6>
 <h6>Special Thanks to Sinistar and SilverDime</h6>
 <hr>
-</center></div>
+</center></span>
 
-<div class=""><center><h1>
+<span class=""><center><h1>
 ACT II
-</h1></center></div>
+</h1></center></span>
 
-<div class="narration"><b>LOCATION: </b>Living Room</div>
+<span class="narration"><b>LOCATION: </b>Living Room</span>
 
-<div class="narration">
+<span class="narration">
 Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
-</div>
+</span>
 
 TornadoHappy: [holds up a "10" card]
 
@@ -54,15 +54,15 @@ JewelAnnoyed: Um, have fun with that I guess.
 
 MagmaGiddy: YEAHHHH!!!
 
-<div class="narration">
+<span class="narration">
 Magma Man dashes outside, gets in a flying vehicle and flies away.
-</div>
+</span>
 
 TornadoAnnoyed: Still confusion. But also concern.
 
 JewelAnnoyed: Wait, did he just took Dr. Light's flying car?
 
-<div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
+<span class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</span>
 
 HornetSleep: Zzzz... Zzzzzzzzz........
 
@@ -98,9 +98,9 @@ HornetAnnoyed: You know what? Fine.
 
 GhostPast: Follow me! [bumps into the door] Ooof! Uh, can you open the door? I have no hands...
 
-<div class="narration">
+<span class="narration">
 Hornet Man gets out of the bed and walks towards the door to open it. As he enters the living room, he sees it decorated with props and decorations while resembling an living room from many decades ago despite his young age. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
-</div>
+</span>
 
 HornetGlare: Wait a minute... [looks at young Hornet Man's lack of legs] Where are my legs?
 
@@ -160,9 +160,9 @@ GhostPastAnnoyed: Really? Nothing else wrong your past self?
 
 HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your ghostly idiots to not bother either!
 
-<div class="narration">
+<span class="narration">
 Hornet Man walks back to his room and rests in his bed again.
-</div>
+</span>
 
 GalaxyAnnoyed: I honestly can't tell if our goal is to annoy him or actually help him...
 
@@ -176,7 +176,7 @@ PastHornet: But I didn't agree to wear *this*!
 
 PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn...
 
-<div class="narration"><b>LOCATION: </b>Somewhere in a snowy land...</div>
+<span class="narration"><b>LOCATION: </b>Somewhere in a snowy land...</span>
 
 MagmaAnnoyed: [walking through the barren landscape] Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
@@ -202,9 +202,9 @@ Chill: Hey, just chill... man. Haha!
 
 MagmaHappy: Hahaha! Good pun! High five!!
 
-<div class="narration">
+<span class="narration">
 Magma Man and Chill Man gives each other a five high. Right before their hands hit, Chill Man suddenly fades away...
-</div>
+</span>
 
 MagmaShocked: Woah?!
 
@@ -218,11 +218,11 @@ MagmaHappy: You're right, mirage Hornet Man! Always a genius!
 
 MagmaGiddy: Oh man, this would create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
 
-<div class="narration">
-He takes out a huge drill and goes drilling in from the center of the South Pole.
-</div>
+<span class="narration">
+He takes out a huge drill and goes drilling in from the center of the *South Pole.*
+</span>
 
-<div class="narration">
+<span class="narration">
 To be continued!
 <ul>
 <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
@@ -230,8 +230,8 @@ To be continued!
 <li>Act III</li>
 <li>Act IV</li>
 <li>Act V/li></ul>
-</div>
+</span>
 
 
-<script src="assets/js/replacediv.js"></script>
+<script src="assets/js/replacespan.js"></script>
 <script src="assets/js/mugshots.js"></script>
