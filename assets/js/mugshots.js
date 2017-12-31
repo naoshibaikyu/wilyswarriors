@@ -124,7 +124,7 @@ for (var nameKey in names)
 		var find = new RegExp(str, "gi");
 		var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-		replace = "<img width="64px" height="64px" + imagePath + "> <p><b>" + prefix + suffix + ":</b></br>";
+		replace = "<test><img width="64px" height="64px" + imagePath + "> <p><b>" + prefix + suffix + ":</b></br></test>";
 		
 		//TODO: check and see if replace path exists, if not, bold name and continue, else...
 		document.body.innerHTML = document.body.innerHTML.replace(find, replace);
