@@ -9,6 +9,7 @@
 <span class=""><center><h1>
 ACT II
 </h1></center></span>
+<div class="content">
 
 <span class="narration"><b>LOCATION: </b>Living Room</span>
 
@@ -231,7 +232,7 @@ To be continued!
 <li>Act IV</li>
 <li>Act V/li></ul>
 </span>
-
+</div>
 
 <script src="assets/js/replacespan.js"></script>
 <script src="assets/js/mugshots.js"></script>
