@@ -232,5 +232,5 @@ To be continued!
 <li>Act V/li></ul>
 </span>
 
-<script src="assets/js/replacespan.js"></script>
+<script src="assets/js/replacediv.js"></script>
 <script src="assets/js/mugshots.js"></script>
