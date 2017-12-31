@@ -10,11 +10,11 @@
 ACT II
 </h1></center></span>
 
-<span class="narration"><b>LOCATION: </b>Living Room</span>
+<b>LOCATION: </b>Living Room
 
-<span class="narration">
+
 Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
-</span>
+
 
 TornadoHappy: [holds up a "10" card]
 
