@@ -16,7 +16,7 @@ MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 Magma Man shouts loudly as he digs through planet from the very bottom towards the top. Eventually he meets the center of the planet; its core.
 </div>
 
-MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** **[gets engulfed in the molten magma of the core]**
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** *[gets engulfed in the molten magma of the core]*
 
 <div class="narration"><b>LOCATION: </b>The North Pole</div>
 
@@ -26,13 +26,13 @@ Elf: What's wrong, Santa?
 
 SantaSad: Christmas just isn't the same anymore, Jimmy... Just not the same...
 
-Elf: But we do the same thing every year?
+Elf: But don't we do the same thing every year?
 
 Santa: Exactly! And how long have we've been doing it? For centuries! We need something new... something... fresh. Something that would make it exciting for me again!
 
 Elf: Like what?
 
-SantaThinking: **[sighs and sits back on his rocking chair]** Like... Hmm...
+SantaThinking: *[sighs and sits back on his rocking chair]* Like... Hmm...
 
 <div class="narration">
 Suddenly, the North Pole begins to shake as if there's an earthquake!
@@ -60,13 +60,13 @@ HornetSleep: ZZzzzZzZZzz...zzzzZzz... ZzZzzz... ZzzzzZZZzzzzz........
 
 GhostPresentShocked: ...
 
-HornetPissed: **[immediately gets up]** **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+HornetPissed: *[immediately gets up]* **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
 GhostPresentShocked: **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
-HornetSleep: **[immediately goes back to sleep]** Zzzzzzz...
+HornetSleep: *[immediately goes back to sleep]* Zzzzzzz...
 
-GhostPresentAngry: HEY! **[kicks the bed]** Get up!!
+GhostPresentAngry: HEY! *[kicks the bed]* Get up!!
 
 HornetGlare: Zzzz... huh? What?
 
@@ -98,7 +98,7 @@ GhostPresentShocked: EEP!! W-well... uh...! Bye!
 Plug Man dashes out of the room.
 </div>
 
-Hornet: **[deep sigh and rests]**
+Hornet: *[deep sigh and rests]*
 
 SplashAnnoyed: ...
 
@@ -112,7 +112,7 @@ GalaxyHappy: Oh! Don't worry, I've got a great idea as the next ghost!
 
 GhostPresentHappy: Oh! Do tell!
 
-Galaxy: Well, we can't let the readers know! **[faces to the reader]** Why don't you tune in to the other scene first?
+Galaxy: Well, we can't let the readers know! *[faces to the reader]* Why don't you tune in to the next scene first?
 
 FakeShocked: Readers??
 
@@ -130,15 +130,15 @@ Magma Man finally reaches to the surface of the North Pole. He pops out of the h
 
 SantaShocked: HO HO HOLY SHIT!!
 
-Elf: **[holds up a "10" card]**
+Elf: *[holds up a "10" card]*
 
-Santa: **[holds up a "11" card]**
+Santa: *[holds up a "11" card]*
 
-SpikeAloof: **[holds up a blank card]** ...
+SpikeAloof: *[holds up a blank card]* ...
 
-MagmaAnnoyed: ...**[shoots his magma bazooka at Concrete Man]**
+MagmaAnnoyed: ...*[shoots his magma bazooka at Concrete Man]*
 
-SpikeAloof: **[blows up]**
+SpikeAloof: *[blows up]*
 
 MagmaGiddy: SANTAAAAA!!
 
@@ -166,7 +166,7 @@ SantaSad: Yeah! In fact... Christmas is hardly my holiday anymore. It used to be
 
 SantaAngry: But now it's just an excuse for the commercialized industry to make 20x more money! I hardly get to make my own gifts to children anymore. We've gotta reclaim what was rightfully mine!
 
-MagmaGiddy: **[fist pump]** Yeah! LET'S RECLAIM IT AND RENAME IT TO SINIMAS!
+MagmaGiddy: *[fist pump]* Yeah! LET'S RECLAIM IT AND RENAME IT TO SINIMAS!
 
 SantaShocked: Sinimas?!
 
