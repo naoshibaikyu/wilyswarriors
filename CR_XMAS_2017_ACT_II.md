@@ -227,7 +227,7 @@ To be continued!
 <ul>
 <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
 <li><b>Act II</b></li>
-<li>Act III</li>
+<li><a href="CR_XMAS_2017_ACT_III.html">Act III</a></li> 
 <li>Act IV</li>
 <li>Act V/li></ul>
 </div>
