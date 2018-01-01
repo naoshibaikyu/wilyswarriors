@@ -396,11 +396,11 @@ MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** [gets e
 
 <div class="narration"><b>LOCATION: </b>The North Pole</div>
 
-Santa: Ho ho ho...
+SantaSad: Ho ho ho...
 
 Elf: What's wrong, Santa?
 
-Santa: Christmas just isn't the same anymore, Jimmy... Just not the same...
+SantaSad: Christmas just isn't the same anymore, Jimmy... Just not the same...
 
 Elf: But we do the same thing every year?
 
@@ -408,83 +408,83 @@ Santa: Exactly! And how long have we've been doing it? For centuries! We need so
 
 Elf: Like what?
 
-Santa: [sighs and sits back on his rocking chair] Like... Hmm...
+SantaThinking: [sighs and sits back on his rocking chair] Like... Hmm...
 
 <div class="narration">
 Suddenly, the North Pole begins to shake as if there's an earthquake!
 </div>
 
-Elf: WH-WHAT THE?!
+ElfShocked: WH-WHAT THE?!
 
-Santa: An earthquake?! Here?! In the North Pole?!
+SantaShocked: An earthquake?! Here?! In the North Pole?!
 
 <div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
 
 HornetSleep: ZZzzz... 
 
-Plug: ...
+GhostPresent: ...
 
 HornetSleep: ZzzzZZzz...
 
-PlugAnnoyed: ...
+GhostPresentAnnoyed: ...
 
 HornetSleep: ZzZzzzZzz... ZzzzZZzz...
 
-PlugScared: ...
+GhostPresentScared: ...
 
 HornetSleep: ZZzzzZzZZzz...zzzzZzz... ZzZzzz... ZzzzzZZZzzzzz........
 
-PlugShocked: ...
+GhostPresentShocked: ...
 
 HornetPissed: [immediately gets up] **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
-PlugShocked: **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+GhostPresentShocked: **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
 HornetSleep: [immediately goes back to sleep] Zzzzzzz...
 
-PlugAngry: HEY! [kicks the bed] Get up!!
+GhostPresentAngry: HEY! [kicks the bed] Get up!!
 
 HornetGlare: Zzzz... huh? What?
 
 Hornet: ...
 
-PlugScared: ...
+GhostPresentScared: ...
 
 Hornet: Oh, I must be still dreaming about ghosts...
 
-PlugAngry: You're not! We're real and I'm the Ghost of Christmas Present!
+GhostPresentAngry: You're not! We're real and I'm the Ghost of Christmas Present!
 
 HornetAnnoyed: Oh, damn it.
 
-PlugAnnoyed: Anyways...!! Uhh... You're in the present now.
+GhostPresentAnnoyed: Anyways...!! Uhh... You're in the present now.
 
 Hornet: ...
 
-PlugHappy: ...
+GhostPresentHappy: ...
 
 HornetGlare: And?
 
-PlugScared: We're just really standing here. And that is what's going on in the present. Now I've hope you've learned your valuable lesson and become an upstanding citizen!
+GhostPresentScared: We're just really standing here. And that is what's going on in the present. Now I've hope you've learned your valuable lesson and become an upstanding citizen!
 
 HornetAngry: The only valuable lesson I've learned is that you're an insufferable idiot prick. GET LOST!
 
-PlugShocked: Oh!! W-well... uh...! Bye!
+GhostPresentShocked: EEP!! W-well... uh...! Bye!
 
 <div class="narration">
-Plug Man dashes out of the room.
+GhostPresent Man dashes out of the room.
 </div>
 
 Hornet: [deep sigh and rests]
 
 SplashAnnoyed: ...
 
-Plug: S-sorry, mon ami. I couldn't do it! He was just too immitating to handle...
+GhostPresent: S-sorry, mon ami. I couldn't do it! He was just too immitating to handle...
 
 FakeAnnoyed: Why couldn't you let Galaxy Man handle that one?
 
 GalaxyHappy: Oh! Don't worry, I've got a great idea as the next ghost!
 
-PlugHappy: Oh! Do tell!
+GhostPresentHappy: Oh! Do tell!
 
 Galaxy: Well, we can't let the readers know! [faces to the reader] Why don't you tune in to the other scene first?
 
@@ -492,9 +492,9 @@ FakeShocked: Readers??
 
 <div class="narration"><b>LOCATION: </b>The North Pole</div>
 
-Santa: What in god's name is an earthquake around here?!
+SantaShocked: What in god's name is an earthquake doing around here?!
 
-Elf: [pointing at a distance] H-hey! Do you hear something?!
+ElfShocked: What is that screaming?!
 
 MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
@@ -502,7 +502,7 @@ MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 Magma Man finally reaches to the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop as a lava geyser spews out of the hole. As soon as he lands, he strikes a pose!
 </div>
 
-Santa: HO HO HOLY SHIT!!
+SantaShocked: HO HO HOLY SHIT!!
 
 Elf: [holds up a "10" card]
 
@@ -516,11 +516,11 @@ SpikeAloof: [blows up]
 
 MagmaGiddy: SANTAAAAA!!
 
-Santa: BILLY!!!!
+SantaHappy: BILLY!!!!
 
 MagmaAngry: My name is not Billy!!!
 
-Santa: Sorry
+SantaSad: Sorry
 
 MagmaHappy: Anyways, ol' Nick! I've came literally all the way from the other side of the planet to ask for a certain job position.
 
@@ -528,37 +528,43 @@ Santa: A job position?
 
 Magma: Yeah, like a PR!
 
-Santa: [strokes beard] Hmmm... Well, we don't have any job listings for a PR.
+SantaThinking: Hmmm... Well, we don't have any job listings for a PR.
 
 MagmaSad: Aw...
 
-Santa: However! *I* want to change Christmas. You can only do so much with doing the same thing after so many centuries, after all...
+Santa: However! I think there are changes needed are in order... You can only do so much with doing the same thing after so many centuries, after all...
 
 Magma: Oh?
 
-Santa: Yeah! In fact...! You are exactly what we need! A new mascot! A new face... of Christmas! You and your impressive display of an entrance has given me an idea! 
+SantaSad: Yeah! In fact... Christmas is hardly my holiday anymore. It used to be all about giving the gifts of joy to children and family everywhere...
 
-MagmaGiddy: Oh man! Oh man! So I get to decide what Christmas is now?
+SantaAngry: But now it's just an excuse for the commercialized industry to make 20x more money! I hardly get to make my own gifts to children anymore. We've gotta reclaim what was rightfully mine!
 
-Santa: Yes! Just for this year and depending how well it goes, we can make it like this... FOREVER!
+MagmaGiddy: [fist pump] Yeah! LET'S RECLAIM IT AND RENAME IT TO SINIMAS!
 
-MagmaGiddy: Ohhh boy!!!
+SantaShocked: Sinimas?!
 
-MagmaHappy: Aha... I have one request before we do this.
+MagmaHappy: Ya.
 
-Santa: Hm?
+SantaThinking: Sounds threatening... They would have a hard time taking our holiday away from us again! I'll allow it!
 
-MagmaHappy: Let's rename it to Sinimas in honor of my new job!
+ElfShocked: Are you sure you really want to do this?!
 
-Santa: Hmmm... I'll allow it.
+MagmaGiddy: HECK YEA!!
 
-MagmaGiddy: YEAH!
+Santa: I don't see why not.
 
-MagmaHappy: Oh and on my way I have written so many ideas of how we can work with this...! [rolls out a long paper containing a huge list of ideas]
+MagmaAngry: BEWARE COWARDS. WE ARE SINIMAS.
 
-Santa: Oh...?
-
-
+<div class="narration">
+To be continued!
+<ul>
+<li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
+<li><b>Act II</b></li>
+<li>Act III</li>
+<li>Act IV</li>
+<li>Act V/li></ul>
+</div>
 
 
 <div class=""><center>
