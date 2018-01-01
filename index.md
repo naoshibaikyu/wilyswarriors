@@ -23,8 +23,8 @@ MagmaHappy: MERRY SINIMAS!!
 Cyborg Resistance's 2017 Christmas Special: It's Beginning to Look A Lot Like Sinimas!
 <ul>
 <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
-<li><a href="CR_XMAS_2017_ACT_II.html">Act II</a> - <b><font size="2">NEW</font></b></li>
-<li><a href="CR_XMAS_2017_ACT_III.html">Act III</a></li> 
+<li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li>
+<li><a href="CR_XMAS_2017_ACT_III.html">Act III</a> - <b><font size="2">NEW</font></b></li> 
 <li>Act IV</li>
 <li>Act V/li></ul>
 </div>
