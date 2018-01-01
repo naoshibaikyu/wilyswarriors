@@ -16,11 +16,11 @@ ACT II
 Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
 </div>
 
-TornadoHappy: [holds up a "10" card]
+TornadoHappy: *[holds up a "10" card]*
 
-JewelHappy: [holds up a "10" card as well]
+JewelHappy: *[holds up a "10" card as well]*
 
-SpikeAloof: [holds up a blank card] ...
+SpikeAloof: *[holds up a blank card]* ...
 
 MagmaAnnoyed: Oh come on! You're even too lazy to write a number, Concrete?! Where is your Sinimas Spirit?
 
@@ -70,7 +70,7 @@ GhostPast: Heheheh...
 
 GhostPast: BOO!
 
-HornetShocked: [immediately wakes up and sits up on his bed] AUGH! What the?! [turns to the ghost] ...
+HornetShocked: *[immediately wakes up and sits up on his bed]* AUGH! What the?! *[turns to the ghost]* ...
 
 HornetGlare: Who the hell are you?
 
@@ -96,29 +96,29 @@ GhostPastAnnoyed: But wouldn't you at least like to revisit your past? It's righ
 
 HornetAnnoyed: You know what? Fine.
 
-GhostPast: Follow me! [bumps into the door] Ooof! Uh, can you open the door? I have no hands...
+GhostPast: Follow me! *[bumps into the door]* Ooof! Uh, can you open the door? I have no hands...
 
 <div class="narration">
 Hornet Man gets out of the bed and walks towards the door to open it. As he enters the living room, he sees it decorated with props and decorations while resembling an living room from many decades ago despite his young age. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
 </div>
 
-HornetGlare: Wait a minute... [looks at young Hornet Man's lack of legs] Where are my legs?
+HornetGlare: Wait a minute... *[looks at young Hornet Man's lack of legs]* Where are my legs?
 
 PastHornet: ...
 
 GhostPastAnnoyed: Because bees aren't born with legs!
 
-Hornet: [turns to the ghost] Uhh, yeah they do!
+Hornet: *[turns to the ghost]* Uhh, yeah they do!
 
-GhostPast: No they don't! Ever heard of evolution?! You'll grow them later! [gives a hand signal to Plug Man secretly]
+GhostPast: No they don't! Ever heard of evolution?! You'll grow them later! *[gives a hand signal to Plug Man secretly]*
 
 HornetGlare: That's not how evolution works.
 
-PlugAnnoyed: [tip toes in and tapes fake cardboard cutout of a pair of regular human legs onto Splash Man's tail and tip toes out of the scene]
+PlugAnnoyed: *[tip toes in and tapes fake cardboard cutout of a pair of regular human legs onto Splash Man's tail and tip toes out of the scene]*
 
 GhostPast: Yes it does! The proof is right there! Look!
 
-PastHornetAnnoyed: [suddenly wearing the cardboard cutout of legs] I've just evolved. Wow.
+PastHornetAnnoyed: *[suddenly wearing the cardboard cutout of legs]* I've just evolved. Wow.
 
 GhostPast: Convinced now?
 
@@ -134,7 +134,7 @@ GhostPastAnnoyed: I've just told you we're here to show your misdeeds. Not to ch
 
 Hornet: Wow, me being silent and doing absolutely nothing. The true sins of my past!
 
-GhostPastAnnoyed: [glares at Splash Man]
+GhostPastAnnoyed: *[glares at Splash Man]*
 
 PastHornet: !
 
@@ -144,9 +144,9 @@ HornetGlare: ...Hmmm...
 
 GhostPastAnnoyed: ...
 
-GalaxyAnnoyed: [behind a prop] **ahem**
+GalaxyAnnoyed: *[behind a prop]* **ahem**
 
-PastHornetAnnoyed: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [lazily smashes a bunch of empty xmas boxes]
+PastHornetAnnoyed: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! *[lazily smashes a bunch of empty xmas boxes]*
 
 GhostPast: So... uh... Do you get it now?
 
@@ -166,7 +166,7 @@ Hornet Man walks back to his room and rests in his bed again.
 
 GalaxyAnnoyed: I honestly can't tell if our goal is to annoy him or actually help him...
 
-FakeSnicker: [poof] Well I gotta pretend to care and be in character! Plus he seemed pretty annoyed there, so we're accomplishing what we wanted most!
+FakeSnicker: *[poof]* Well I gotta pretend to care and be in character! Plus he seemed pretty annoyed there, so we're accomplishing what we wanted most!
 
 PastHornet: I don't know, if anything, I feel I'm the unfortunate one.
 
@@ -174,11 +174,11 @@ FakeSnicker: Well you've agreed to this farce!
 
 PastHornet: But I didn't agree to wear *this*!
 
-PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn...
+PlugAnnoyed: *[gets out of the big fake present box]* I guess it's my turn...
 
 <div class="narration"><b>LOCATION: </b>Somewhere in a snowy land...</div>
 
-MagmaAnnoyed: [walking through the barren landscape] Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
+MagmaAnnoyed: *[walking through the barren landscape]* Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
 MagmaGiddy: Well, least it's not cold enough to freeze my ever so burning body! Ha! And I am certain the workshop is still not too far from here!!
 
@@ -208,7 +208,7 @@ Magma Man and Chill Man gives each other a five high. Right before their hands h
 
 MagmaShocked: Woah?!
 
-MagmaAnnoyed: [looks around] Man... Being stranded in such a frozen desert is really starting to get into me!
+MagmaAnnoyed: *[looks around]* Man... Being stranded in such a frozen desert is really starting to get into me!
 
 Magma: And if what my imaginary friend just said is true... how am I going to get out of this mess... Hmmm...
 

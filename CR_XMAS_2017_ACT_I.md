@@ -12,17 +12,17 @@ ACT I
 
 <div class="narration"><b>LOCATION: </b>Living Room</div>
 
-Narrator: It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-**[BOOM]** ...typical day... Yeah.
+Narrator: It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-***[BOOM]*** ...typical day... Yeah.
 
-SplashShocked: [rushing to the living room] What the heck? What just happened??
+SplashShocked: *[rushing to the living room]* What the heck? What just happened??
 
 SpikeAloof: ...
 
-GalaxyDamaged: [blackened and dizzy from the impact] Uhhh.... ummm... [falls over]
+GalaxyDamaged: *[blackened and dizzy from the impact]* Uhhh.... ummm... *[falls over]*
 
-PlugShocked: **Great scott!!** [points towards the Christmas tree] The tree is on fire! Put it out!!
+PlugShocked: **Great scott!!** *[points towards the Christmas tree]* The tree is on fire! Put it out!!
 
-Jewel: [attempts to spray with the fire extinguisher] I can't! There's nothing in it?!
+Jewel: *[attempts to spray with the fire extinguisher]* I can't! There's nothing in it?!
 
 SplashAnnoyed: Dang it! It's been used up for some reason, why?
 
@@ -38,7 +38,7 @@ FakeHappy: *Tada~!* All done!
 
 Splash: Uh... Where did the water come from?
 
-FakeSad: My blood...... [immediately collaspes]
+FakeSad: My blood...... *[immediately collaspes]*
 
 SplashShocked: **!?**
 
@@ -62,11 +62,11 @@ Splash: Always good to have our resident detective!
 
 GalaxyShocked: ...
 
-Tornado: [walks over to the burnt tree and inspects it] Cause not regular. Top burnt from extreme. Robot Master power possible. [turns back to the team]
+Tornado: *[walks over to the burnt tree and inspects it]* Cause not regular. Top burnt from extreme. Robot Master power possible. *[turns back to the team]*
 
 GalaxyShocked: **!!**
 
-TornadoAnnoyed: Yes. Reaction. Power was likely space man. [points at Galaxy Man's direction]
+TornadoAnnoyed: Yes. Reaction. Power was likely space man. *[points at Galaxy Man's direction]*
 
 JewelAnnoyed: Galaxy Man?! Ugh! I've told you creating a mini nova star would-
 
@@ -74,7 +74,7 @@ SplashAngry: What?! Seriously?! Why on Earth would you create a mini nova.
 
 GalaxySad: I just wanted to make a fancy star for the tree...
 
-HornetAngry: [grabs Galaxy Man] **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
+HornetAngry: *[grabs Galaxy Man]* **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
 
 SplashAnnoyed: Uhm...
 
@@ -122,9 +122,9 @@ Jewel: He wasn't going to fall for that you know.
 
 SplashAnnoyed: *Sigh*
 
-Plug: [cleaning up the mess from the fire] I think we need a new a new tree...
+Plug: *[cleaning up the mess from the fire]* I think we need a new a new tree...
 
-HornetAnnoyed: [shakes his head] Bah Humbug...
+HornetAnnoyed: *[shakes his head]* Bah Humbug...
 
 SplashAngry: Oh don't you start that-
 
@@ -140,7 +140,7 @@ Hornet leaves to his room and slams the door shut.
 
 SplashAnnoyed: This is going to be a long night...
 
-Fake: [to self] ...Should we? Hmmm...
+Fake: *[to self]* ...Should we? Hmmm...
 
 SplashAnnoyed: What? Give him more presents full of coal?
 
