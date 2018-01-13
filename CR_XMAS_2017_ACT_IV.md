@@ -76,7 +76,7 @@ GhostPresentShocked: Woah!
 
 FakeShocked: Uhhh...
 
-FutureHornet: Before you ask, *absolutely* yes we should.
+FutureHornet: Before you ask, yes we *absolutely* should.
 
 <div class="narration">
 To be continued!
