@@ -38,11 +38,11 @@ GhostFutureScary: Hornet Man, I was sent here for you... I am-
 
 HornetAngry: **DEATH!!**
 
-GhostFuture: Huh? Not, I'm-
+GhostFuture: Huh? No. Dude, I'm-
 
 GhostFuturePunched: *OOF!*
 
-GhostFutureDamaged: What the hell dude?!
+GhostFutureDamaged: What the hell?!
 
 HornetPissed: **YOU WILL NOT TAKE ME ALIVE!!**
 
@@ -58,7 +58,7 @@ SpikeAloof: ...
 
 HornetPissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
 
-GhostFuturePunched: HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP HSDJFSDKGJSSKSFKLSDHGSDGHSHSD
+GhostFuturePunched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
 
 SpikeAloof: ...
 
