@@ -34,11 +34,11 @@ HornetSleep: zZZ...zzz... Muh.... Huh?
 
 HornetShocked: What the?!
 
-GhostFutureSpook: Hornet Man, I was sent here for you... I am-
+GhostFutureScary: Hornet Man, I was sent here for you... I am-
 
 HornetAngry: **DEATH!!**
 
-GhostFuture: Huh?
+GhostFuture: Huh? Not, I'm-
 
 GhostFuturePunched: *OOF!*
 
