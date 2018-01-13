@@ -70,7 +70,7 @@ FutureHornet: I wish he can hurry up so this is can be over with...
 
 FakeSnicker: *[as a Christmas star]* 
 
-<div class="narration">"OH GOD! HE RIPPED MY ARMS OFF! FOR THE LOVE OF THAT IS EVERYTHING... ***HELLPPP MEEEEEEEE***</div>
+<div class="narration">"<i>OH GOD! HE RIPPED MY <b>ARMS</b> OFF!</i> FOR THE LOVE OF THAT IS EVERYTHING... <b>HELLPPP MEEEEEEEE</b>"</div>
 
 GhostPresentShocked: Woah!
 
