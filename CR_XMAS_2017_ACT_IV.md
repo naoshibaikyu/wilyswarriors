@@ -83,8 +83,8 @@ To be continued!
 <ul>
 <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
 <li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li> 
-<li><b>Act III</b> - <b><font size="2">NEW</font></b></li>
-<li>Act IV</li>
+<li><a href="CR_XMAS_2017_ACT_III.html">Act III</a></li>
+<li><b>Act IV</b> - <b><font size="2">NEW</font></b></li>
 <li>Act V</li></ul>
 </div>
 
