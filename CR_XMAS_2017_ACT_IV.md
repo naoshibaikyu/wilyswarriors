@@ -28,17 +28,21 @@ HornetSleep: ZZZZZZZZZZZZZZZZZZ
 
 <div class="narration"><b>SFX: </b>Holy shit just get on with it already</div>
 
+<div class="narration">A robed shaped shadow casts over Hornet Man.</div>
+
+GhostFutureScary: *[looms over]* ...
+
 HornetSleep: zZZ...zzz... Muh.... Huh?
 
-<div class="narration">A robed shaped shadow casts over Hornet Man.</div>
+GhostFutureAngry: Hoorrrnnettttt....
 
 HornetShocked: What the?!
 
-GhostFutureScary: Hornet Man, I was sent here for you... I am-
+GhostFutureAngry: ...I have come for you... I am-
 
 HornetAngry: **DEATH!!**
 
-GhostFuture: Huh? No. Dude, I'm-
+GhostFuture: Huh? Wait! Dude, I'm-
 
 GhostFuturePunched: *OOF!*
 
@@ -64,19 +68,71 @@ SpikeAloof: ...
 
 <div class="narration">Outside the room...</div>
 
-GhostPresentAnnoyed: *[peeps out of a giant empty gift box still in the outfit]* What's taking him so long?
+GhostPresentAnnoyed: *[peeps out of a giant empty gift box]* What's taking him so long?
 
 FutureHornet: I wish he can hurry up so this can be over with...
 
-FakeSnicker: *[as a Christmas star]* 
+FakeSnicker: *[as a Christmas star]* Don't worry, I sent Concrete Man to make sure everything will be okay!
+
+GhostPresent: Umm... I don't think Concrete-
 
 <div class="narration">"<i>OH GOD! HE RIPPED MY <b>ARMS</b> OFF!</i> FOR THE LOVE OF THAT IS EVERYTHING... <b>HELLPPP MEEEEEEEE</b>"</div>
 
-GhostPresentShocked: Woah!
+GhostPresentShocked: EEP! *[hides back in the box]*
 
 FakeShocked: Uhhh...
 
 FutureHornet: Before you ask, yes we *absolutely* should.
+
+<div class="narration">The two barges into the room and all they see is the room in a big mess coupled with pieces of Galaxy Man's parts.</div>
+
+GhostPastShocked: *[disguising herself as one of the ghosts]* Holy-
+
+GhostFutureDamaged: *[leaking a lot of oil]* I don't want to be on Earth anymore...
+
+HornetHappy: YES! I'VE DEFEATED DEATH! NOW NO ONE CAN STOP ME! I AM IMMORTAL! *I AM IMMORTAL!!!*
+
+GhostPastShocked: ...
+
+SpikeAloof: ...
+
+HornetHappy: HAHAHAHAHA! NOW I CAN-
+
+JewelAnnoyed: What the hell happened here?!
+
+TornadoAnnoyed: Violent. Oil. Acknowledge that Hornet harmed the Space Man. Yes?
+
+JewelAngry: What is wrong with you, Hornet Man?
+
+Hornet: Ah, shut up. You're just jealous I'm immortal now. Ha!
+
+Jewel: Uh, what? Anyways, has anyone seen Magma Man?
+
+Hornet: No. Why?
+
+Jewel: He went on about taking over Christmas and renaming it "Sinimas" or some non sense. And now neither Tornado or I have seen him in hours! On top of that, Dr. Light's vehicle is missing and we think-
+
+HornetGlare: I don't care. Wait, hmm? *[turns around]*
+
+FutureHornet: ...!
+
+HornetGlare:  *[sees his "Future" self]* Oh... Despite my immortality, I still age in the future apparently...
+
+JewelAnnoyed: But that's...
+
+GhostPast: Shhhh...
+
+FutureHornet: Um, uh. *[coughs]* I am 40 years old and I'm so old and I don't feel good and... *[cough coughs and suddenly drops "dead"]*
+
+HornetShocked: W-What?! NO! 40 IS NO AGE TO DIE AT! IM NOT EVEN SUPPOSE TO GROW A GREY BEARD AT THAT AGE EITHER! Oh my god... they were right...
+
+<div class="narration">And from that moment, Hornet Man has finally understand the true meaning of Christmas... I think? Somehow?</div>
+
+Hornet: Hm, suddenly it feels like I hate Christmas a little less now. Like as if... my small, cold and dark heart grew 3 times bigger...
+
+<div class="narration">Oh.</div>
+
+HornetGlare: But we have to save Christmas!
 
 <div class="narration">
 To be continued!
