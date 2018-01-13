@@ -68,13 +68,13 @@ GhostPresentAnnoyed: *[peeps out of a giant empty gift box still in the outfit]*
 
 FutureHornet: I wish he can hurry up so this is can be over with...
 
-FaketteSnicker: *[as a Christmas star]* 
+FakeSnicker: *[as a Christmas star]* 
 
 <div class="narration">"OH GOD! HE RIPPED MY ARMS OFF! FOR THE LOVE OF THAT IS EVERYTHING... ***HELLPPP MEEEEEEEE***</div>
 
 GhostPresentShocked: Woah!
 
-FaketteShocked: Uhhh...
+FakeShocked: Uhhh...
 
 FutureHornet: Before you ask, *absolutely* yes we should.
 
