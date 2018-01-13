@@ -54,13 +54,13 @@ HornetPissed: **I WILL DEFEAT YOU, DEATH!! DIE!!!** ***DIE DIE DIE!!!***
 
 GhostFuturePunched: *AUGHHHHHHH*
 
-SpikeManAloof: ...
+SpikeAloof: ...
 
 HornetPissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
 
 GhostFuturePunched: HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP HSDJFSDKGJSSKSFKLSDHGSDGHSHSD
 
-SpikeManAloof: ...
+SpikeAloof: ...
 
 <div class="narration">Outside the room...</div>
 
