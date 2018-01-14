@@ -90,13 +90,13 @@ GhostPastShocked: *[disguising herself as one of the ghosts]* Holy-
 
 GhostFutureDamaged: *[leaking a lot of oil]* I don't want to be on Earth anymore...
 
-HornetHappy: YES! I'VE DEFEATED DEATH! NOW NO ONE CAN STOP ME! I AM IMMORTAL! *I AM IMMORTAL!!!*
+HornetGiddy: YES! I'VE DEFEATED DEATH! NOW NO ONE CAN STOP ME! I AM IMMORTAL! *I AM IMMORTAL!!!*
 
 GhostPastShocked: ...
 
 SpikeAloof: ...
 
-HornetHappy: HAHAHAHAHA! NOW I CAN-
+HornetGiddy: HAHAHAHAHA! NOW I CAN-
 
 JewelAnnoyed: What the hell happened here?!
 
@@ -122,18 +122,23 @@ JewelAnnoyed: But that's...
 
 GhostPast: Shhhh...
 
-FutureHornet: Um, uh. *[coughs]* I am 40 years old and I'm so old and I don't feel good and... *[cough coughs and suddenly drops "dead"]*
+FutureHornet: Um, uh. *[coughs]* I am 40 years old and I'm so old and I don't feel good and... *[cough]*
 
-HornetShocked: W-What?! NO! 40 IS NO AGE TO DIE AT! IM NOT EVEN SUPPOSE TO GROW A GREY BEARD AT THAT AGE EITHER! Oh my god... they were right...
+Hornet: ...?!
+
+FutureHornet: Oh... I don't feel good... Like... death got its grips on me... *[collaspes "dead"]*
+
+HornetShocked: W-What?! NO! 40 IS NO AGE TO DIE AT! IM NOT EVEN SUPPOSE TO GROW A GREY BEARD AT THAT AGE EITHER! Oh my god...
+
+HornetSad: I shouldn't been such a scrooge my whole life... All this stress giving me grey hairs til immortality becomes nothing... They were right...
 
 <div class="narration">And from that moment, Hornet Man finally understands the true meaning of Christmas...</div>
 
 Hornet: Hm, suddenly it feels like I hate Christmas a little less now. Like as if... my small, cold and dark heart grew 3 times bigger...
 
-<div class="narration">Oh.</div>
+HornetGlare: I must save Christmas from becoming Sinimas!
 
-HornetGlare: But we have to save Christmas!
-
+GhostFutureDamaged: Huh?
 
 
 <div class="narration">
