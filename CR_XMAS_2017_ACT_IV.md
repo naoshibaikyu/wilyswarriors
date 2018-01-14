@@ -126,13 +126,15 @@ FutureHornet: Um, uh. *[coughs]* I am 40 years old and I'm so old and I don't fe
 
 HornetShocked: W-What?! NO! 40 IS NO AGE TO DIE AT! IM NOT EVEN SUPPOSE TO GROW A GREY BEARD AT THAT AGE EITHER! Oh my god... they were right...
 
-<div class="narration">And from that moment, Hornet Man has finally understand the true meaning of Christmas... I think? Somehow?</div>
+<div class="narration">And from that moment, Hornet Man finally understands the true meaning of Christmas...</div>
 
 Hornet: Hm, suddenly it feels like I hate Christmas a little less now. Like as if... my small, cold and dark heart grew 3 times bigger...
 
 <div class="narration">Oh.</div>
 
 HornetGlare: But we have to save Christmas!
+
+
 
 <div class="narration">
 To be continued!
