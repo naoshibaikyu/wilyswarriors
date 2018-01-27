@@ -16,19 +16,19 @@ img#double
 
 }
 
-.content 
+.dialogue 
 {  
   margin: auto;
   max-width: 1280px;
 
 }
 
-.content img 
+.dialogue img 
 {
   float: left;
 }
 
-.content p
+.dialogue p
 {  
   border-radius: 12px;
   background: #202020;
@@ -40,12 +40,11 @@ img#double
   word-wrap: break-word;
 }
 
-.content b
+.dialogue b
 { 
   font-size: 75%;
   color: lightslategray;
 }
-
 
 .narration
 { 
@@ -59,7 +58,6 @@ img#double
   width: 98%;
   height: 100%;
 }
-
 
 // background-color: #0c376d; //bg
 // background-color: #0a0f3a; //dialog bg
