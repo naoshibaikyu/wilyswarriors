@@ -1,8 +1,8 @@
+
+
 EpStart
 
-<div class="narration">
-  <h1>BREAKING NEWS!!</h1>
-</div>
+## Act 1
 
 @Location: Rome
 
@@ -13,6 +13,8 @@ EpStart
 %Yonder we march
 
 PlugShocked: Woah?! Where are we...
+
+## Act 2 [](#act-2)
 
 GalaxyHappy: Oh, hey!! Looks like we're back and we have a new site!!
 
