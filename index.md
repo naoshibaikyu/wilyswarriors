@@ -4,7 +4,13 @@ EpStart
   <h1>BREAKING NEWS!!</h1>
 </div>
 
-Location: Rome
+@Location: Rome
+
+@Date: *October 2nd*
+
+%Yonder **we** ***march***
+
+%Yonder we march
 
 PlugShocked: Woah?! Where are we...
 

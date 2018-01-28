@@ -59,6 +59,38 @@ img#double
   height: 100%;
 }
 
+.description
+{ 
+  margin-bottom: 20px;
+  max-width: 1280px;
+  border-radius: 4px;
+  background: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: 98%;
+  height: 100%;
+}
+
+.location
+{ 
+  background-image: url("/assets/images/misc/simcitysnesdesktop_poisonmushroomdotorgsmol.jpg");
+  font-size: 200%;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 4px 3px #000000;
+  color: #7ff2f9;
+  margin-bottom: 20px;
+  max-width: 1280px;
+  border-radius: 4px;
+  background-color: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: 98%;
+  height: 100px;
+}
+
 // background-color: #0c376d; //bg
 // background-color: #0a0f3a; //dialog bg
 // outline: solid;

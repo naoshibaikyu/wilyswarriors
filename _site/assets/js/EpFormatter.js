@@ -15,9 +15,15 @@ function insertDivs()
 	    var p = document.createElement('p');
 	    var div = document.createElement('div');
 
-	    if (line.innerHTML.indexOf("Location:") != -1)
+	    if (line.innerHTML.startsWith("@"))
 	    {
 	    	div.className = "location";
+	    	line.innerHTML = line.innerHTML.substr(1);
+	    }
+	    else if (line.innerHTML.startsWith("%"))
+	    {
+	    	div.className = "description";
+	    	line.innerHTML = line.innerHTML.substr(1);
 	    }
 	    else
 	    {
@@ -38,8 +44,7 @@ function insertMugshots()
 	//Instances of where a character has an image attached to their name. Along with bolding the name.
 
 	//TODO: Import character names and emotes from separate text files
-	var names = 
-	{
+	var names = {
 		//Cyborg Resistance Members
 		concrete:"Concrete",
 		spike:"Spike",
@@ -65,7 +70,8 @@ function insertMugshots()
 		elf:"Elf"
 	};
 
-	var emotes = {original:"",
+	var emotes = {
+		original:"",
 		happy:"Happy",
 		annoyed:"Annoyed",
 		angry:"Angry",
