@@ -160,7 +160,6 @@ GalaxyRelieved: Oh! Me too! Me too!
 FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
 
-
 ## Act 2 [](#act-2)
 
 @Location: Living Room
