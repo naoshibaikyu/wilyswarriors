@@ -119,6 +119,8 @@ function insertMugshots()
 					suffix = " Man";
 					break;
 				case "jewel":
+					suffix = " Woman";
+					break;
 				case "concrete":
 					prefix = "Con";
 					suffix = "critter";
