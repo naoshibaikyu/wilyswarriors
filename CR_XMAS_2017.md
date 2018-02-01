@@ -322,7 +322,8 @@ PlugAnnoyed: *[gets out of the big fake present box]* I guess it's my turn...
 
 %@Location: Somewhere in a snowy land...
 
-MagmaAnnoyed: *[walking through the barren landscape]* Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
+MagmaAnnoyed: *[walking through the barren landscape]*
+Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
 MagmaGiddy: Well, least it's not cold enough to freeze my ever so burning body! Ha! And I am certain the workshop is still not too far from here!!
 
