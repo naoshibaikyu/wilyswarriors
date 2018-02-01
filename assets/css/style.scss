@@ -20,7 +20,8 @@ img#double
 {  
   margin: auto;
   max-width: 1280px;
-
+  min-height: 72px;
+	
 }
 
 .dialogue img 
@@ -34,7 +35,6 @@ img#double
   background: #202020;
   padding-left: 8px;
   padding-bottom: 8px;
-  min-height: 72px;
   width: 98%;
   height: 100%;
   word-wrap: break-word;
