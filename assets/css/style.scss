@@ -48,28 +48,36 @@ img#double
 
 .narration
 { 
-  margin-bottom: 0px;
+  margin: auto;
   max-width: 1280px;
+}
+
+.narration p
+{ 
   border-radius: 4px;
   background: #202020;
   padding-left: 8px;
   padding-bottom: 8px;
-  padding-top: 8px;
   width: 98%;
   height: 100%;
+  word-wrap: break-word;
 }
 
 .description
 { 
-  margin-bottom: 8px;
+  margin: auto;
   max-width: 1280px;
+}
+
+.description p
+{ 
   border-radius: 4px;
   background: #202020;
   padding-left: 8px;
   padding-bottom: 8px;
-  padding-top: 8px;
   width: 98%;
   height: 100%;
+  word-wrap: break-word;
 }
 
 .location
