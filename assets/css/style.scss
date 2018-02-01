@@ -20,7 +20,6 @@ img#double
 {  
   margin: auto;
   max-width: 1280px;
-  min-height: 72px;
 	
 }
 
@@ -38,6 +37,7 @@ img#double
   width: 98%;
   height: 100%;
   word-wrap: break-word;
+  min-height: 72px;
 }
 
 .dialogue b
