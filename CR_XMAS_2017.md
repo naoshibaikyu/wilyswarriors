@@ -1,4 +1,3 @@
-EpStart
 
 <div class=""><center>
 <h4>Cyborg Resistance's 2017 Christmas Special</h4>
@@ -8,23 +7,23 @@ EpStart
 <hr>
 </center></div>
 
-<div class=""><center><h1>
-ACT I
-</h1></center></div>
+EpStart
 
-<div class="narration"><b>LOCATION: </b>Living Room</div>
+## Act 1 [](#act-1)
 
-Narrator: It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-**[BOOM]** ...typical day... Yeah.
+@Location: Living Room
 
-SplashShocked: [rushing to the living room] What the heck? What just happened??
+%It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-***[BOOM]*** ...typical day... Yeah.
+
+SplashShocked: *[rushing to the living room]* What the heck? What just happened??
 
 SpikeAloof: ...
 
-GalaxyDamaged: [blackened and dizzy from the impact] Uhhh.... ummm... [falls over]
+GalaxyDamaged: *[blackened and dizzy from the impact]* Uhhh.... ummm... *[falls over]*
 
-PlugShocked: **Great scott!!** [points towards the Christmas tree] The tree is on fire! Put it out!!
+PlugShocked: **Great scott!!** *[points towards the Christmas tree]* The tree is on fire! Put it out!!
 
-Jewel: [attempts to spray with the fire extinguisher] I can't! There's nothing in it?!
+Jewel: *[attempts to spray with the fire extinguisher]* I can't! There's nothing in it?!
 
 SplashAnnoyed: Dang it! It's been used up for some reason, why?
 
@@ -32,15 +31,13 @@ PlugScared: I don't know, but do something!! The fire is about to spread to the 
 
 FakeSnicker: Not to worry! Fakette and her shapeshifting powers to the rescue!
 
-<div class="narration">
-Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
-</div>
+%Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
 
 FakeHappy: *Tada~!* All done!
 
 Splash: Uh... Where did the water come from?
 
-FakeSad: My blood...... [immediately collaspes]
+FakeSad: My blood...... *[immediately collaspes]*
 
 SplashShocked: **!?**
 
@@ -54,9 +51,7 @@ GalaxyShocked: It wasn't me!
 
 HornetGlare: A likely story.
 
-<div class="narration">
-*AHEM*
-</div>
+%*AHEM*
 
 Tornado: Tornde will solve unknown cause.
 
@@ -64,11 +59,11 @@ Splash: Always good to have our resident detective!
 
 GalaxyShocked: ...
 
-Tornado: [walks over to the burnt tree and inspects it] Cause not regular. Top burnt from extreme. Robot Master power possible. [turns back to the team]
+Tornado: *[walks over to the burnt tree and inspects it]* Cause not regular. Top burnt from extreme. Robot Master power possible. *[turns back to the team]*
 
 GalaxyShocked: **!!**
 
-TornadoAnnoyed: Yes. Reaction. Power was likely space man. [points at Galaxy Man's direction]
+TornadoAnnoyed: Yes. Reaction. Power was likely space man. *[points at Galaxy Man's direction]*
 
 JewelAnnoyed: Galaxy Man?! Ugh! I've told you creating a mini nova star would-
 
@@ -76,7 +71,7 @@ SplashAngry: What?! Seriously?! Why on Earth would you create a mini nova.
 
 GalaxySad: I just wanted to make a fancy star for the tree...
 
-HornetAngry: [grabs Galaxy Man] **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
+HornetAngry: *[grabs Galaxy Man]* **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
 
 SplashAnnoyed: Uhm...
 
@@ -86,9 +81,7 @@ GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! Don't hurt meeeeee
 
 HornetGlare: Meh. 
 
-<div class="narration">
-Hornet looks at the charred tree then chucks Galaxy Man towards it.
-</div>
+%Hornet looks at the charred tree then chucks Galaxy Man towards it.
 
 HornetGlare: Feh. Now that's taken care of I'm going back to sleep.
 
@@ -124,9 +117,9 @@ Jewel: He wasn't going to fall for that you know.
 
 SplashAnnoyed: *Sigh*
 
-Plug: [cleaning up the mess from the fire] I think we need a new a new tree...
+Plug: *[cleaning up the mess from the fire]* I think we need a new a new tree...
 
-HornetAnnoyed: [shakes his head] Bah Humbug...
+HornetAnnoyed: *[shakes his head]* Bah Humbug...
 
 SplashAngry: Oh don't you start that-
 
@@ -136,13 +129,11 @@ JewelAnnoyed: Jeez, don't be such a Scrooge!
 
 HornetAngry: **BAH HUMBUG!**
 
-<div class="narration">
-Hornet leaves to his room and slams the door shut.
-</div>
+%Hornet leaves to his room and slams the door shut.
 
 SplashAnnoyed: This is going to be a long night...
 
-Fake: [to self] ...Should we? Hmmm...
+Fake: *[to self]* ...Should we? Hmmm...
 
 SplashAnnoyed: What? Give him more presents full of coal?
 
@@ -168,21 +159,19 @@ GalaxyRelieved: Oh! Me too! Me too!
 
 FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
-<div class=""><center><h1>
-ACT II
-</h1></center></div>
 
-<div class="narration"><b>LOCATION: </b>Living Room</div>
 
-<div class="narration">
-Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
-</div>
+## Act 2 [](#act-2)
 
-TornadoHappy: [holds up a "10" card]
+@Location: Living Room
 
-JewelHappy: [holds up a "10" card as well]
+%Magma Man appears into the scene by sliding down the stairway's rails and with his feet and does a double flip jump at the end of the rail then lands perfectly onto the living room floor.
 
-SpikeAloof: [holds up a blank card] ...
+TornadoHappy: *[holds up a "10" card]*
+
+JewelHappy: *[holds up a "10" card as well]*
+
+SpikeAloof: *[holds up a blank card]* ...
 
 MagmaAnnoyed: Oh come on! You're even too lazy to write a number, Concrete?! Where is your Sinimas Spirit?
 
@@ -216,15 +205,13 @@ JewelAnnoyed: Um, have fun with that I guess.
 
 MagmaGiddy: YEAHHHH!!!
 
-<div class="narration">
-Magma Man dashes outside, gets in a flying vehicle and flies away.
-</div>
+%Magma Man dashes outside, gets in a flying vehicle and flies away.
 
 TornadoAnnoyed: Still confusion. But also concern.
 
 JewelAnnoyed: Wait, did he just took Dr. Light's flying car?
 
-<div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
+@Location: Hornet Man's Bedroom
 
 HornetSleep: Zzzz... Zzzzzzzzz........
 
@@ -232,7 +219,7 @@ GhostPast: Heheheh...
 
 GhostPast: BOO!
 
-HornetShocked: [immediately wakes up and sits up on his bed] AUGH! What the?! [turns to the ghost] ...
+HornetShocked: *[immediately wakes up and sits up on his bed]* AUGH! What the?! *[turns to the ghost]* ...
 
 HornetGlare: Who the hell are you?
 
@@ -258,29 +245,27 @@ GhostPastAnnoyed: But wouldn't you at least like to revisit your past? It's righ
 
 HornetAnnoyed: You know what? Fine.
 
-GhostPast: Follow me! [bumps into the door] Ooof! Uh, can you open the door? I have no hands...
+GhostPast: Follow me! *[bumps into the door]* Ooof! Uh, can you open the door? I have no hands...
 
-<div class="narration">
-Hornet Man gets out of the bed and walks towards the door to open it. As he enters the living room, he sees it decorated with props and decorations while resembling an living room from many decades ago despite his young age. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
-</div>
+%Hornet Man gets out of the bed and walks towards the door to open it. As he enters the living room, he sees it decorated with props and decorations while resembling an living room from many decades ago despite his young age. He then sees Splash Man who is just wearing a shoddy outfit representing Hornet Man from the past.
 
-HornetGlare: Wait a minute... [looks at young Hornet Man's lack of legs] Where are my legs?
+HornetGlare: Wait a minute... *[looks at young Hornet Man's lack of legs]* Where are my legs?
 
 PastHornet: ...
 
 GhostPastAnnoyed: Because bees aren't born with legs!
 
-Hornet: [turns to the ghost] Uhh, yeah they do!
+Hornet: *[turns to the ghost]* Uhh, yeah they do!
 
-GhostPast: No they don't! Ever heard of evolution?! You'll grow them later! [gives a hand signal to Plug Man secretly]
+GhostPast: No they don't! Ever heard of evolution?! You'll grow them later! *[gives a hand signal to Plug Man secretly]*
 
 HornetGlare: That's not how evolution works.
 
-PlugAnnoyed: [tip toes in and tapes fake cardboard cutout of a pair of regular human legs onto Splash Man's tail and tip toes out of the scene]
+PlugAnnoyed: *[tip toes in and tapes fake cardboard cutout of a pair of regular human legs onto Splash Man's tail and tip toes out of the scene]*
 
 GhostPast: Yes it does! The proof is right there! Look!
 
-PastHornetAnnoyed: [suddenly wearing the cardboard cutout of legs] I've just evolved. Wow.
+PastHornetAnnoyed: *[suddenly wearing the cardboard cutout of legs]* I've just evolved. Wow.
 
 GhostPast: Convinced now?
 
@@ -296,7 +281,7 @@ GhostPastAnnoyed: I've just told you we're here to show your misdeeds. Not to ch
 
 Hornet: Wow, me being silent and doing absolutely nothing. The true sins of my past!
 
-GhostPastAnnoyed: [glares at Splash Man]
+GhostPastAnnoyed: *[glares at Splash Man]*
 
 PastHornet: !
 
@@ -306,9 +291,9 @@ HornetGlare: ...Hmmm...
 
 GhostPastAnnoyed: ...
 
-GalaxyAnnoyed: [behind a prop] **ahem**
+GalaxyAnnoyed: *[behind a prop]* **ahem**
 
-PastHornetAnnoyed: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! [lazily smashes a bunch of empty xmas boxes]
+PastHornetAnnoyed: Oh! Ha ha ha My name is Hornet Man and I am 5 years old and I am mean!! *[lazily smashes a bunch of empty xmas boxes]*
 
 GhostPast: So... uh... Do you get it now?
 
@@ -320,15 +305,13 @@ Hornet: Look, I honestly don't know what else is wrong here.
 
 GhostPastAnnoyed: Really? Nothing else wrong your past self?
 
-HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your ghostly idiots to not bother!
+HornetGlare: Yes and you're just wasting my time at this point. So just go away and tell your ghostly idiots to not bother either!
 
-<div class="narration">
-Hornet Man walks back to his room and rests in his bed again.
-</div>
+%Hornet Man walks back to his room and rests in his bed again.
 
 GalaxyAnnoyed: I honestly can't tell if our goal is to annoy him or actually help him...
 
-FakeSnicker: [poof] Well I gotta pretend to care and be in character! Plus he seemed pretty annoyed there, so we're accomplishing what we wanted most!
+FakeSnicker: *[poof]* Well I gotta pretend to care and be in character! Plus he seemed pretty annoyed there, so we're accomplishing what we wanted most!
 
 PastHornet: I don't know, if anything, I feel I'm the unfortunate one.
 
@@ -336,11 +319,11 @@ FakeSnicker: Well you've agreed to this farce!
 
 PastHornet: But I didn't agree to wear *this*!
 
-PlugAnnoyed: [gets out of the big fake present box] I guess it's my turn...
+PlugAnnoyed: *[gets out of the big fake present box]* I guess it's my turn...
 
-<div class="narration"><b>LOCATION: </b>Somewhere in a snowy land...</div>
+%@Location: Somewhere in a snowy land...
 
-MagmaAnnoyed: [walking through the barren landscape] Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
+MagmaAnnoyed: *[walking through the barren landscape]* Curses! First the engine froze causing my vehicle to crash and now 50 miles in I'm still seeing no sight of the workshop!
 
 MagmaGiddy: Well, least it's not cold enough to freeze my ever so burning body! Ha! And I am certain the workshop is still not too far from here!!
 
@@ -364,13 +347,11 @@ Chill: Hey, just chill... man. Haha!
 
 MagmaHappy: Hahaha! Good pun! High five!!
 
-<div class="narration">
-Magma Man and Chill Man gives each other a five high. Right before their hands hit, Chill Man suddenly fades away...
-</div>
+%Magma Man and Chill Man gives each other a five high. Right before their hands hit, Chill Man suddenly fades away...
 
 MagmaShocked: Woah?!
 
-MagmaAnnoyed: [looks around] Man... Being stranded in such a frozen desert is really starting to get into me!
+MagmaAnnoyed: *[looks around]* Man... Being stranded in such a frozen desert is really starting to get into me!
 
 Magma: And if what my imaginary friend just said is true... how am I going to get out of this mess... Hmmm...
 
@@ -380,269 +361,8 @@ MagmaHappy: You're right, mirage Hornet Man! Always a genius!
 
 MagmaGiddy: Oh man, this would create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
 
-<div class="narration">
-He takes out a huge drill and goes drilling in from the center of the South Pole.
-</div>
+%He takes out a huge drill and goes drilling in from the center of the South Pole.
 
-<div class=""><center>
-<h1>ACT III</h1>
-</center></div>
-
-MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
-
-<div class="narration">
-Magma Man shouts loudly as he digs through planet from the very bottom towards the top. Eventually he meets the center of the planet; its core.
-</div>
-
-MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** [gets engulfed in the molten magma of the core]
-
-<div class="narration"><b>LOCATION: </b>The North Pole</div>
-
-SantaSad: Ho ho ho...
-
-Elf: What's wrong, Santa?
-
-SantaSad: Christmas just isn't the same anymore, Jimmy... Just not the same...
-
-Elf: But we do the same thing every year?
-
-Santa: Exactly! And how long have we've been doing it? For centuries! We need something new... something... fresh. Something that would make it exciting for me again!
-
-Elf: Like what?
-
-SantaThinking: [sighs and sits back on his rocking chair] Like... Hmm...
-
-<div class="narration">
-Suddenly, the North Pole begins to shake as if there's an earthquake!
-</div>
-
-ElfShocked: WH-WHAT THE?!
-
-SantaShocked: An earthquake?! Here?! In the North Pole?!
-
-<div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
-
-HornetSleep: ZZzzz... 
-
-GhostPresent: ...
-
-HornetSleep: ZzzzZZzz...
-
-GhostPresentAnnoyed: ...
-
-HornetSleep: ZzZzzzZzz... ZzzzZZzz...
-
-GhostPresentScared: ...
-
-HornetSleep: ZZzzzZzZZzz...zzzzZzz... ZzZzzz... ZzzzzZZZzzzzz........
-
-GhostPresentShocked: ...
-
-HornetPissed: [immediately gets up] **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
-
-GhostPresentShocked: **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
-
-HornetSleep: [immediately goes back to sleep] Zzzzzzz...
-
-GhostPresentAngry: HEY! [kicks the bed] Get up!!
-
-HornetGlare: Zzzz... huh? What?
-
-Hornet: ...
-
-GhostPresentScared: ...
-
-Hornet: Oh, I must be still dreaming about ghosts...
-
-GhostPresentAngry: You're not! We're real and I'm the Ghost of Christmas Present!
-
-HornetAnnoyed: Oh, damn it.
-
-GhostPresentAnnoyed: Anyways...!! Uhh... You're in the present now.
-
-Hornet: ...
-
-GhostPresentHappy: ...
-
-HornetGlare: And?
-
-GhostPresentScared: We're just really standing here. And that is what's going on in the present. Now I've hope you've learned your valuable lesson and become an upstanding citizen!
-
-HornetAngry: The only valuable lesson I've learned is that you're an insufferable idiot prick. GET LOST!
-
-GhostPresentShocked: EEP!! W-well... uh...! Bye!
-
-<div class="narration">
-GhostPresent Man dashes out of the room.
-</div>
-
-Hornet: [deep sigh and rests]
-
-SplashAnnoyed: ...
-
-GhostPresent: S-sorry, mon ami. I couldn't do it! He was just too immitating to handle...
-
-FakeAnnoyed: Why couldn't you let Galaxy Man handle that one?
-
-GalaxyHappy: Oh! Don't worry, I've got a great idea as the next ghost!
-
-GhostPresentHappy: Oh! Do tell!
-
-Galaxy: Well, we can't let the readers know! [faces to the reader] Why don't you tune in to the other scene first?
-
-FakeShocked: Readers??
-
-<div class="narration"><b>LOCATION: </b>The North Pole</div>
-
-SantaShocked: What in god's name is an earthquake doing around here?!
-
-ElfShocked: What is that screaming?!
-
-MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
-
-<div class="narration">
-Magma Man finally reaches to the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop as a lava geyser spews out of the hole. As soon as he lands, he strikes a pose!
-</div>
-
-SantaShocked: HO HO HOLY SHIT!!
-
-Elf: [holds up a "10" card]
-
-Santa: [holds up a "11" card]
-
-SpikeAloof: [holds up a blank card] ...
-
-MagmaAnnoyed: ...[shoots his magma bazooka at Concrete Man]
-
-SpikeAloof: [blows up]
-
-MagmaGiddy: SANTAAAAA!!
-
-SantaHappy: BILLY!!!!
-
-MagmaAngry: My name is not Billy!!!
-
-SantaSad: Sorry
-
-MagmaHappy: Anyways, ol' Nick! I've came literally all the way from the other side of the planet to ask for a certain job position.
-
-Santa: A job position?
-
-Magma: Yeah, like a PR!
-
-SantaThinking: Hmmm... Well, we don't have any job listings for a PR.
-
-MagmaSad: Aw...
-
-Santa: However! I think there are changes needed are in order... You can only do so much with doing the same thing after so many centuries, after all...
-
-Magma: Oh?
-
-SantaSad: Yeah! In fact... Christmas is hardly my holiday anymore. It used to be all about giving the gifts of joy to children and family everywhere...
-
-SantaAngry: But now it's just an excuse for the commercialized industry to make 20x more money! I hardly get to make my own gifts to children anymore. We've gotta reclaim what was rightfully mine!
-
-MagmaGiddy: [fist pump] Yeah! LET'S RECLAIM IT AND RENAME IT TO SINIMAS!
-
-SantaShocked: Sinimas?!
-
-MagmaHappy: Ya.
-
-SantaThinking: Sounds threatening... They would have a hard time taking our holiday away from us again! I'll allow it!
-
-ElfShocked: Are you sure you really want to do this?!
-
-MagmaGiddy: HECK YEA!!
-
-Santa: I don't see why not.
-
-MagmaAngry: BEWARE COWARDS. WE ARE SINIMAS.
-
-<div class="narration">
-To be continued!
-<ul>
-<li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
-<li><b>Act II</b></li>
-<li>Act III</li>
-<li>Act IV</li>
-<li>Act V/li></ul>
-</div>
-
-
-<div class=""><center>
-<h1>Everything here below is from the draft... ignore '-'</h1>
-</center></div>
-
-<div class="narration">
-Meanwhile
-</div>
-
-Santa: Ok so you're now hired, now what?
-
-Magma: idk my best friend bill
-
-Santa: MY NAME IS NOT BILL!!!
-
-Magma: sorry
-
-Santa: we need to rebrand christmas... somehow...
-
-Magma: holy shit we gotta make christmas edgy
-
-Santa: yeah!
-
-MagmaGiddy: AND RENAME IT SINIMAS
-
-Santa: YEAH!!
-
-Santa:
-
-Santa: whats a sinimas
-
-<div class=""><center>
-<h1>ACT IV</h1>
-</center></div>
-
-HornetGlare: Snore
-
-Galaxy: Boo
-
-Hornet: GAHHHHHHHHHHHH AHHHHHHHHHHHHHHHHHH WHAT THE FUCK
-
-Galaxy: Huh
-
-Hornet: ITS DEATH
-
-Galaxy: no im not
-
-Hornet Man fucking murders Galaxy Man but not really but he was really fucking close and oh my god theres blood and gore everywhere OH MY GOD WHAT IS THIS HORROR FSDJKLGSL;GASDASDG ASHDFKLGLADJGLKASDJ AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-
-Hornet: HOLY SHIT I BEAT DEATH. I DID IT.
-
-OldHornet: But at what cost... *dies*
-
-Hornet: NOOOOOOOOOOOOOOOOOOOOOOOOO!! They were right...
-
-Hornet: NO MORE ANGRY HORNET. ITS TIME FOR HAPPY HORNET
-
-HornetAngry: HNNNNGGGGGGGG...
-
-HornetHappy: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-Everyone: what the FUCK
-
-News: We regret to inform you Christmas is cancelled.
-
-Hornet: What
-
-News: It's Sinimas now. Good day
-
-Hornet: FUCK THIS. TO WAR.
-
-Everyone: stop
-
-Hornet: YOU CANT STOP ME
 
 EpFin
-
 <script src="assets/js/EpFormatter.js"></script>
