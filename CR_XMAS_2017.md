@@ -9,7 +9,7 @@
 
 EpStart
 
-## Act 1 [](#act-1)
+## Act I [](#act-1)
 
 @Location: Living Room
 
@@ -160,7 +160,7 @@ GalaxyRelieved: Oh! Me too! Me too!
 FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
 
-## Act 2 [](#act-2)
+## Act II [](#act-2)
 
 @Location: Living Room
 
@@ -362,6 +362,309 @@ MagmaHappy: You're right, mirage Hornet Man! Always a genius!
 MagmaGiddy: Oh man, this would create an awesome entrance. Surely Santa would hire such a cool guy such as ME!
 
 %He takes out a huge drill and goes drilling in from the center of the South Pole.
+
+
+## Act III [](#act-3)
+
+
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+%Magma Man shouts loudly as he digs through planet from the very bottom towards the top. Eventually he meets the center of the planet; its core.
+
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** *[gets engulfed in the molten magma of the core]*
+
+@Location: The North Pole
+
+SantaSad: Ho ho ho...
+
+Elf: What's wrong, Santa?
+
+SantaSad: Christmas just isn't the same anymore, Jimmy... Just not the same...
+
+Elf: But don't we do the same thing every year?
+
+Santa: Exactly! And how long have we've been doing it? For centuries! We need something new... something... fresh. Something that would make it exciting for me again!
+
+Elf: Like what?
+
+SantaThinking: *[sighs and sits back on his rocking chair]* Like... Hmm...
+
+%Suddenly, the North Pole begins to shake as if there's an earthquake!
+
+ElfShocked: WH-WHAT THE?!
+
+SantaShocked: An earthquake?! Here?! In the North Pole?!
+
+@Location: Hornet Man's Bedroom
+
+HornetSleep: ZZzzz... 
+
+GhostPresent: ...
+
+HornetSleep: ZzzzZZzz...
+
+GhostPresentAnnoyed: ...
+
+HornetSleep: ZzZzzzZzz... ZzzzZZzz...
+
+GhostPresentScared: ...
+
+HornetSleep: ZZzzzZzZZzz...zzzzZzz... ZzZzzz... ZzzzzZZZzzzzz........
+
+GhostPresentShocked: ...
+
+HornetPissed: *[immediately gets up]* **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+GhostPresentShocked: **AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+HornetSleep: *[immediately goes back to sleep]* Zzzzzzz...
+
+GhostPresentAngry: HEY! *[kicks the bed]* Get up!!
+
+HornetGlare: Zzzz... huh? What?
+
+Hornet: ...
+
+GhostPresentScared: ...
+
+Hornet: Oh, I must be still dreaming about ghosts...
+
+GhostPresentAngry: You're not! We're real and I'm the Ghost of Christmas Present!
+
+HornetAnnoyed: Oh, damn it.
+
+GhostPresentAnnoyed: Anyways...!! Uhh... You're in the present now.
+
+Hornet: ...
+
+GhostPresentHappy: ...
+
+HornetGlare: And?
+
+GhostPresentScared: We're just really standing here. And that is what's going on in the present. Now I've hope you've learned your valuable lesson and become an upstanding citizen!
+
+HornetAngry: The only valuable lesson I've learned is that you're an insufferable idiot prick. GET LOST!
+
+GhostPresentShocked: EEP!! W-well... uh...! Bye!
+
+%Plug Man dashes out of the room.
+
+Hornet: *[deep sigh and rests]*
+
+SplashAnnoyed: ...
+
+FakeAnnoyed: What even happened?
+
+SplashAnnoyed: More like what didn't happened?!
+
+GhostPresentAnnoyed: S-sorry, mon ami. I couldn't do it! He was just too immitating to handle...
+
+GalaxyHappy: Oh! Don't worry, I've got a great idea as the next ghost!
+
+GhostPresentHappy: Oh! Do tell!
+
+Galaxy: Well, we can't let the readers know! *[faces to the reader]* Why don't you tune in to the next scene first?
+
+FakeShocked: Readers??
+
+@Location: The North Pole
+
+SantaShocked: What in god's name is an earthquake doing around here?!
+
+ElfShocked: What is that screaming?!
+
+MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
+
+%Magma Man finally reaches to the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop as a lava geyser spews out of the hole. As soon as he lands, he strikes a pose!
+
+SantaShocked: HO HO HOLY SHIT!!
+
+Elf: *[holds up a "10" card]*
+
+Santa: *[holds up a "11" card]*
+
+SpikeAloof: *[holds up a blank card]* ...
+
+MagmaAnnoyed: ...*[shoots his magma bazooka at Concrete Man]*
+
+SpikeAloof: *[blows up]*
+
+MagmaGiddy: SANTAAAAA!!
+
+SantaHappy: BILLY!!!!
+
+MagmaAngry: My name is not Billy!!!
+
+SantaSad: Sorry
+
+MagmaHappy: Anyways, ol' Nick! I've came literally all the way from the other side of the planet to ask for a certain job position.
+
+Santa: A job position?
+
+Magma: Yeah, like a PR!
+
+SantaThinking: Hmmm... Well, we don't have any job listings for a PR.
+
+MagmaSad: Aw...
+
+Santa: However! I think there are changes needed are in order... You can only do so much with doing the same thing after so many centuries, after all...
+
+Magma: Oh?
+
+SantaSad: Yeah! In fact... Christmas is hardly my holiday anymore. It used to be all about giving the gifts of joy to children and family everywhere...
+
+SantaAngry: But now it's just an excuse for the commercialized industry to make 20x more money! I hardly get to make my own gifts to children anymore. We've gotta reclaim what was rightfully mine!
+
+MagmaGiddy: *[fist pump]* Yeah! LET'S RECLAIM IT AND RENAME IT TO SINIMAS!
+
+SantaShocked: Sinimas?!
+
+MagmaHappy: Ya.
+
+SantaThinking: Sounds threatening... They would have a hard time taking our holiday away from us again! I'll allow it!
+
+ElfShocked: Are you sure you really want to do this?!
+
+MagmaGiddy: HECK YEA!!
+
+Santa: I don't see why not.
+
+MagmaAngry: BEWARE COWARDS. WE ARE SINIMAS.
+
+
+## Act IV [](#act-4)
+
+
+@Location: Hornet Man's bedroom... again
+
+HornetSleep: Zzzzzz...
+
+%**SFX:** *Footsteps*
+
+HornetSleep: Zzzzzz... ZZZZZzzzz...
+
+%S**FX:** *More Footsteps*
+
+HornetSleep: ZZzzzZzZzZzZZzz...
+
+%**SFX:** *Even More Footsteps*
+
+HornetSleep: ZZZZZZZZZZZZZZZZZZ
+
+%**SFX:** *Holy shit just get on with it already*
+
+%A robed shaped shadow casts over Hornet Man.
+
+GhostFutureScary: *[looms over]* ...
+
+HornetSleep: zZZ...zzz... Muh.... Huh?
+
+GhostFutureAngry: Hoorrrnnettttt....
+
+HornetShocked: What the?!
+
+GhostFutureAngry: ...I have come for you... I am-
+
+HornetAngry: **DEATH!!**
+
+GhostFuture: Huh? Wait! Dude, I'm-
+
+GhostFuturePunched: *OOF!*
+
+GhostFutureDamaged: What the hell?!
+
+HornetPissed: **YOU WILL NOT TAKE ME ALIVE!!**
+
+GhostFutureDamaged: Stop it! I'm not-
+
+GhostFuturePunched: *OW!!* STOP!!
+
+HornetPissed: **I WILL DEFEAT YOU, DEATH!! DIE!!!** ***DIE DIE DIE!!!***
+
+GhostFuturePunched: *AUGHHHHHHH*
+
+SpikeAloof: ...
+
+HornetPissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
+
+GhostFuturePunched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
+
+SpikeAloof: ...
+
+%Outside the room...
+
+GhostPresentAnnoyed: *[peeps out of a giant empty gift box]* What's taking him so long?
+
+FutureHornet: I wish he can hurry up so this can be over with...
+
+FakeSnicker: *[as a Christmas star]* Don't worry, I sent Concrete Man to make sure everything will be okay!
+
+GhostPresent: Umm... I don't think Concrete-
+
+%*OH GOD! HE RIPPED MY* ***ARMS*** *OFF! FOR THE LOVE OF THAT IS EVERYTHING...* ***HELLPPP MEEEEEEEE***
+
+GhostPresentShocked: EEP! *[hides back in the box]*
+
+FakeShocked: Uhhh...
+
+FutureHornet: Before you ask, yes we *absolutely* should.
+
+%The two barges into the room and all they see is the room in a big mess coupled with pieces of Galaxy Man's parts.
+
+GhostPastShocked: *[disguising herself as one of the ghosts]* Holy-
+
+GhostFutureDamaged: *[leaking a lot of oil]* I don't want to be on Earth anymore...
+
+HornetGiddy: YES! I'VE DEFEATED DEATH! NOW NO ONE CAN STOP ME! I AM IMMORTAL! *I AM IMMORTAL!!!*
+
+GhostPastShocked: ...
+
+SpikeAloof: ...
+
+HornetGiddy: HAHAHAHAHA! NOW I CAN-
+
+JewelAnnoyed: What the hell happened here?!
+
+TornadoAnnoyed: Violent. Oil. Acknowledge that Hornet harmed the Space Man. Yes?
+
+JewelAngry: What is wrong with you, Hornet Man?
+
+Hornet: Ah, shut up. You're just jealous I'm immortal now. Ha!
+
+Jewel: Uh, what? Anyways, has anyone seen Magma Man?
+
+Hornet: No. Why?
+
+Jewel: He went on about taking over Christmas and renaming it "Sinimas" or some non sense. And now neither Tornado or I have seen him in hours! On top of that, Dr. Light's vehicle is missing and we think-
+
+HornetGlare: I don't care. Wait, hmm? *[turns around]*
+
+FutureHornet: ...!
+
+HornetGlare:  *[sees his "Future" self]* Oh... Despite my immortality, I still age in the future apparently...
+
+JewelAnnoyed: But that's...
+
+GhostPast: Shhhh...
+
+FutureHornet: Um, uh. *[coughs]* I am 40 years old and I'm so old and I don't feel good and... *[cough]*
+
+Hornet: ...?!
+
+FutureHornet: Oh... I don't feel good... Like... death got its grips on me... *[collaspes "dead"]*
+
+HornetShocked: W-What?! NO! 40 IS NO AGE TO DIE AT! IM NOT EVEN SUPPOSE TO GROW A GREY BEARD AT THAT AGE EITHER! Oh my god...
+
+HornetSad: I shouldn't been such a scrooge my whole life... All this stress giving me grey hairs til immortality becomes nothing... They were right...
+
+%And from that moment, Hornet Man finally understands the true meaning of Christmas...
+
+Hornet: Hm, suddenly it feels like I hate Christmas a little less now. Like as if... my small, cold and dark heart grew 3 times bigger...
+
+HornetGlare: I must save Christmas from becoming Sinimas!
+
+GhostFutureDamaged: Huh?
+
 
 
 EpFin
