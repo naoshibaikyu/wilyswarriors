@@ -72,7 +72,6 @@ function insertMugshots()
 
 	var emotes = {
 		original:"",
-		original:"Neutral",
 		happy:"Happy",
 		annoyed:"Annoyed",
 		angry:"Angry",
