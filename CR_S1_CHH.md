@@ -292,7 +292,7 @@ TornadoAngry: . . .Having explanation make, someone must.
 
 %As Splash Man pulled Hornet Man up, both of the formerly unconscious individuals would regain consciousness..
 
-PLACEHOLDERCONCRITTERHI: ...Uhn..
+Concrete: ...Uhn..
 
 HornetAngry: **[Indiscriminate, quiet cursing.]**
 
