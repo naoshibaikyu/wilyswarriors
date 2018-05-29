@@ -280,7 +280,7 @@ TornadoAngry: BELIEF THAT CONCRETE IN HAND!
 
 MagmaShocked: OH!
 
-FaketteShocked: Whoopsie! He should be fine if we just dust him off!
+FakeShocked: Whoopsie! He should be fine if we just dust him off!
 
 %The two could be seen descending back into the house. Tornado Man holds firmly the Mettaur while Splash Man attempts to rifle through the trash heap to retrieve Hornet Man. Upon finding the Hornet-based individual, a very familiar spattering of armor would catch his eye...
 
@@ -294,7 +294,7 @@ TornadoAngry: . . .Having explanation make, someone must.
 
 PLACEHOLDERCONCRITTERHI: ...Uhn..
 
-HornetAngry: Indiscriminate, quiet cursing.
+HornetAngry: **[Indiscriminate, quiet cursing.]**
 
 %Splash Man looks down towards the Concrete-Man-esq individual, before hefting Hornet Man across his shoulder with one hand. With the other, he would hoist the much smaller, and far more lightweight entity across his other shoulder.
 
