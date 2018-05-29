@@ -8,7 +8,7 @@
 
 EpStart
 
-## Act I %(#act-1)
+## Act I
 
 Narrator: We find ourselves currently overseeing the machinations of Concrete Man within the confines of the team's base! Concrete Man who is... ...just... ...standing there.. ...doing absolutely.. ...nothing interesting.
 
@@ -294,7 +294,7 @@ TornadoAngry: . . .Having explanation make, someone must.
 
 PLACEHOLDERCONCRITTERHI: ...Uhn..
 
-HornetAngry: %Indiscriminate, quiet cursing.
+HornetAngry: Indiscriminate, quiet cursing.
 
 %Splash Man looks down towards the Concrete-Man-esq individual, before hefting Hornet Man across his shoulder with one hand. With the other, he would hoist the much smaller, and far more lightweight entity across his other shoulder.
 
