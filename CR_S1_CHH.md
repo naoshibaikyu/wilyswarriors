@@ -96,7 +96,7 @@ FakeShocked: What?
 
 JewelShocked: How can you be so certain it was Galaxy Man?
 
-Hornet: Plug Man doesn't seem the type and the rest of you are right here. 
+HornetNeutral: Plug Man doesn't seem the type and the rest of you are right here. 
 
 FakeAnnoyed: I don't know about that... You were the one I saw here first!
 
@@ -104,11 +104,11 @@ FakeAnnoyed: I don't know about that... You were the one I saw here first!
 
 HornetAnnoyed: . . .
 
-Jewel: Out of everyone here, you are the most suspect, Hornet Man.
+JewelNeutral: Out of everyone here, you are the most suspect, Hornet Man.
 
 HornetAnnoyed: WHAT? No. It's obviously Galaxy Man. He's not even here!
 
-Jewel: Not only were you here before everyone else according to Fake, but you were also the first to name a suspect without any assistance in looking for the perpetrator.
+JewelNeutral: Not only were you here before everyone else according to Fake, but you were also the first to name a suspect without any assistance in looking for the perpetrator.
 
 %Hornet Man angrily jabs his hand forwards, pointing in Jewel Woman's direction.
 
@@ -118,33 +118,33 @@ MagmaAnnoyed: ...Hmmm... ..They have a point. You were the one here first!
 
 %As the three bicker, on the other side of the base, Splash Man followed along after Tornado Man, the latter of whom was explaining his investigative process in earnest.
 
-Tornado: ...Addition information. Make check of surrounding finding evidence. When finding evidence trail get, observation sight. Determine type evidence get, follow notes acquirement. Movement current recognition of evidence. Others require assist courtesy of self.
+TornadoNeutral: ...Addition information. Make check of surrounding finding evidence. When finding evidence trail get, observation sight. Determine type evidence get, follow notes acquirement. Movement current recognition of evidence. Others require assist courtesy of self.
 
 %Splash Man nods, having understood Tornado Man's musings.
 
-Splash: That is not quite unlike my methods of tracking.
+SplashNeutral: That is not quite unlike my methods of tracking.
 
 TornadoHappy: Of profession, investigative and ninja divergent unlike.
 
 %Splash Man brings his hand to his chin in thought.
 
-Splash: No, I would suppose they aren't too dissimilar..
+SplashNeutral: No, I would suppose they aren't too dissimilar..
 
 %Tornado Man nods, then points to the ground near the door that led outside.
 
-Tornado: Sight seeing of trail. Evidence movement of perpetrator of making crime. Noticed first grime dirt on Concrete neckplate.
+TornadoNeutral: Sight seeing of trail. Evidence movement of perpetrator of making crime. Noticed first grime dirt on Concrete neckplate.
 
-Splash: This means our enemy assassin came from the outside, does it not?
+SplashNeutral: This means our enemy assassin came from the outside, does it not?
 
-Tornado: Un-believe assassin.
+TornadoNeutral: Un-believe assassin.
 
 SplashShocked: And what is it do you believe to have happened?
 
-Tornado: Of believe Concrete self left own self.
+TornadoNeutral: Of believe Concrete self left own self.
 
 %Splash Man lowers his hand and slowly draws his gaze to Tornado Man, as if silently asking a question. Tornado Man nods solemnly before he points over towards the door handle.
 
-Tornado: Note making of handledoor. Seeing sight of grime lacking.
+TornadoNeutral: Note making of handledoor. Seeing sight of grime lacking.
 
 %Tornado Man then pointed down, towards the corner of the door, where there was a decent amount of dirt and grime.
 
@@ -152,11 +152,11 @@ TornadoHappy: Trail evidence lead onward. Further making trail follow going.
 
 %Splash Man's eyes narrow slightly in a further question, however he follows after Tornado Man once he uses his foot to open the door. Once outside, Tornado Man motions towards what appeared to be the tracks of a turtle.
 
-Tornado: See trail leading of evidence. Direction point to Concrete.
+TornadoNeutral: See trail leading of evidence. Direction point to Concrete.
 
 %Splash Man's gaze draws itself to the ground, and he follows the trail with Tornado Man in close pursuit.
 
-Splash: Ah! The path diverges here. The deeper ruts in the ground show it's a more-traveled path. The shallower ones would be less traveled. Shall we split to cover more ground?
+SplashNeutral: Ah! The path diverges here. The deeper ruts in the ground show it's a more-traveled path. The shallower ones would be less traveled. Shall we split to cover more ground?
 
 TornadoHappy: Agreement. Disclosure pleasantries. Of company Splash Man preferential.
 
@@ -194,7 +194,7 @@ FakeAnnoyed: Don't resist arrest!
 
 PlugShocked: Oh, mon dieu..
 
-Jewel: ...Yes, and Hornet believed it to be Galaxy Man.
+JewelNeutral: ...Yes, and Hornet believed it to be Galaxy Man.
 
 PlugShocked: Non non non! Galaxy and I were watching zis.
 
@@ -204,9 +204,9 @@ PlugHappy: Le programme is most enjoyable! Ah, but, in zis matter of Monsieur Co
 
 %Jewel Woman crosses her arms and draws her gaze to her foot, tapping it as she thought on his words.
 
-Jewel: How long were you both watching the television for?
+JewelNeutral: How long were you both watching the television for?
 
-Plug: Ah! Since ze last time you spoke to moi!
+PlugNeutral: Ah! Since ze last time you spoke to moi!
 
 JewelAnnoyed: ...You mean to tell me you both have been in here mindlessly watching television for a whole day?
 
@@ -214,13 +214,13 @@ PlugHappy: Oui.
 
 %Jewel Woman shakes her head in disbelief, but deep down knows Plug's words are the truth.
 
-Jewel: So, where is Galaxy right now?
+JewelNeutral: So, where is Galaxy right now?
 
 PlugHappy: Monsieur Galaxy left five minutes ago to get snacks for moi! Around ze time of everyone's shouting!
 
-Jewel: ...Good. When he returns, just.. ...continue to watch the television, I suppose. Remain on guard, however. We have no idea who did this to Concrete, nor how it was done.
+JewelNeutral: ...Good. When he returns, just.. ...continue to watch the television, I suppose. Remain on guard, however. We have no idea who did this to Concrete, nor how it was done.
 
-Plug: Ah! All in ze room shall remain vigilant! You have nothing to worry about!
+PlugNeutral: Ah! All in ze room shall remain vigilant! You have nothing to worry about!
 
 %Jewel Woman nods to Plug Man and exits the room, heading back to the place she'd last seen the others...
 
@@ -228,25 +228,25 @@ Narrator: Elsewhere, it would appear that Tornado Man and Splash Man had made si
 
 %Tornado Man appeared to have been standing before a large dumpster, one that was used to house the refuse of a recent remodeling. Splash Man, having returned to him after finding nothing of note, was listening intently to the detective as he explained how he had come to his conclusion in solving the case of Concrete Man's "death." 
 
-Tornado: Note grime markings of trailmake in dirt grooves.
+TornadoNeutral: Note grime markings of trailmake in dirt grooves.
 
 %Tornado Man bends forwards and leans down, pointing to a small spot nearest to the dumpster in which metal support beams, wood, and various other scraps had been piled up. Splash Man, in turn, leaned forwards as well, in order to get a better view of what Tornado Man was gesturing towards.
 
-Tornado: Of pile make stand structure move inwards up dumpster. Into garbage trash trail make, go further to warrant investigate.
+TornadoNeutral: Of pile make stand structure move inwards up dumpster. Into garbage trash trail make, go further to warrant investigate.
 
-Splash: ...So the culprit escaped into the dumpster. Hmm. We'd best be on our guard!
+SplashNeutral: ...So the culprit escaped into the dumpster. Hmm. We'd best be on our guard!
 
 %Tornado Man nods to Splash Man, and the two rather quickly make their way atop the pile which, in spite of its questionable composition, manages to hold their combined weight. Once they'd entered the dumpster, they managed to make note of a sudden rustling.
 
-Tornado: Wait. Hearing noise make?
+TornadoNeutral: Wait. Hearing noise make?
 
-Splash: ...Yes.
+SplashNeutral: ...Yes.
 
-Tornado: Cautionary of movements, slowly forward making.
+TornadoNeutral: Cautionary of movements, slowly forward making.
 
 %The two individuals slowly and cautiously advance upon a particular trembling pile of garbage. Upon Tornado Man's signal, Splash Man dives upon it, wrestling with the hellish creature that lay beneath the rubble -- a mettaur. Hissing, spitting and writhing in a futile attempt to break free, the mettaur spares Splash Man no quarter. However, despite its valiant attempt, it would be for naught. Splash Man, with a firm grip upon the mettaur, would turn and hold the creature up to Tornado Man.
 
-Splash: ...It's merely a Mettaur.
+SplashNeutral: ...It's merely a Mettaur.
 
 TornadoHappy: Culprit in Concrete death hazard making found. Grime dirt upon appendage feet correlate with marking dirt inside near door and Concrete armor. Concrete head Mettaur. Lethargy and inattentiveness explain. Change drastic behavior make explain. Mental acuity loss explain.
 
@@ -298,7 +298,7 @@ HornetAngry: %Indiscriminate, quiet cursing.
 
 %Splash Man looks down towards the Concrete-Man-esq individual, before hefting Hornet Man across his shoulder with one hand. With the other, he would hoist the much smaller, and far more lightweight entity across his other shoulder.
 
-Tornado: Hmmm...
+TornadoNeutral: Hmmm...
 
 %Part one, end.
 
