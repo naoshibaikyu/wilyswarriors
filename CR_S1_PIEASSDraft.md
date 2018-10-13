@@ -16,7 +16,7 @@
 
 EpStart
 
-## PROLOGUE <a id="prologue"></a>
+## <a id="prologue"></a> PROLOGUE
 
 
 @LOCATION: Team Base
