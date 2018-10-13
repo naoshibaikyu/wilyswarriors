@@ -167,6 +167,7 @@ function show(shown, hidden) {
     <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
 	dfgdsgslsgdkls
 	sdgsdhsd
+	<script src="assets/js/EpFormatter.js"></script>
   </div>
 
   <div id="Page2" style="display:none">
