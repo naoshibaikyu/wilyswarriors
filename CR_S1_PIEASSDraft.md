@@ -8,7 +8,7 @@
 
 EpStart
 
-{#PROLOGUE}
+<a id="prologue"></a>
 ## PROLOGUE
 
 
@@ -63,7 +63,7 @@ Magma: LET'S SET SAIL
 %**Ship:** Sails across the land, leaving a destructive trail.
 
 
-{#ACT1}
+<a id="act-1"></a>
 ## ACT I
 
 
@@ -124,106 +124,9 @@ GalaxyScared: glug
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
-%[Act 2](#Act2)
+<a id="act-2"></a>
 ## ACT II
 
-dfg
-hd
-fd
-fddfd
-
-dfghfd
-hdf
-dfh
-dfgdf
-dfhdfdf
-dh
-dfgdfh
-dfhdfh
-dfh
-
-
-##Title
-
-###Place 1
-dfg
-hd
-fd
-fddfd
-
-dfghfd
-hdf
-dfh
-dfgdf
-dfhdfdf
-dh
-dfgdfh
-dfhdfh
-dfh
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-dfg
-hd
-fd
-fddfd
-
-dfghfd
-hdf
-dfh
-dfgdf
-dfhdfdf
-dh
-dfgdfh
-dfhdfh
-dfh
-
-###Place 2
-dfg
-hd
-fd
-fddfd
-
-dfghfd
-hdf
-dfh
-dfgdf
-dfhdfdf
-dh
-dfgdfh
-dfhdfh
-dfh
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
-
-dfg
-hd
-fd
-fddfd
-
-dfghfd
-hdf
-dfh
-dfgdf
-dfhdfdf
-dh
-dfgdfh
-dfhdfh
-dfh
-dfg
-hd
-fd
-fddfd
-
-dfghfd
-hdf
-dfh
-dfgdf
-dfhdfdf
-dh
-dfgdfh
-dfhdfh
-dfh
 
 EpFin
 
