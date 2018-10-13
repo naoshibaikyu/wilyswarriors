@@ -4,15 +4,13 @@
 <h6>Written by Psycho The Mantis</h6>
 </center>
 
-<div class="btn-group">
 <center>
-<button><a href="#prologue">Prologue</a></button>
-<button><a href="#act-1">Act 1</a></button>
-<button><a href="#act-2">Act 2</a></button>
-<button><a href="#act-3">Act 3</a></button>
-<button><a href="#epilogue">Epilogue</a></button>
+<a href="#prologue" class="EpButtons">Prologue</a>
+<a href="#act-1" class="EpButtons">Act 1</a>
+<a href="#act-2" class="EpButtons">Act 2</a>
+<a href="#act-3" class="EpButtons">Act 3</a>
+<a href="#epilogue" class="EpButtons">Epilogue</a>
 </center>
-</div>
 
 
 
