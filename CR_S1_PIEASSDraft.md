@@ -137,13 +137,13 @@ MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
 ## <a id="act-2"></a> ACT II
-- - -
-###### [Back to top](#top)
+- - -###### [Back to top](#top)
 
 
 ## <a id="act-3"></a> ACT III
-- - -
 ###### [Back to top](#top)
+- - -
+
 
 
 ## <a id="epilogue"></a> EPILOGUE
