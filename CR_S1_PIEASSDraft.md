@@ -8,8 +8,8 @@
 
 EpStart
 
-<a id="prologue"></a>
-## PROLOGUE
+
+## PROLOGUE <a id="prologue"></a>
 
 
 @LOCATION: Team Base
