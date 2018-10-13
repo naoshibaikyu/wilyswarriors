@@ -4,6 +4,12 @@
 <h6>Written by Psycho The Mantis</h6>
 </center>
 
+<div class="btn-group">
+  <button>Apple</button>
+  <button>Samsung</button>
+  <button>Sony</button>
+</div>
+
 
 
 EpStart
