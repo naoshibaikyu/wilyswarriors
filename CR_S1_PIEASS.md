@@ -4,9 +4,9 @@ EpStart
 <h4>Season 1 Episode ?</h4>
 <h2>PIEASS</h2>
 <h6>Written by Psycho The Mantis</h6>
-</center></div>
+</center>
 
-<div class="narration"><b>LOCATION:</b> Team Base</div>
+<div class="narration"><b>LOCATION:</b> Team Base
 
 HornetGlare: [flipping through channels] Meh. Nothing good is on TV today...
 
@@ -34,7 +34,7 @@ SpikeAloof: ...
 
 Hornet: When did you get in here? Whatever. Not interested anyways.
 
-<div class="hhhh">Hornet stops channel flipping and ends up at a channel displaying a show called "Super Salmon Ninja Squad".</div>
+%Hornet stops channel flipping and ends up at a channel displaying a show called "Super Salmon Ninja Squad".
 
 HornetGlare: Oh god...
 
@@ -54,7 +54,7 @@ FakeAnnoyed: They have always been popular, Hornet.
 
 HornetAngry: FAKETTE, DON'T YOU UNDERSTAND?! NINJAS ARE TRASH!! **T-R-A-S-H**
 
-<div class="hhhh">Elsewhere in the Team's base.</div>
+%Elsewhere in the Team's base.
 
 Splash: And that is how you-
 
@@ -64,13 +64,13 @@ PlugShocked: Sacre bleu, what's wrong?
 
 SplashNani: I've sensed some serious *dishonor* from the living room...
 
-<div class="hhhh">Splash Man immediately darts out of his room with Plug Man following.</div>
+%Splash Man immediately darts out of his room with Plug Man following.
 
 HornetGlare: [watched bits of the show right before deciding to flip channels again] How do these Salmon even walk? They don't have legs anyways!
 
 FakeAnnoyed: It's a cartoon... You're suppose to suspend disbelief!
 
-<div class="hhhh">Suddenly Splash Man zooms into the scene with Plug Man arriving a few seconds later.</div>
+%Suddenly Splash Man zooms into the scene with Plug Man arriving a few seconds later.
 
 SplashAngry: Alright, who was it?! Who uttered such a dishonorable thing around here?!
 
@@ -190,7 +190,7 @@ Fake: ...But you do this every day. We have so much food already!
 
 GalaxyAnnoyed: Huh? You're right but whatever!
 
-<div class="hhhh">As Galaxy Man heads out to the outdoors, Fakette turns to Hornet wanting to go back to the previous conversation</div>
+%As Galaxy Man heads out to the outdoors, Fakette turns to Hornet wanting to go back to the previous conversation
 
 Fake: So... would you rather talk about the Wii U Classic Mini?
 
@@ -224,7 +224,7 @@ FakeShocked: O-Oh. Well, I didn't expect an actual sale. Aheh.... [hands over th
 
 Hornet: Whatever! Hooking it up now! [opens the box]
 
-<div class="hhhh">Suddenly Magma Man barges in from his trip outdoors.</div>
+%Suddenly Magma Man barges in from his trip outdoors.
 
 Magma: Guess what!?
 
@@ -280,13 +280,13 @@ HornetGlare: Then it's on...!! [grabs the wishbone and holds it up in front of M
 
 MagmaAnnoyed: [grabs the wishbone from the other side]
 
-<div class="hhhh">Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b></div>
+%Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b>
 
 MagmaGiddy: YEAH! [holds the longer piece up]
 
 HornetAngry: Fuck!
 
-<div class="hhhh">Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!</div>
+%Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!
 
 GalaxyShocked: [wakes up and sees a pirate ship dropping onto the pool] (°o°) ... **(°ロ°)!**
 
@@ -296,7 +296,7 @@ MagmaHappy: [peeks out the window] Yarr!! There it is, lads! All aboard the S.S.
 
 HornetSad: Meh.
 
-<div class="hhhh">The three goes to board the ship, unknowingly with Galaxy Man curiously trailing behind them.</div>
+%The three goes to board the ship, unknowingly with Galaxy Man curiously trailing behind them.
 
 PlugShocked: This is bigger than I expected!
 
@@ -334,9 +334,9 @@ GalaxyHappy: Arr!!
 
 HornetAnnoyed: Arr...
 
-<div class="hhhh">The pirate ship slowly sails towards out of the pool and drags itself across the land, creating a huge earth-destroying trail behind.</div>
+%The pirate ship slowly sails towards out of the pool and drags itself across the land, creating a huge earth-destroying trail behind.
 
-<div class="hhhh"><b>To be continued...</b></div>
+%**To be continued...**
 
 EpFin
 

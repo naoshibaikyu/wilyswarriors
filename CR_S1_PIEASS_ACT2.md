@@ -7,19 +7,25 @@ GalaxyHappy: [snickers]
 
 MagmaAnnoyed: Eh?
 
-GalaxyHappy: You said booty and... oh...
+GalaxyHappy: You said booty and...
+
+MagmaAnnoyed: Ye think that's funny? Making a fool out yer leader?
+
+GalaxyShocked: Um...!! 
 
 MagmaAngry: I know what job ye scallywag will have now... You shall clean the poop deck whenever it's a mess and do absolutely nothing else! 'less you want to be shark bait...
 
 GalaxyShocked: (°ロ°)
 
-Galaxy: Wait, if I have to clean the *poop* deck while it's dirty, doesn't this mean I always have to clean it because-
+Galaxy: Wait, why have a *poop* deck when we have a toilet-
 
 MagmaAngry: ...
 
-GalaxyShocked: Heh. Heh. Get it? Because... poo...
+Galaxy: G...Get it? Get the pun?
 
 MagmaAngry: ...
+
+GalaxyShocked: Nevermind! I didn't say anything!!
 
 Hornet: Hey, you chucklefucks! What am I suppose to do?!
 
@@ -33,7 +39,7 @@ Magma: Dunno, do whatever ya want.
 
 HornetAnnoyed: Ugh. I'm going to play the Wii U Classic then.
 
-<div class="hhhh">Hornet Man then remembers he left the system at home</div>
+%Hornet Man then remembers he left the system at home
 
 HornetGlare: Fuck.
 
@@ -73,9 +79,9 @@ GalaxyPissed: [grabs Hornet Man's head and twists it to snap his neck]
 
 HornetShocked: GACK [falls over dead]
 
-(That didn't happen)
+%(That didn't happen)
 
-*FWOOOSH*
+%*FWOOOSH*
 
 Hornet: Well...?
 
@@ -93,7 +99,7 @@ Hornet: Get off!! [throws him into a barrel]
 
 GalaxyAnnoyed: *glubglubglub*
 
-[The ship eventually reaches the city of Robotropolis, hitting a filled parking lot.]
+%The ship eventually reaches the city of Robotropolis, hitting a filled parking lot.
 
 PlugScared: [at the crow's nest] SACRE BLEU! We're going to hit a bunch of boats!!!!
 
@@ -101,7 +107,7 @@ Hornet: Now we're talking!!
 
 MagmaShocked: [tries steering the ship] She's refusin' to turn, lads! Brace for impact!!
 
-[The ship crushes parked cars in its way, all while drivers in their cars drive out of the way for their dear lives. The cars being crushed has their alarms goes off on impact, creating a lot of noise.]
+%The ship crushes parked cars in its way, all while drivers in their cars drive out of the way for their dear lives. The cars being crushed has their alarms goes off on impact, creating a lot of noise.
 
 MagmaAnnoyed: I didn't know boats could be so noisy.
 
@@ -125,7 +131,7 @@ GalaxyAngry: [tries to wiggle out of the barrel but to not avail] *glub...*
 
 Hornet: Ha ha ha ha!!
 
-[Suddenly, police sirens are heard coming from behind the ship's direction.]
+%Suddenly, police sirens are heard coming from behind the ship's direction.
 
 PlugAnnoyed: OH MON DIEU!!
 
@@ -141,7 +147,7 @@ HornetGlare: Okay.
 
 MagmaAngry: Let 'em come. Sinistar HUNGERS!
 
-[The police opens the top of their special vehicle, sending out police bots to grapple and climb onto the ship.]
+%The police opens the top of their special vehicle, sending out police bots to grapple and climb onto the ship.
 
 PlugScared: Here they come from both sides!!
 
@@ -159,11 +165,11 @@ MagmaHappy: Yer right. Arr! **ATTACK!!!**
 
 Hornet: Arr!!!
 
-[Several groups of police bots makes it to both sides of the ship. Hornet and Magma Man rushes to their assigned sides to fend themselves off from the police bots.]
+%Several groups of police bots makes it to both sides of the ship. Hornet and Magma Man rushes to their assigned sides to fend themselves off from the police bots.
 
 Police Bot 1: We have our target on sight!
 
-[All the police bots on the left side of the ship aims their gun at Magma Man]
+%All the police bots on the left side of the ship aims their gun at Magma Man
 
 Magma: Arr, ye ain't going to steal my ship and get my treasure! That's one thing for certain! [aims both of his arm cannon at the police bots]
 
@@ -215,7 +221,7 @@ Police Bot 4: Please just don't kill us!
 
 Hornet: Hmmmm... Nah!
 
-[Suddenly, a light from above shines on the ship]
+%Suddenly, a light from above shines on the ship!
 
 MagmaShocked: The heck?!
 
@@ -225,7 +231,7 @@ Police Bot 2: Back up!
 
 Police Bot 3: We're saved!
 
-[6 more Police Bots parachutes from the helicopter above, all towards the spot where the 4 Police Bots are]
+%6 more Police Bots parachutes from the helicopter above, all towards the spot where the 4 Police Bots are!
 
 MagmaAnnoyed: Parachuting pirates...?!
 
@@ -239,7 +245,7 @@ Police Bot 6: Who's to say we weren't counting the 4 on the crow's nest?
 
 Police Bot 7: Yeah!
 
-[Magma Man and Hornet Man looks at the crow's nest where Plug Man, is surrounded by 4 Police Guard Bots.]
+%Magma Man and Hornet Man looks at the crow's nest where Plug Man, is surrounded by 4 Police Guard Bots.
 
 Police Bot 8: If ya want your friend to get out of this alive, you should surrender!
 
@@ -263,7 +269,7 @@ GalaxyShocked: *GLUB GLUB???*
 
 Police Bots: Yikes!
 
-[As they're about to run, the barrel strikes them all out like bowling pins]
+%As they're about to run, the barrel strikes them all out like bowling pins.
 
 GalaxyShocked: *GLUB GLUBBBBBBB...* [falls out of the ship]
 
@@ -277,13 +283,13 @@ MagmaAngry: Yeah! Let's make sure they don't come back!! [shoots several wave of
 
 Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! [sends swarm of bees towards the police cars as well]
 
-[Several police cars explodes from the magma attack while the rest gets harassed by swarm of bees. The police force eventually loses momentum with the ship and eventually retreats.]
+%Several police cars explodes from the magma attack while the rest gets harassed by swarm of bees. The police force eventually loses momentum with the ship and eventually retreats.
 
 PlugHappy: [looking at the road with the telescope] Looks like they're all backing off now! We did it!!!!
 
 MagmaHappy: Great job, ny crew! I'm proud of ye.
 
-[the ship eventually makes its way out of the city and into the fields]
+%The ship eventually makes its way out of the city and into the fields.
 
 Hornet: Now it's boring again! FUCK!
 
