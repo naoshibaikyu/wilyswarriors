@@ -8,7 +8,6 @@
 
 EpStart
 
-
 ## PROLOGUE <a id="prologue"></a>
 
 
@@ -63,8 +62,8 @@ Magma: LET'S SET SAIL
 %**Ship:** Sails across the land, leaving a destructive trail.
 
 
-<a id="act-1"></a>
-## ACT I
+
+## ACT I <a id="act-1"></a>
 
 
 Magma: AHOY I SHALL ASSIGN YOU ALL TO EACH CREW JOB. I am the leader and I control the ship! Arr
@@ -124,8 +123,8 @@ GalaxyScared: glug
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
-<a id="act-2"></a>
-## ACT II
+
+## ACT II <a id="act-2"></a>
 
 
 EpFin
