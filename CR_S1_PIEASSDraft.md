@@ -5,9 +5,7 @@
 </center>
 
 <div class="btn-group">
-  <button>Apple</button>
-  <button>Samsung</button>
-  <button>Sony</button>
+  <button><a href="#prologue">Prologue</a></button>
 </div>
 
 
