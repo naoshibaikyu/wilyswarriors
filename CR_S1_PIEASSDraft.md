@@ -16,8 +16,9 @@
 
 EpStart
 
+- - -
 ## <a id="prologue"></a> PROLOGUE
-
+- - -
 
 @LOCATION: Team Base
 
@@ -70,8 +71,9 @@ Magma: LET'S SET SAIL
 %**Ship:** Sails across the land, leaving a destructive trail.
 
 
-
+- - -
 ## <a id="act-1"></a> ACT I 
+- - -
 
 
 Magma: AHOY I SHALL ASSIGN YOU ALL TO EACH CREW JOB. I am the leader and I control the ship! Arr
@@ -131,13 +133,19 @@ GalaxyScared: glug
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
-
+- - -
 ## <a id="act-2"></a> ACT II
+- - -
 
 
+- - -
 ## <a id="act-3"></a> ACT III
+- - -
 
+
+- - -
 ## <a id="epilogue"></a> EPILOGUE
+- - -
 
 EpFin
 
