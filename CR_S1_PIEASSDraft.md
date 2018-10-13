@@ -97,7 +97,7 @@ Pirate: [clutches map] Arrr.. They must've known that we're after their treasure
 
 %Meanwhile again part 2
 
-%**Ship: **Enters the city of Robotropolis, causes havoc by running over cars in a parking lot.
+%**Ship:** Enters the city of Robotropolis, causes havoc by running over cars in a parking lot.
 
 MagmaAnnoyed: Ehh.. Stupid boats. Move out of the way!
 
@@ -122,7 +122,7 @@ GalaxyScared: glug
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
-{#ACT2} 
+[create an anchor](#anchors-in-markdown)
 ## ACT II
 
 
