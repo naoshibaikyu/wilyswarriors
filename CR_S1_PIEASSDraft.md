@@ -1,3 +1,4 @@
+<a id="top"></a>
 <center>
 <h4>Season 1 Episode ?</h4>
 <h2>PIEASS</h2>
@@ -19,6 +20,7 @@ EpStart
 
 ## <a id="prologue"></a> PROLOGUE
 - - -
+###### [Back to top](#top)
 
 @LOCATION: Team Base
 
@@ -74,7 +76,7 @@ Magma: LET'S SET SAIL
 
 ## <a id="act-1"></a> ACT I 
 - - -
-
+###### [Back to top](#top)
 
 Magma: AHOY I SHALL ASSIGN YOU ALL TO EACH CREW JOB. I am the leader and I control the ship! Arr
 
@@ -136,16 +138,18 @@ MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 ## <a id="act-2"></a> ACT II
 - - -
-
+###### [Back to top](#top)
 
 
 ## <a id="act-3"></a> ACT III
 - - -
-
+###### [Back to top](#top)
 
 
 ## <a id="epilogue"></a> EPILOGUE
 - - -
+###### [Back to top](#top)
+
 
 EpFin
 
