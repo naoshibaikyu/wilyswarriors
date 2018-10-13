@@ -92,9 +92,7 @@ MagmaAngry: fuck you leave
 
 Galaxy: now im forced to clean the poop deck.. hehe poop
 
-HornetGlare: shut up [kicks him into a rum filled barrel]
-
-GalaxyScared: GLUG
+HornetSad: sigh
 
 %Meanwhile
 
@@ -128,9 +126,7 @@ Hornet: GO MY BEES
 
 More Robot Cops: [stung] AUGH
 
-GalaxyScared: glug
-
-%The Ship exits through the city and onto the shore... and finally the Ship is sailing onto the ocean!
+%The robot cops flee in defeat and the Ship exits through the city and onto the shore... and finally the Ship is sailing onto the ocean!
 
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
@@ -139,6 +135,26 @@ MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 ## <a id="act-2"></a> ACT II
 - - -
 ###### [Back to top](#top)
+
+%**TV:** A huge pirate ship has ravaged the city. Also this is the photo of the culprits of the attack.
+
+Light: Oh no
+
+Tornado: Will investigate.
+
+%Meanwhile
+
+HornetAnnoyed: [complains]
+
+GalaxyAnnoyed: [counter complains]
+
+HornetGlare: shut up [kicks him into a rum filled barrel]
+
+GalaxyScared: GLUG
+
+HornetSad: Seriously though, I thought Pirate Adventures would be fun and exciting.
+
+
 
 
 ## <a id="act-3"></a> ACT III

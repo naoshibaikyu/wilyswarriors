@@ -58,6 +58,7 @@ function insertMugshots()
 		splash:"Splash",
 		//Supporting Characters
 		narrator:"Narrator",
+		drlight:"Light",
 		//Generic NPCs
 		//Christmas Characters
 		ghostpast:"GhostPast",
