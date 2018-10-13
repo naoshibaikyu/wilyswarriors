@@ -8,6 +8,7 @@ EpStart
 
 ## PROLOGUE
 
+
 @LOCATION: Team Base
 
 HornetGlare: Nothing good on TV... [Flipping Channels]
@@ -58,7 +59,10 @@ Magma: LET'S SET SAIL
 
 %**Ship:** Sails across the land, leaving a destructive trail.
 
+
+
 ## ACT I
+
 
 Magma: AHOY I SHALL ASSIGN YOU ALL TO EACH CREW JOB. I am the leader and I control the ship! Arr
 
@@ -115,6 +119,8 @@ GalaxyScared: glug
 %The Ship exits through the city and onto the shore... and finally the Ship is sailing onto the ocean!
 
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
+
+
 
 
 ## ACT II
