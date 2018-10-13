@@ -150,6 +150,31 @@ MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 - - -
 ###### [Back to top](#top)
 
+<html>
+<head>
+<script>
+function show(shown, hidden) {
+  document.getElementById(shown).style.display='block';
+  document.getElementById(hidden).style.display='none';
+  return false;
+}
+</script>
+</head>
+<body>
+
+  <div id="Page1">
+    Content of page 1
+    <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
+  </div>
+
+  <div id="Page2" style="display:none">
+    Content of page 2
+    <a href="#" onclick="return show('Page1','Page2');">Show page 1</a>
+  </div>
+
+</body>
+</html>
+
 
 EpFin
 
