@@ -2,7 +2,12 @@
 <h4>Season 1 Episode ?</h4>
 <h2>PIEASS</h2>
 <h6>Written by Psycho The Mantis</h6>
+<p>
+<p>
+<button name="button">Click me</button>
 </center>
+
+
 
 EpStart
 
@@ -122,7 +127,7 @@ GalaxyScared: glug
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
-[create an anchor](#anchors-in-markdown)
+%[Act 2](#Act2)
 ## ACT II
 
 
