@@ -6,6 +6,7 @@
 
 EpStart
 
+{#PROLOGUE}
 ## PROLOGUE
 
 
@@ -60,7 +61,7 @@ Magma: LET'S SET SAIL
 %**Ship:** Sails across the land, leaving a destructive trail.
 
 
-
+{#ACT1}
 ## ACT I
 
 
@@ -121,8 +122,7 @@ GalaxyScared: glug
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 
 
-
-
+{#ACT2} 
 ## ACT II
 
 
