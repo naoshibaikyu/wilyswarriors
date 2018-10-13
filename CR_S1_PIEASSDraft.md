@@ -24,7 +24,7 @@ Fake: But Ninjas are-
 
 HornetAngry: NO!!! PIRATES ARE BETTER
 
-FakeSnickers: What I sell you on a Wii U Classic.
+FakeSnicker: What I sell you on a Wii U Classic.
 
 HornetGlare: No.
 
