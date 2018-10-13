@@ -165,6 +165,8 @@ function show(shown, hidden) {
   <div id="Page1">
     Content of page 1
     <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
+	dfgdsgslsgdkls
+	sdgsdhsd
   </div>
 
   <div id="Page2" style="display:none">
