@@ -5,11 +5,13 @@
 </center>
 
 <div class="btn-group">
+<center>
 <button><a href="#prologue">Prologue</a></button>
 <button><a href="#act-1">Act 1</a></button>
 <button><a href="#act-2">Act 2</a></button>
 <button><a href="#act-3">Act 3</a></button>
 <button><a href="#epilogue">Epilogue</a></button>
+</center>
 </div>
 
 
