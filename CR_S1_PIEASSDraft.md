@@ -150,30 +150,6 @@ MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 - - -
 ###### [Back to top](#top)
 
-<ul>
-    <li>Click <a href="#one">here</a> for page 1</li>
-    <li>Click <a href="#two">here</a> for page 2</li>
-</ul>
-
-<div class="page" id="one">
-    Content of page 1 goes here.
-	hehe
-	HEHEHEHEHE
-
-    <ul>
-        <li><a href="#">Back</a></li>
-        <li><a href="#two">Page 2</a></li>
-    </ul>
-</div>
-
-<div class="page" id="two">
-    Content of page 2 goes here.
-
-    <ul style="margin-bottom: 100vh;">
-        <li><a href="#">Back</a></li>
-        <li><a href="#one">Page 1</a></li>
-    </ul>
-</div>
 
 
 EpFin
