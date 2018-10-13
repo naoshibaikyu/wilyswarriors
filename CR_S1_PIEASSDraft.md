@@ -127,30 +127,47 @@ MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
 %[Act 2](#Act2)
 ## ACT II
 
+dfg
+hd
+fd
+fddfd
 
-<h4 id="login-optional-fields">
-Optional Fields
-</h4>
+dfghfd
+hdf
+dfh
+dfgdf
+dfhdfdf
+dh
+dfgdfh
+dfhdfh
+dfh
 
 
+##Title
+
+###Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+###Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 
 dfg
 hd
 fd
 fddfd
-dfg
-hd
-fd
-fddfd
 
-
-
-
-
-[see above](#login-optional-fields)
-
-
+dfghfd
+hdf
+dfh
+dfgdf
+dfhdfdf
+dh
+dfgdfh
+dfhdfh
+dfh
 dfg
 hd
 fd
