@@ -33,9 +33,9 @@ Fake: But Ninjas are-
 
 HornetAngry: NO!!! PIRATES ARE BETTER
 
-FakeSnicker: What I sell you on a Wii U Classic.
+FakeSnicker: new subject: what if I sell you on a Wii U Classic.
 
-HornetGlare: No.
+HornetGlare: no
 
 MagmaGiddy: Arr I got us a Pirate Ship! Bought it on an ebay action!
 
