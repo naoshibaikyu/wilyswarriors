@@ -152,10 +152,59 @@ HornetGlare: shut up [kicks him into a rum filled barrel]
 
 GalaxyScared: GLUG
 
-HornetSad: Seriously though, I thought Pirate Adventures would be fun and exciting.
+Pirate: WE HAVE COME TO TAKE OVER
 
+PlugScared: HOLY FUCKLES ITS KNUCKLES
 
+PirateAngry: WE SHALL RECLAIM OUR SHIP
 
+Hornet: no
+
+PirateAngry: yes
+
+Hornet: THATS IT! BEES
+
+%Hornet Man sends his bees after Pirate Man only for them to deflect off.
+
+Hornet: oh
+
+Pirate: REMOTE MINE! [shoots but Hornet dodges and it goes towards Magma Man]
+
+MagmaAnnoyed: [takes a hit and misfires his Magma Bazooka at Hornet Man]
+
+HornetDamaged: AUGGHHHHHHHHHHHHHHH
+
+PlugScared: [waves white flag]
+
+GalaxyShocked: [same]
+
+PirateCrew ties them up and throws them into a dim room.
+
+Pirate: This is the part where I announce my evil plans and also inform you that you'll be fed to the Kraken when we reach our secret island. YARRRRRR
+
+%**SFX:** Door Slam
+
+Hornet: I'm gonna send my lil bees to swap Pirate Man's map with our fake map. Also get a knife to free me.
+
+Bee: ok
+
+Bee: got it
+
+Hornet: Thank u [gets freed with the knife cutting the ropes]
+
+MagmaAnnoyed: 
+
+Pirate: ESCAPED HUH, YE SHALL WALK THE PLANK
+
+HornetGlare: fuck
+
+Hornet: Wait, I can fly. SEE YA SUCKERS [gets eaten by a giant fish]
+
+Pirate: oh
+
+MagmaShocked: OH NO!
+
+GalaxyHappy: yay
 
 ## <a id="act-3"></a> ACT III
 - - -
