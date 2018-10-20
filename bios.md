@@ -49,6 +49,9 @@ body {
 #MMFCanvas {
 	-webkit-box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25); 
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
+	position: absolute; 
+	right: 0;
+
 }
 
 h3{ position:relative; }
@@ -99,13 +102,3 @@ h3 a{ position:absolute; top:-200px;}
 
 
 
-<ul>
-<li><a href="#one">one</a></li>
-<li><a href="#two">two</a></li>
-</ul>
-
-<h3><a id="one"></a>one</h3>
-<p>text here</p>
-
-<h3><a id="two"></a>two</h3>
-<p>text here</p>
