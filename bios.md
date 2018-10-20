@@ -94,34 +94,25 @@ body {
    </body>
 </html>
 
-<ul>
-    <li>Click <a href="#one">here</a> for page 1</li>
-    <li>Click <a href="#two">here</a> for page 2</li>
-</ul>
+<head>
+<script>
+function show(shown, hidden) {
+  document.getElementById(shown).style.display='block';
+  document.getElementById(hidden).style.display='none';
+  return false;
+}
+</script>
+</head>
+<body>
 
-<div class="page" id="one">
-    Content of page 1 goes here.
+  <div id="Page1">
+    Content of page 1
+    <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
+  </div>
 
-    <ul>
-        <li><a href="#">Back</a></li>
-        <li><a href="#two">Page 2</a></li>
-    </ul>
-</div>
+  <div id="Page2" style="display:none">
+    Content of page 2
+    <a href="#" onclick="return show('Page1','Page2');">Show page 1</a>
+  </div>
 
-<div class="page" id="two">
-    Content of page 2 goes here.
-
-    <ul style="margin-bottom: 100vh;">
-        <li><a href="#">Back</a></li>
-        <li><a href="#one">Page 1</a></li>
-    </ul>
-</div>
-
-
-<div class="page" id="bios">
-    Content of page 1 goes here.
-</div>
-
-<div class="page" id="concrete">
-    Content of page 2 goes here.
-</div>
+</body>
