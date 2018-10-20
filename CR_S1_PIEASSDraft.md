@@ -50,5 +50,4 @@ Avi: Quick, turn the page again!
 
 <div id="targetDiv"></div>
 
-<script src="assets/js/EpFormatter.js"></script>
 <script src="assets/js/script-pageturn.js"></script>
