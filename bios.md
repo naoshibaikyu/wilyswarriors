@@ -95,11 +95,12 @@ body {
 </html>
 
 
-<div class="box-base">
-    <div id="page-1" class="page">
-         <div id="editable-1" class="document" contenteditable="true"></div>
-    </div>
-    <div id="page-2" class="page">
-         <div id="editable-2" class="document" contenteditable="true"></div>
-    </div>
+
+
+<div class="page" id="bios">
+    Content of page 1 goes here.
+</div>
+
+<div class="page" id="concrete">
+    Content of page 2 goes here.
 </div>
