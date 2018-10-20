@@ -42,8 +42,8 @@ body {
 }
 
 #canvas {
-	width:256px; 
-	height:224px;
+	width:512px; 
+	height:448px;
 }
 
 #MMFCanvas {
@@ -51,8 +51,6 @@ body {
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 </style>
-
-  <title>Clickteam Fusion Developer 2.5 HTML5 Runtime</title>
 
 	<script>
 	   	// Detection of old browsers that do not support the canvas element
@@ -66,23 +64,7 @@ body {
   	<!-- EXTRASOURCES -->
 	<!-- Loads the Javascript code...-->
   	<script src="CRBIOS/src/Runtime.js"></script>
-  	
-  <script>
 
-	// Detects if the html file is ran locally.
-	// You can remove this code for the final version
-	if (window.location.protocol == "file:")
-	{
-		document.write('<div id="bloctxt">');
-		document.write('<h1>The application cannot be run...</h1>');
-		document.write('<p>HTML browsers do not allow you to launch data files directly from the file system.<br>');
-		document.write('A drag & drop of the html file on a web-browser window will not work, on any machine.<br>');
-		document.write('Please use the Build & Run option (it opens a local web server) to run your application,<br>') 
-		document.write('or upload your application folder to a remote web-server, and start it from there...</p>');
-		document.write('</div>');
-		throw new error("Cannot run application");
-	}
-  </script>
 </head>
 
 <!-- This is where we create the Canvas element that will contain the application...-->
@@ -90,7 +72,7 @@ body {
     <div id="wrapper">
 	    <div id="border">
 		    <div id="canvas">
-			    <canvas id="MMFCanvas" width="256" height="224">
+			    <canvas id="MMFCanvas" width="512" height="448">
 				    <p>Your browser does not support Canvas.</p>
 			    </canvas>   
 		    </div>
