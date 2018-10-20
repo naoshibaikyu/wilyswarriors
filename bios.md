@@ -105,7 +105,7 @@ function show(shown, hidden) {
 </head>
 <body>
 
-  <div id="Page1">
+  <div id="Page1" style={{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}>
     EpStart
 
 
@@ -139,10 +139,11 @@ Hornet: Can I be a pirate pls
 
 
 EpFin
-
+    <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
+	
 <script src="assets/js/EpFormatter.js"></script>
 
-    <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
+
   </div>
 
   <div id="Page2" style="display:none">
