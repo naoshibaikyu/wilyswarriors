@@ -33,10 +33,10 @@ body {
 	background-color: #000000;
 	border: 1px solid #404040;
 	-webkit-border-radius: 1px;
-	-moz-border-radius: 2px;
-	border-radius: 2px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
 	margin: 0 auto;
-	padding: 5px;
+	padding: 2px;
 	width:256px;
 	height:224px;
 }
