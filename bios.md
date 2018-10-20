@@ -105,12 +105,12 @@ function show(shown, hidden) {
 </head>
 <body>
 
-  <div id="Page1">
+  <div id="concrete">
     Content of page 1
     <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
   </div>
 
-  <div id="Page2" style="display:none">
+  <div id="bios" style="display:none">
     Content of page 2
     <a href="#" onclick="return show('Page1','Page2');">Show page 1</a>
   </div>
