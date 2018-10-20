@@ -94,27 +94,53 @@ body {
    </body>
 </html>
 
-<head>
-<script>
-function show(shown, hidden) {
-  document.getElementById(shown).style.display='block';
-  document.getElementById(hidden).style.display='none';
-  return false;
-}
-</script>
-</head>
-<body>
+<html>
+    <head>
+        <style type='text/css'>
+            span {
+                text-decoration:underline;
+                color:blue;
+                cursor:pointer;
+            }
+        </style>
+        <script>
+            // show the given page, hide the rest
+            function show(elementID) {
+                // try to find the requested page and alert if it's not found
+                var ele = document.getElementById(elementID);
+                if (!ele) {
+                    alert("no such element");
+                    return;
+                }
 
-  <div id="Page1">
-    <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
+                // get all pages, loop through them and hide them
+                var pages = document.getElementsByClassName('page');
+                for(var i = 0; i < pages.length; i++) {
+                    pages[i].style.display = 'none';
+                }
 
+                // then show the requested page
+                ele.style.display = 'block';
+            }
+        </script>
+    </head>
+    <body>
+      <p>
+        Show page 
+            <span onclick="show('Page1');">1</span>, 
+            <span onclick="show('Page2');">2</span>, 
+            <span onclick="show('Page3');">3</span>.
+        </p>
 
+    <div id="Page1" class="page" style="">
+        Content of page 1
+    </div>
+    <div id="Page2" class="page" style="display:none">
+        Content of page 2
+    </div>
+    <div id="Page3" class="page" style="display:none">
+        Content of page 3
+    </div>
 
-  </div>
-
-  <div id="Page2" style="display:none">
-    Content of page 2
-    <a href="#" onclick="return show('Page1','Page2');">Show page 1</a>
-  </div>
-
-</body>
+    </body>
+</html>
