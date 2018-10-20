@@ -26,7 +26,7 @@ body {
 	margin-right: -260px
 }
 #wrapper {
-	padding: 10px;
+	padding: 2px;
 	margin: 0 auto;
 }
 #border {
