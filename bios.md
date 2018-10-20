@@ -105,36 +105,9 @@ function show(shown, hidden) {
 </head>
 <body>
 
-  <div id="Page1" style={{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}>
-    EpStart
-
-HornetGlare: Nothing good on TV... [Flipping Channels]
-
-Hornet: Bleh
-
-HornetGlare: Meh
-
-%**TV:** "Super Salmon Ninja Squad"!!
-
-HornetAnnoyed: UGH I HATE NINJAS
-
-Fake: But Ninjas are-
-
-HornetAngry: NO!!! PIRATES ARE BETTER
-
-FakeSnicker: new subject: what if I sell you on a Wii U Classic.
-
-HornetGlare: no
-
-MagmaGiddy: Arr I got us a Pirate Ship! Bought it on an ebay action!
-
-Hornet: Can I be a pirate pls
-
-
-EpFin
+  <div id="Page1">
     <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
-	
-<script src="assets/js/EpFormatter.js"></script>
+
 
 
   </div>
