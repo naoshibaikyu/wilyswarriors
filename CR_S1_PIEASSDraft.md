@@ -12,9 +12,9 @@
 <a href="#act-3" class="EpButtons">Act 3</a>
 <a href="#epilogue" class="EpButtons">Epilogue</a>
 </center>
+<p style="text-align: center"><button onclick="pageTurn('act1')">Page 1</button> - <button onclick="pageTurn('act2')">Page 2</button></p>
 
-
-
+<div id="act1" style="display: none">
 EpStart
 
 
@@ -129,7 +129,7 @@ More Robot Cops: [stung] AUGH
 %The robot cops flee in defeat and the Ship exits through the city and onto the shore... and finally the Ship is sailing onto the ocean!
 
 MagmaHappy: Ahh, the sailing's smooth suddenly! Now that's more like it!
-
+</div>
 
 
 ## <a id="act-2"></a> ACT II
@@ -220,3 +220,4 @@ GalaxyHappy: yay
 EpFin
 
 <script src="assets/js/EpFormatter.js"></script>
+<script src="assets/js/script-pageturn.js"></script>
