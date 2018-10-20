@@ -42,8 +42,8 @@ body {
 }
 
 #canvas {
-	width:256px; 
-	height:224px;
+	width:512px; 
+	height:448px;
 }
 
 #MMFCanvas {
