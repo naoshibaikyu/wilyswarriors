@@ -52,7 +52,7 @@ body {
 }
 
 h3{ position:relative; }
-h3 span{ position:absolute; top:-200px;}
+h3 a{ position:absolute; top:-200px;}
 </style>
 
 	<script>
@@ -104,8 +104,8 @@ h3 span{ position:absolute; top:-200px;}
 <li><a href="#two">two</a></li>
 </ul>
 
-<h3><span id="one"></span>one</h3>
+<h3><a id="one"></a>one</h3>
 <p>text here</p>
 
-<h3><span id="two"></span>two</h3>
+<h3><a id="two"></a>two</h3>
 <p>text here</p>
