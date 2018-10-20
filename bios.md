@@ -30,8 +30,8 @@ body {
 	margin: 0 auto;
 }
 #border {
-	background-color: #303030;
-	border: 1px solid #A0A0A0;
+	background-color: #101010;
+	border: 1px solid #606060;
 	-webkit-border-radius: 1px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
