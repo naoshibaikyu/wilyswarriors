@@ -15,13 +15,13 @@ body {
 
 }
 #bloctxt {
-	border-left-width: 5px;
-	border-left-style: solid;
-	border-left-color: #962300;
-	padding-left: 10px;
+	border-right-width: 5px;
+	border-right-style: solid;
+	border-right-color: #962300;
+	padding-right: 10px;
 	position: absolute;
 	top:5%;
-	left: 75%;
+	right: 75%;
 	width: 600px;
 	margin-right: -260px
 }
@@ -30,11 +30,11 @@ body {
 	margin: 0 auto;
 }
 #border {
-	background-color: #99C;
-	border: 1px solid #B90000;
-	-webkit-border-radius: 7px;
-	-moz-border-radius: 7px;
-	border-radius: 7px;
+	background-color: #000000;
+	border: 1px solid #404040;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 	margin: 0 auto;
 	padding: 5px;
 	width:256px;
