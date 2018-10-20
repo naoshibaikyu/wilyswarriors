@@ -75,7 +75,7 @@ h3 a{ position:absolute; top:-200px;}
     <div id="wrapper">
 	    <div id="border">
 		    <div id="canvas">
-			    <canvas id="MMFCanvas" width="256" height="224">
+			    <canvas id="MMFCanvas" width="512" height="448">
 				    <p>Your browser does not support Canvas.</p>
 			    </canvas>   
 		    </div>
