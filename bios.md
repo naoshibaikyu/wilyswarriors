@@ -93,3 +93,16 @@ body {
     </script>
    </body>
 </html>
+
+
+<nav>
+  <a href="#one">1</a>
+  <a href="#two">2</a>
+  <a href="#three">3</a>
+</nav>
+
+<section>
+  <div id="one"><h2>One</h2>Pellentesque habitant morbi ...</div>
+  <div id="two"><h2>Two</h2>Pellentesque habitant morbi ...</div>
+  <div id="three"><h2>Three</h2>Pellentesque habitant morbi ...</div>
+</section>​
