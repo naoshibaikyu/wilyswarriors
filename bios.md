@@ -21,9 +21,9 @@ body {
 	padding-left: 10px;
 	position: absolute;
 	top:5%;
-	left: 50%;
+	left: 75%;
 	width: 600px;
-	margin-left: -260px
+	margin-right: -260px
 }
 #wrapper {
 	padding: 10px;
@@ -49,9 +49,6 @@ body {
 #MMFCanvas {
 	-webkit-box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25); 
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
-	position: absolute; 
-	right: 0;
-
 }
 
 h3{ position:relative; }
