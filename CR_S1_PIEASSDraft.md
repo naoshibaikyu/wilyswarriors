@@ -47,6 +47,12 @@ Avi: Quick, turn the page again!
 
 
 
+<script src="assets/js/script-pageturn.js"></script>
+
+
+
+
+
 <a id="top"></a>
 <center>
 <h4>Season 1 Episode ?</h4>
@@ -267,5 +273,3 @@ GalaxyHappy: yay
 
 
 EpFin
-
-<script src="assets/js/EpFormatter.js"></script>
