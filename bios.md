@@ -108,13 +108,6 @@ function show(shown, hidden) {
   <div id="Page1" style={{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}>
     EpStart
 
-
-## <a id="prologue"></a> PROLOGUE
-- - -
-###### [Back to top](#top)
-
-@LOCATION: Team Base
-
 HornetGlare: Nothing good on TV... [Flipping Channels]
 
 Hornet: Bleh
