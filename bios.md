@@ -11,7 +11,6 @@ body {
 	height: 100%;
 	min-height: 100%;
 	margin: 0;
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-8 */
 }
 
 }
@@ -66,7 +65,7 @@ body {
 	
   	<!-- EXTRASOURCES -->
 	<!-- Loads the Javascript code...-->
-  	<script src="src/Runtime.js"></script>
+  	<script src="CRBIOS/src/Runtime.js"></script>
   	
   <script>
 
