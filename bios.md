@@ -23,7 +23,7 @@ body {
 	top:5%;
 	right: 75%;
 	width: 600px;
-	margin-right: -260px
+	margin-right: 260px
 }
 #wrapper {
 	padding: 2px;
