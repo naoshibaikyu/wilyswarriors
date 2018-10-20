@@ -42,8 +42,8 @@ body {
 }
 
 #canvas {
-	width:512px; 
-	height:448px;
+	width:256px; 
+	height:224px;
 }
 
 #MMFCanvas {
@@ -72,7 +72,7 @@ body {
     <div id="wrapper">
 	    <div id="border">
 		    <div id="canvas">
-			    <canvas id="MMFCanvas" width="512" height="448">
+			    <canvas id="MMFCanvas" width="256" height="224">
 				    <p>Your browser does not support Canvas.</p>
 			    </canvas>   
 		    </div>
