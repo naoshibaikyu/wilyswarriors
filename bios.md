@@ -50,6 +50,9 @@ body {
 	-webkit-box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25); 
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+h3{ position:relative; }
+h3 span{ position:absolute; top:-200px;}
 </style>
 
 	<script>
@@ -94,53 +97,15 @@ body {
    </body>
 </html>
 
-<html>
-    <head>
-        <style type='text/css'>
-            span {
-                text-decoration:underline;
-                color:blue;
-                cursor:pointer;
-            }
-        </style>
-        <script>
-            // show the given page, hide the rest
-            function show(elementID) {
-                // try to find the requested page and alert if it's not found
-                var ele = document.getElementById(elementID);
-                if (!ele) {
-                    alert("no such element");
-                    return;
-                }
 
-                // get all pages, loop through them and hide them
-                var pages = document.getElementsByClassName('page');
-                for(var i = 0; i < pages.length; i++) {
-                    pages[i].style.display = 'none';
-                }
 
-                // then show the requested page
-                ele.style.display = 'block';
-            }
-        </script>
-    </head>
-    <body>
-      <p>
-        Show page 
-            <span onclick="show('Page1');">1</span>, 
-            <span onclick="show('Page2');">2</span>, 
-            <span onclick="show('Page3');">3</span>.
-        </p>
+<ul>
+<li><a href="#one">one</a></li>
+<li><a href="#two">two</a></li>
+</ul>
 
-    <div id="Page1" class="page" style="">
-        Content of page 1
-    </div>
-    <div id="concrete" class="page" style="display:none">
-        Content of page 2
-    </div>
-    <div id="hornet" class="page" style="display:none">
-        Content of page 3
-    </div>
+<h3><span id="one"></span>one</h3>
+<p>text here</p>
 
-    </body>
-</html>
+<h3><span id="two"></span>two</h3>
+<p>text here</p>
