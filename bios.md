@@ -135,10 +135,10 @@ body {
     <div id="Page1" class="page" style="">
         Content of page 1
     </div>
-    <div id="Page2" class="page" style="display:none">
+    <div id="concrete" class="page" style="display:none">
         Content of page 2
     </div>
-    <div id="Page3" class="page" style="display:none">
+    <div id="hornet" class="page" style="display:none">
         Content of page 3
     </div>
 
