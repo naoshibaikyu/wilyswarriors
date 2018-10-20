@@ -25,6 +25,52 @@ body {
 	background: linear-gradient(to bottom,  rgba(238,238,238,1) 0%,rgba(204,204,204,1) 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-8 */
 }
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #962300;
+	font-size: 25px;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777;
+	font-size: 12px;
+}
+#bloctxt {
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #962300;
+	padding-left: 10px;
+	position: absolute;
+	top:5%;
+	left: 50%;
+	width: 600px;
+	margin-left: -260px
+}
+#wrapper {
+	padding: 10px;
+	margin: 0 auto;
+}
+#border {
+	background-color: #99C;
+	border: 1px solid #B90000;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	margin: 0 auto;
+	padding: 5px;
+	width:256px;
+	height:224px;
+}
+
+#canvas {
+	width:256px; 
+	height:224px;
+}
+
+#MMFCanvas {
+	-webkit-box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
 </style>
 
   <title>Clickteam Fusion Developer 2.5 HTML5 Runtime</title>
@@ -65,7 +111,7 @@ body {
     <div id="wrapper">
 	    <div id="border">
 		    <div id="canvas">
-			    <canvas id="MMFCanvas" width="512" height="448">
+			    <canvas id="MMFCanvas" width="256" height="224">
 				    <p>Your browser does not support Canvas.</p>
 			    </canvas>   
 		    </div>
