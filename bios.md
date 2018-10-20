@@ -105,12 +105,47 @@ function show(shown, hidden) {
 </head>
 <body>
 
-  <div id="concrete">
-    Content of page 1
+  <div id="Page1">
+    EpStart
+
+
+## <a id="prologue"></a> PROLOGUE
+- - -
+###### [Back to top](#top)
+
+@LOCATION: Team Base
+
+HornetGlare: Nothing good on TV... [Flipping Channels]
+
+Hornet: Bleh
+
+HornetGlare: Meh
+
+%**TV:** "Super Salmon Ninja Squad"!!
+
+HornetAnnoyed: UGH I HATE NINJAS
+
+Fake: But Ninjas are-
+
+HornetAngry: NO!!! PIRATES ARE BETTER
+
+FakeSnicker: new subject: what if I sell you on a Wii U Classic.
+
+HornetGlare: no
+
+MagmaGiddy: Arr I got us a Pirate Ship! Bought it on an ebay action!
+
+Hornet: Can I be a pirate pls
+
+
+EpFin
+
+<script src="assets/js/EpFormatter.js"></script>
+
     <a href="#" onclick="return show('Page2','Page1');">Show page 2</a>
   </div>
 
-  <div id="bios" style="display:none">
+  <div id="Page2" style="display:none">
     Content of page 2
     <a href="#" onclick="return show('Page1','Page2');">Show page 1</a>
   </div>
