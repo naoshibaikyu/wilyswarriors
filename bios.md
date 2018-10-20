@@ -95,14 +95,11 @@ body {
 </html>
 
 
-<nav>
-  <a href="#one">1</a>
-  <a href="#two">2</a>
-  <a href="#three">3</a>
-</nav>
-
-<section>
-  <div id="one"><h2>One</h2>Pellentesque habitant morbi ...</div>
-  <div id="two"><h2>Two</h2>Pellentesque habitant morbi ...</div>
-  <div id="three"><h2>Three</h2>Pellentesque habitant morbi ...</div>
-</section>​
+<div class="box-base">
+    <div id="page-1" class="page">
+         <div id="editable-1" class="document" contenteditable="true"></div>
+    </div>
+    <div id="page-2" class="page">
+         <div id="editable-2" class="document" contenteditable="true"></div>
+    </div>
+</div>
