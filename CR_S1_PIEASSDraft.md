@@ -1,17 +1,11 @@
-<a id="top"></a>
-<center>
-<h4>Season 1 Episode ?</h4>
-<h2>PIEASS</h2>
-<h6>Written by Psycho The Mantis</h6>
-</center>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+</head>
 
-<center>
-<a href="#prologue" class="EpButtons">Prologue</a>
-<a href="#act-1" class="EpButtons">Act 1</a>
-<a href="#act-2" class="EpButtons">Act 2</a>
-<a href="#act-3" class="EpButtons">Act 3</a>
-<a href="#epilogue" class="EpButtons">Epilogue</a>
-</center>
+<body>
+
 <p style="text-align: center"><button onclick="pageTurn('act1')">Page 1</button> - <button onclick="pageTurn('act2')">Page 2</button></p>
 
 <div id="act1" style="display: none">
@@ -49,5 +43,8 @@ Avi: Quick, turn the page again!
 </div>
 
 <div id="targetDiv"></div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.6.3/showdown.min.js"></script>
 
 <script src="assets/js/script-pageturn.js"></script>
