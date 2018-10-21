@@ -174,6 +174,11 @@ body {
 	<div markdown="1">
     #Heading 1
 </div>
+
+
+<div>
+{{ "## Yes, this renders as markdown" | markdownify }}
+</div>
 	
 	
 
