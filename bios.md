@@ -96,8 +96,10 @@ body {
    </body>
 </html>
 
+<script src="assets/js/scrollpage.js"></script>
+
 <body>
-<span class="col-md-3">
+<div class="col-md-3">
 	<p></p><p></p>
 	
 	
@@ -170,5 +172,5 @@ body {
     </div>
 	
 
-</span>
+</div>
 </body>
