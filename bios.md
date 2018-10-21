@@ -54,7 +54,10 @@ body {
 
 </style>
 
-##Interactable Character Profile Selector
+<span  markdown="1" align="center">
+##Interactable Character Profile Selector	
+</span>
+
 	<script>
 	   	// Detection of old browsers that do not support the canvas element
 		// Falls back to a default page
@@ -104,16 +107,15 @@ body {
 	<p></p><p></p>
 	
 	
-	<span class="span" id="content0" markdown="1" markdown="1">
+	<span class="span" id="content0" markdown="1">
 	Click on a character portrait to view their **bio**!
-	
-	</span>
-	
+</span>
 	
 	
-    <span class="span" id="content1" markdown="1">
+	
+<span class="span" id="content1" markdown="1">
         Concrete Woman - She is a smol who is also bratty. She has a pet mettaur who resided in a husk of the Concrete Man armor.
-    </span>
+</span>
 		
 		
 		
