@@ -97,6 +97,8 @@ body {
 </html>
 
 <script src="assets/js/scrollpage.js"></script>
+<script src="assets/js/EpFormatter.js"></script>
+<script src="assets/css/style.css"></script>
 
 <body>
 <div class="col-md-3">
