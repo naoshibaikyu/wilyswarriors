@@ -99,38 +99,23 @@ body {
 <script src="assets/js/scrollpage.js"></script>
 
 <body>
-    <div class="col-md-2">
-        <ul class="nav nav-pills nav-stacked" id="menu">
-            <li><a href="javascript:show('link1')" id="link1">Felge</a>
-            </li>
-            <li><a href="javascript:show('link2')" id="link2">Gume</a>
-            </li>
-            <li><a href="javascript:show('link3')" id="link3">Branici</a>
-            </li>
-            <li><a href="javascript:show('link4')" id="link4">Farovi</a>
-            </li>
-        </ul>
-    </div>
     <div class="col-md-3">
+	
+	<div class="div" id="content0">
+		Click on a character portrait to view their bio!
+    </div>
+	
         <div class="div" id="content1">
-            <p>BBS</p>
-            <p>ENKEI</p>
-            <p>KONIG</p>
+        Concrete
         </div>
         <div class="div" id="content2">
-            <p>Michelin</p>
-            <p>Hankook</p>
-            <p>Sava</p>
+        Jewel
         </div>
         <div class="div" id="content3">
-            <p>AMG</p>
-            <p>Brabus</p>
-            <p>Original</p>
+        Hornet  
         </div>
         <div class="div" id="content4">
-            <p>Angel Eyes</p>
-            <p>Devil Eyes</p>
-            <p>Original</p>
+        Tornado
         </div>
     </div>
 </body>
