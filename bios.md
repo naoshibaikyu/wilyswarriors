@@ -101,68 +101,68 @@ body {
 <body>
 <span class="col-md-3">
 	<p></p><p></p>
-	<span class="span" id="content0">
+	<div class="div" id="content0">
 		Click on a character portrait to view their bio!
-    </span>
+    </div>
 	
 	
 	
-    <span class="span" id="content1">
+    <div class="div" id="content1">
         Concrete Woman - She is a smol who is also bratty. She has a pet mettaur who resided in a husk of the Concrete Man armor.
-    </span>
+    </div>
 		
 		
 		
-    <span class="span" id="content2">
+    <div class="div" id="content2">
         Jewel Woman - She steal things ok also probably voice of reason. Maybe. I don't know. That's how I viewed her.
-    </span>
+    </div>
 	
 	
 	
-    <span class="span" id="content3">
+    <div class="div" id="content3">
         Hornet Man - He is FUCKING PISSED. Also he has a sister named Honey Woman.
-    </span>
+    </div>
 	
 	
 	
-    <span class="span" id="content4">
+    <div class="div" id="content4">
         Tornde. Inform inquired. Detective.
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content5">
+    <div class="div" id="content5">
         Plug Man - NAME: Delta Bravo. Mission: Wait... This is just Cranchio's mugshot invading the bio. Wtf, Cranchio?
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content6">
+    <div class="div" id="content6">
 		Galaxy Man - **Huh?**
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content7">
+    <div class="div" id="content7">
         Magma Man - ACTION JACKTION. He's no longer Sinistar. JUST AS ORIGINALLY INTENDED (NO THANKS TO SPIKE BOI!!!!!)
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content8">
+    <div class="div" id="content8">
         Splash Man - "Pirates are still better than Ninjas. Fight me" says Hornet Man right before Splash Man impales him with the trident.
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content9">
+    <div class="div" id="content9">
         Fakette - One day just shapeshifted into this Fake Man-like figure and she joined the team and pulled (mostly) harmless pranks. The end.
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content10">
+    <div class="div" id="content10">
         Dr. Light is fucking evil.
-    </span>
+    </div>
 	
 	
-    <span class="span" id="content11">
+    <div class="div" id="content11">
         Roll is probably evil too.
-    </span>
+    </div>
 	
 	
 
