@@ -1,11 +1,25 @@
-    function show(id) {
-        var number = id.replace('link', '');
-        var blocks = document.querySelectorAll("[id^=content");
-        for (var i = 0; i < blocks.length; i++) {
-            blocks[i].style.display = 'none';
-        }
-        document.querySelector('#content' + number).style.display = 'block';
+function showsub(id) {
+    var number = id.replace('sublink', '');
+    var blocks = document.querySelectorAll("[id^=subcontent");
+    for (var i = 0; i < blocks.length; i++) {
+        blocks[i].style.display = 'none';
     }
+    document.querySelector('#subcontent' + number).style.display = 'block';
+}
+
+
+function show(id) {
+    var number = id.replace('link', '');
+    var blocks = document.querySelectorAll("[id^=content");
+    var subblocks = document.querySelectorAll("[id^=subcontent");
+    for (var i = 0; i < blocks.length; i++) {
+        blocks[i].style.display = 'none';
+    }
+    for (var j = 0; j < subblocks.length; j++) {
+        subblocks[j].style.display = 'none';
+    }
+    document.querySelector('#content' + number).style.display = 'block';
+}
 
     function init() {
 
