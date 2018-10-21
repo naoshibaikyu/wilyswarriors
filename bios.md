@@ -51,35 +51,6 @@ body {
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-body {
-  padding: 0;
-  margin: 50px 0 0;
-  font-family: "Arial";
-  font-size: 1em;
-}
-
-a {
-  color: #333;
-}
-
-#fixed {
-  position: fixed;
-  height: 50px;
-  line-height: 50px;
-  background: #000;
-  top: 0;
-  left: 0;
-  right: 0;
-  color: #fff;
-  padding-left: 5px;
-}
-
-#targets div {
-  height: 100vh;
-  padding: 10px;
-  color: #333;
-}
-
 
 </style>
 
@@ -127,26 +98,39 @@ a {
 
 <script src="assets/js/scrollpage.js"></script>
 
-<div id="fixed">
-  My fixed bar
-</div>
-
-<div id="targets">
-  <div id="target-1">
-    <a href="#target-2">Jump to target 2</a>
-  </div>
-  <div id="target-2">
-    <a href="#target-3">Jump to target 3</a>
-  </div>
-  <div id="target-3">
-    <a href="#target-4">Jump to target 4</a>
-  </div>
-  <div id="target-4">
-    <a href="#target-5">Jump to target 5</a>
-  </div>
-  <div id="target-5">
-    <a href="#target-1">Jump to target 1</a>
-  </div>
-</div>
-
-
+<body>
+    <div class="col-md-2">
+        <ul class="nav nav-pills nav-stacked" id="menu">
+            <li><a href="javascript:show('link1')" id="link1">Felge</a>
+            </li>
+            <li><a href="javascript:show('link2')" id="link2">Gume</a>
+            </li>
+            <li><a href="javascript:show('link3')" id="link3">Branici</a>
+            </li>
+            <li><a href="javascript:show('link4')" id="link4">Farovi</a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <div class="div" id="content1">
+            <p>BBS</p>
+            <p>ENKEI</p>
+            <p>KONIG</p>
+        </div>
+        <div class="div" id="content2">
+            <p>Michelin</p>
+            <p>Hankook</p>
+            <p>Sava</p>
+        </div>
+        <div class="div" id="content3">
+            <p>AMG</p>
+            <p>Brabus</p>
+            <p>Original</p>
+        </div>
+        <div class="div" id="content4">
+            <p>Angel Eyes</p>
+            <p>Devil Eyes</p>
+            <p>Original</p>
+        </div>
+    </div>
+</body>
