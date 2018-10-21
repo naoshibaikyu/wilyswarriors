@@ -103,12 +103,12 @@ body {
 	<p></p><p></p>
 	
 	
-	<div class="div" id="content0">
-	{{ "
-		#Click on a character portrait to view their bio!
+	<div class="div" id="content0">{{ "
+
+
+	#Click on a character portrait to view their bio!
 		
-	"| markdownify }}	
-    </div>
+	"| markdownify }}</div>
 	
 	
 	
