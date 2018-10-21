@@ -51,8 +51,36 @@ body {
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-h3{ position:relative; }
-h3 a{ position:absolute; top:-200px;}
+body {
+  padding: 0;
+  margin: 50px 0 0;
+  font-family: "Arial";
+  font-size: 1em;
+}
+
+a {
+  color: #333;
+}
+
+#fixed {
+  position: fixed;
+  height: 50px;
+  line-height: 50px;
+  background: #000;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: #fff;
+  padding-left: 5px;
+}
+
+#targets div {
+  height: 100vh;
+  padding: 10px;
+  color: #333;
+}
+
+
 </style>
 
 	<script>
