@@ -103,9 +103,9 @@ body {
 	<p></p><p></p>
 	
 	
-	<div class="div" id="content0" markdown="1">
+	<div class="div" id="content0">
 	
-		Click on a character portrait to view their bio!
+		#Click on a character portrait to view their bio!
 		
 		
     </div>
@@ -141,7 +141,9 @@ body {
 	
 	
     <div class="div" id="content6">
+	
 		Galaxy Man - **Huh?**
+		
     </div>
 	
 	
