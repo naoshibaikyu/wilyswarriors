@@ -54,6 +54,7 @@ body {
 
 </style>
 
+##Interactable Character Profile Selector
 	<script>
 	   	// Detection of old browsers that do not support the canvas element
 		// Falls back to a default page
