@@ -103,69 +103,69 @@ body {
 	<p></p><p></p>
 	
 	
-	<span class="span" id="content0" markdown="1">
+	<span class="span" id="content0" markdown="1" markdown="1">
 	Click on a character portrait to view their **bio**!
 	
 	</span>
 	
 	
 	
-    <span class="span" id="content1">
+    <span class="span" id="content1" markdown="1">
         Concrete Woman - She is a smol who is also bratty. She has a pet mettaur who resided in a husk of the Concrete Man armor.
     </span>
 		
 		
 		
-    <span class="span" id="content2">
+    <span class="span" id="content2" markdown="1">
         Jewel Woman - She steal things ok also probably voice of reason. Maybe. I don't know. That's how I viewed her.
     </span>
 	
 	
 	
-    <span class="span" id="content3">
+    <span class="span" id="content3" markdown="1">
         Hornet Man - He is FUCKING PISSED. Also he has a sister named Honey Woman.
     </span>
 	
 	
 	
-    <span class="span" id="content4">
+    <span class="span" id="content4" markdown="1">
         Tornde. Inform inquired. Detective.
     </span>
 	
 	
-    <span class="span" id="content5">
+    <span class="span" id="content5" markdown="1">
         Plug Man - NAME: Delta Bravo. Mission: Wait... This is just Cranchio's mugshot invading the bio. Wtf, Cranchio?
     </span>
 	
 	
-    <span class="span" id="content6">
+    <span class="span" id="content6" markdown="1">
 	
 		Galaxy Man - **Huh?**
 		
     </span>
 	
 	
-    <span class="span" id="content7">
+    <span class="span" id="content7" markdown="1">
         Magma Man - ACTION JACKTION. He's no longer Sinistar. JUST AS ORIGINALLY INTENDED (NO THANKS TO SPIKE BOI!!!!!)
     </span>
 	
 	
-    <span class="span" id="content8">
+    <span class="span" id="content8" markdown="1">
         Splash Man - "Pirates are still better than Ninjas. Fight me" says Hornet Man right before Splash Man impales him with the trident.
     </span>
 	
 	
-    <span class="span" id="content9">
+    <span class="span" id="content9" markdown="1">
         Fakette - One day just shapeshifted into this Fake Man-like figure and she joined the team and pulled (mostly) harmless pranks. The end.
     </span>
 	
 	
-    <span class="span" id="content10">
+    <span class="span" id="content10" markdown="1">
         Dr. Light is fucking evil.
     </span>
 	
 	
-    <span class="span" id="content11">
+    <span class="span" id="content11" markdown="1">
         Roll is probably evil too.
     </span>
 	
