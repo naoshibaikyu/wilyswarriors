@@ -98,4 +98,27 @@ h3 a{ position:absolute; top:-200px;}
 </html>
 
 
+<div id="fixed">
+  My fixed bar
+</div>
+
+<div id="targets">
+  <div id="target-1">
+    <a href="#target-2">Jump to target 2</a>
+  </div>
+  <div id="target-2">
+    <a href="#target-3">Jump to target 3</a>
+  </div>
+  <div id="target-3">
+    <a href="#target-4">Jump to target 4</a>
+  </div>
+  <div id="target-4">
+    <a href="#target-5">Jump to target 5</a>
+  </div>
+  <div id="target-5">
+    <a href="#target-1">Jump to target 1</a>
+  </div>
+</div>
+
+
 <script src="assets/js/scrollpage.js"></script>
