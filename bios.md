@@ -104,10 +104,10 @@ body {
 	
 	
 	<div class="div" id="content0">
-	
+	{{ "
 		#Click on a character portrait to view their bio!
 		
-		
+	| markdownify }}	
     </div>
 	
 	
@@ -170,16 +170,6 @@ body {
     <div class="div" id="content11">
         Roll is probably evil too.
     </div>
-	
-	<div markdown="1">
-    #Heading 1
-</div>
-
-
-<div>
-{{ "## Yes, this renders as markdown" | markdownify }}
-</div>
-	
 	
 
 </span>
