@@ -125,6 +125,7 @@ a {
    </body>
 </html>
 
+<script src="assets/js/scrollpage.js"></script>
 
 <div id="fixed">
   My fixed bar
@@ -149,4 +150,3 @@ a {
 </div>
 
 
-<script src="assets/js/scrollpage.js"></script>
