@@ -99,9 +99,11 @@ body {
 <script src="assets/js/scrollpage.js"></script>
 
 <body>
-<span class="col-md-3">
+<span class="col-md-3" markdown="1">
 	<p></p><p></p>
-	<div class="div" id="content0" markdown="1">
+	
+	
+	<div class="div" id="content0">
 	
 		#Click on a character portrait to view their bio!
 		
