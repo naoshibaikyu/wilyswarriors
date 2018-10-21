@@ -89,7 +89,7 @@ body {
 		    // Calls the runtime
 		    // First parameter : name of the canvas element
 		    // Second parameter : path to the cch file. Images and sounds must lay beside this file
-		    new Runtime("MMFCanvas", "CRBIOS/cyborgresistence/CRBIOS.cch");
+		    new Runtime("MMFCanvas", "CRBIOS/assets/CRBIOS.cch");
 	    }
         // RUNTIMESTARTEND
     </script>
