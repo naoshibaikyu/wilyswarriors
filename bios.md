@@ -107,7 +107,7 @@ body {
 	{{ "
 		#Click on a character portrait to view their bio!
 		
-	| markdownify }}	
+	"| markdownify }}	
     </div>
 	
 	
