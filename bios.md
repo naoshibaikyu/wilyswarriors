@@ -103,7 +103,10 @@ body {
 	<p></p><p></p>
 	
 	
-	<span class="span" id="content0" markdown="1">Click on a character portrait to view their bio!</span>
+	<span class="span" id="content0" markdown="1">
+	Click on a character portrait to view their **bio**!
+	
+	</span>
 	
 	
 	
