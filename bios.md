@@ -99,13 +99,13 @@ body {
 <script src="assets/js/scrollpage.js"></script>
 
 <body>
-<span class="col-md-3" markdown="1">
+<span class="col-md-3">
 	<p></p><p></p>
 	
 	
-	<div class="div" id="content0">
+	<div class="div" id="content0" markdown="1">
 	
-		#Click on a character portrait to view their bio!
+		Click on a character portrait to view their bio!
 		
 		
     </div>
