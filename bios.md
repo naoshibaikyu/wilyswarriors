@@ -101,8 +101,11 @@ body {
 <body>
 <span class="col-md-3">
 	<p></p><p></p>
-	<div class="div" id="content0">
-		Click on a character portrait to view their bio!
+	<div class="div" id="content0" markdown="1">
+	
+		#Click on a character portrait to view their bio!
+		
+		
     </div>
 	
 	
