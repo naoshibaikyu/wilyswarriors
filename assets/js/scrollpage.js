@@ -34,3 +34,9 @@ function show(id) {
     }
 
     window.onload = init;
+	
+	
+//At the start of the page, automatically executes a code.
+	window.onload = function(){
+		javascript:show('page0')
+};
