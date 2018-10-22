@@ -16,7 +16,7 @@ PlugShocked: Woah?! Where are we...
 
 ## Act 2 [](#act-2)
 
-GalaxyHappy: Oh, hey!! Looks like we're back and we have a new site!!
+GalaxyHappy: Oh, hey!! Looks like we're back and we have a new site!
 
 SplashAnnoyed: But our site doesn't even look 10% finished...
 
