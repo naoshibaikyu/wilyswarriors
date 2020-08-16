@@ -45,7 +45,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .dialogue img 
 {
     float: left;
-    border: 1px solid #BCD;
+    border: 48px solid transparent;
+	border-image: url(../assets/images/mugshots/border.png);
     margin-top: 24px;
     margin-bottom: 25px;
     margin-right: 25px;
