@@ -1,12 +1,6 @@
 <head>
 <style>
-body  {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  color: #FDB;
-  background: #100410;
-	}
-  
+
 .dialogue img {
     border: 1px solid #FFB070;
     background-color: #111; 
