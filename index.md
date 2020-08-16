@@ -1,10 +1,8 @@
 EpStart
 
-@LOCATION: bup
+!(http://wilyswarriors.holenet.info/pictures/bigbubbleman.gif)
 
-@EPNUM: 1
-
-%Hey, is this on?
+%Welcome to the Epilogues section! Read through our exhilarant exploits, our adventerous anecdotes, and our captivating, compelling cliffhangers! You won't want to take your eyes off the page, or miss a single minute of the action!
 
 EpFin
 
