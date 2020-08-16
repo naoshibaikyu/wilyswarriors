@@ -162,85 +162,41 @@ function pageTurn(sourceDiv)
 function getJsonData() {
 	return ({
 		"names": {
-//Cyborg Resistance
-	//Normal Form	
-			"concrete": {
-				"displayName": "Concritter",
-				"imagePathPrefix": "concrete"
+//Wily's Warriors
+			"quick": {
+				"displayName": "Quick Man",
+				"imagePathPrefix": "quick"
 			},
-			"magma": {
-				"displayName": "Magma Man",
-				"imagePathPrefix": "magma"
+			"heat": {
+				"displayName": "Heat Man",
+				"imagePathPrefix": "heat"
 			},
-			"honey": {
-				"displayName": "Honey Woman",
-				"imagePathPrefix": "honey"
+			"air": {
+				"displayName": "Air Man",
+				"imagePathPrefix": "air"
 			},
-			"galaxy": {
-				"displayName": "Galaxy Woman",
-				"imagePathPrefix": "galaxy"
+			"crash": {
+				"displayName": "Crash Man",
+				"imagePathPrefix": "crash"
 			},
-			"plug": {
-				"displayName": "Plug Man",
-				"imagePathPrefix": "plug"
+			"metal": {
+				"displayName": "Metal Man",
+				"imagePathPrefix": "metal"
 			},
-			"tornado": {
-				"displayName": "Tornado Man",
-				"imagePathPrefix": "tornado"
+			"wood": {
+				"displayName": "Wood Man",
+				"imagePathPrefix": "wood"
 			},
-			"fake": {
-				"displayName": "Fakette",
-				"imagePathPrefix": "fake"
+			"flash": {
+				"displayName": "Flash Man",
+				"imagePathPrefix": "flash"
 			},
-			"jewel": {
-				"displayName": "Jewel Woman",
-				"imagePathPrefix": "jewel"
-			},
-			"splash": {
-				"displayName": "Splash Man",
-				"imagePathPrefix": "splash"
-			},
-	//Human Forms
-			"arrietty": {
-				"displayName": "Arrietty",
-				"imagePathPrefix": "arrietty"
-			},
-			"molly": {
-				"displayName": "Molly",
-				"imagePathPrefix": "molly"
-			},
-			"silver": {
-				"displayName": "Silver Dime",
-				"imagePathPrefix": "silver"
-			},
-	//Universe 0
-			"magma0": {
-				"displayName": "Magma Man",
-				"imagePathPrefix": "classiccr/magma0"
-			},
-			"concrete0": {
-				"displayName": "Concrete Man",
-				"imagePathPrefix": "classiccr/concrete0"
-			},
-			"galaxy0": {
-				"displayName": "Galaxy Man",
-				"imagePathPrefix": "classiccr/galaxy0"
-			},
-			"hornet0": {
-				"displayName": "Hornet Man",
-				"imagePathPrefix": "classiccr/hornet0"
-			},
-			"plug0": {
-				"displayName": "Plug Man",
-				"imagePathPrefix": "classiccr/plug0"
+			"bubble": {
+				"displayName": "Bubble Man",
+				"imagePathPrefix": "bubble"
 			},
 			
 //Supporting Characters
-	//Narrator
-			"narrator": {
-				"displayName": "Narrator",
-				"imagePathPrefix": "narrator"
-			},
 	//Light and Co.
 			"light": {
 				"displayName": "Dr. Light",
@@ -252,99 +208,14 @@ function getJsonData() {
 				"displayName": "Dr. Wily",
 				"imagePathPrefix": "wilycrew/wily"
 			},
-//Other Teams
-	//Seven Mercenaries
-			"quint": {
-				"displayName": "Quint",
-				"imagePathPrefix": "7mercs/quint"
+			"bass": {
+				"displayName": "Bass",
+				"imagePathPrefix": "wilycrew/bass"
 			},
-//Seasonal Epilogues
-	//Halloween Special
-			"witcharrietty": {
-				"displayName": "Arrietty",
-				"imagePathPrefix": "seasonal/witcharri"
+			"whiz": {
+				"displayName": "Mr. Whiz",
+				"imagePathPrefix": "wilycrew/whiz"
 			},
-			"ulalamolly": {
-				"displayName": "Molly",
-				"imagePathPrefix": "seasonal/ulalamolly"
-			},
-			"onisilver": {
-				"displayName": "Silver Dime",
-				"imagePathPrefix": "seasonal/onisilver"
-			},
-			"shademan": {
-				"displayName": "Shade Man",
-				"imagePathPrefix": "wilycrew/shade"
-			},
-			"spookyghost": {
-				"displayName": "GHOST",
-				"imagePathPrefix": "seasonal/ghost"
-			},
-			"astrozombieg": {
-				"displayName": "Astro Zombieg",
-				"imagePathPrefix": "seasonal/zombieg"
-			},
-			"astrozombiegs": {
-				"displayName": "A group of Astro Zombiegs",
-				"imagePathPrefix": "seasonal/zombieg"
-			},
-			"gilliamknight": {
-				"displayName": "Gilliam Knight",
-				"imagePathPrefix": "seasonal/gknight"
-			},
-			"gilliamknightwolf": {
-				"displayName": "Gilliam Knight (Wolf Form)",
-				"imagePathPrefix": "seasonal/gknightwolf"
-			},
-			"ragger": {
-				"displayName": "Armor's Helmet",
-				"imagePathPrefix": "seasonal/ragger"
-			},
-			"cyorown": {
-				"displayName": "Cyorown",
-				"imagePathPrefix": "seasonal/cyorown"
-			},
-			"battonm48": {
-				"displayName": "Batton M48",
-				"imagePathPrefix": "seasonal/battonm48"
-			},
-			"vanpookin": {
-				"displayName": "Van Pookin",
-				"imagePathPrefix": "seasonal/vanpookin"
-			},
-	//Christmas Special
-			"ghostpast": {
-				"displayName": "Ghost of Christmas Past",
-				"imagePathPrefix": "seasonal/ghostpast"
-			},
-			"ghostpresent": {
-				"displayName": "Ghost of Christmas Present",
-				"imagePathPrefix": "seasonal/ghostpresent"
-			},
-			"ghostfuture": {
-				"displayName": "Ghost of Christmas Future",
-				"imagePathPrefix": "seasonal/ghostfuture"
-			},
-			"pasthornet": {
-				"displayName": "Hornet Man (Past)",
-				"imagePathPrefix": "seasonal/pasthornet"
-			},
-			"futurehornet": {
-				"displayName": "Hornet Man (Future)",
-				"imagePathPrefix": "seasonal/futurehornet"
-			},
-			"chill": {
-				"displayName": "Chill Man",
-				"imagePathPrefix": "seasonal/chill"
-			},
-			"santa": {
-				"displayName": "Santa",
-				"imagePathPrefix": "seasonal/santa"
-			},
-			"elf": {
-				"displayName": "Elf",
-				"imagePathPrefix": "seasonal/elf"
-			}
 		},
 		"emotes": [
 			"neutral",
