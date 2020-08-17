@@ -45,15 +45,12 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .dialogue img 
 {
     float: left;
-    border: 48px solid transparent;
-	border-image: url(../assets/images/mugshots/border.png);
+	background-image: url(../images/mugshots/border.png);
     margin-top: 24px;
     margin-bottom: 25px;
     margin-right: 25px;
     margin-left: 25px;
-    padding: 1px;
-    background-color: #111; 
-	border-radius: 2px;
+    padding: 8px;
 }
 
 .dialogue p
