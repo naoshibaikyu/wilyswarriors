@@ -16,7 +16,7 @@ img#double
 }
 
 body  {
-  color: #600;
+  color: #FFF;
 	}
 
 
@@ -56,12 +56,11 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .dialogue p
 {  
-    border-radius: 12px;
+    font-size: 15px;
     background: #0070E8;
-    margin-bottom: 12px;
+	padding-top: 2px;
     padding-left: 8px;
     padding-bottom: 8px;
-    width: 98%;
     height: 50%;
     word-wrap: break-word;
     min-height: 96px;
@@ -70,14 +69,13 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .dialogue profilename
 { 
     color: #FFF;
-    text-shadow: black -2px 1px;
+    text-shadow: black -2px 2px;
     font-family: 'Mega Man 9';
-    font-size: 50%;
+    font-size: 100%;
     padding-left: 4px;
     text-transform: uppercase;
     float: left;
     margin-left: -4px;
-    margin-top: 6px;
     word-break: break-word;
 }
 
