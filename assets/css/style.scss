@@ -296,8 +296,7 @@ margin: auto;
 
 #mbmcpebul_table li a {
   line-height: 32px;
-  font-size: 16px;
-  font-family: Verdana,sans-serif;
+  font-family: 'Mega Man 9';
   text-decoration: none;
   color: #FFFFFF;
   font-style: normal;
@@ -306,12 +305,12 @@ margin: auto;
   cursor: pointer;
   white-space: nowrap;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  border: #DEF solid 2px;
+  border: #F8C4D8 solid 2px;
 }
 
 #mbmcpebul_table li div.buttonbg {
   height: 32px;
-  width: 112px;
+  width: 120px;
   line-height: 0;
   background-color: #000000;
   border-style: solid;
@@ -325,7 +324,7 @@ margin: auto;
 
 #mbmcpebul_table li:hover div.buttonbg a, #mbmcpebul_table li.expanded a.topitem, #mbmcpebul_table li.active a.topitem,
 #mbmcpebul_table li.itemhot a.topitem, #mbmcpebul_table li a:hover {
-  color: #27D6ED;
+  color: #F8BC00;
   font-style: normal;
   font-weight: normal;
   text-decoration: none;
