@@ -237,6 +237,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 /* Created with Easy CSS Menu */
 
 #mbmcpebul_wrapper {
+  background-image: url(../images/misc/wwbannerbg.png);
   padding: 0;
   border-style: solid;
   border-color: #383939;
@@ -252,8 +253,6 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 #mbmcpebul_wrapper img {
   text-align: center;
-  margin-top: 4px;
-  margin-bottom: 4px;
 }
 
 #mbmcpebul_wrapper.quirks {
