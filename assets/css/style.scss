@@ -45,7 +45,6 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 {  
   margin: auto;
   max-width: 1280px;
-  background-image: url(http://wilyswarriors.holenet.info/ww_table2_bg.gif);
 	
 }
 
@@ -126,22 +125,23 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .epnum
 { 
-  font-size: 14px;
+  background-image: url(../images/misc/wwbannerbg.png);
+  font-size: 150%;
   text-align: center;
-  text-shadow: -2px 1px #234;
-  color: #BCD;
-  width: 98%;
+  text-shadow: -3px 3px #000;
+  color: #FFF;
+  font-family: 'Mega Man 9';
   text-transform: uppercase;
   height: 22px;
 }
 
 .eptitle p
 { 
+  background-image: url(../images/misc/wwbannerbg.png);
   font-size: 100%;
   text-align: center;
-  text-shadow: -3px 2px #234;
-  color: #DEF;
-  width: 98%;
+  text-shadow: -2px 2px #000;
+  color: #FFF;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
   height: 24px;
@@ -149,22 +149,23 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .author p
 { 
-  font-size: 12px;
+  background-image: url(../images/misc/wwbannerbg.png);
+  font-size: 50%;
   text-align: center;
-  text-shadow: -2px 1px #234;
-  color: #BCD;
-  width: 98%;
+  text-shadow: -1px 1px #000;
+  color: #FFF;
+  font-family: 'Mega Man 9';
 }
 
 
 .actnum
 { 
+  background-image: url(../images/misc/wwbannerbg.png);
   font-size: 200%;
   text-align: center;
-  text-shadow: -4px 3px #234;
-  color: #CDE;
-  width: 98%;
-  font-family: 'Mega Man 6 Stats';
+  text-shadow: -4px 4px #000;
+  color: #FFF;
+  font-family: 'Mega Man 9';
 }
 
 
